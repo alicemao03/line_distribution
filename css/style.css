@@ -1,0 +1,56 @@
+/**** ADD YOUR STYLES ****/
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.overall-song-distribution {
+    /* background-color: rgba(255, 255, 255, 0.3); */
+    border: white 2px solid;
+}
+
+.big-dot {
+    font-size: 2em;       /* Adjust this to make it bigger */
+    font-weight: bold;      /* Makes it stand out more */
+    vertical-align: middle; /* Ensures it stays centered between the words */
+    /* padding: 0 5px;         */
+}
+
+#all-songs-container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tooltips {
+    height: auto;
+    text-align: left;
+}
+
+
+.lyric-line.dimmed {
+    opacity: 0.45;
+    transition: opacity 0.4s ease;
+}
+
+.lyric-line.highlighted {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-left: 2px solid;
+    padding-left: 5px;
+}
+
+.chart-fragment.dimmed {
+    opacity: 0.45;
+    transition: opacity 0.4s ease;
+}
+
+.sticky-wrapper {
+    position: -webkit-sticky;
+    /* For Safari */
+    position: sticky;
+    top: 10%;
+    /* Distance from the top of the window when sticking */
+    height: fit-content;
+    align-self: flex-start;
+    /* Prevents the div from stretching to full lyric height */
+}
