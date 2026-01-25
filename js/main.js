@@ -17,7 +17,7 @@ const colorScale = d3.scaleOrdinal()
 
 const margin = { top: 20, right: 40, bottom: 20, left: 40 };
 
-d3.json('./json/meta_data.json').then(function (data) {
+d3.json('json/meta_data.json').then(function (data) {
     const container = d3.select("#all-songs-container");
     const width = container.node().clientWidth;
     const height = 120 - margin.top - margin.bottom;

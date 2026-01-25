@@ -33,7 +33,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const song = urlParams.get('song')
 console.log(song.toLowerCase().replaceAll(' ', '_'));
 
-d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').then(function (data) {
+d3.json('../json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').then(function (data) {
 
     data = data['syncedLyrics']
     console.log(data)
