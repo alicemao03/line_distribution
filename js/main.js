@@ -42,7 +42,7 @@ d3.json('json/meta_data.json').then(function (data) {
     songInfo.append('h2')
         .attr('class', 'song-title')
         .append('a')
-        .attr('href', d => `/single_song.html?song=${d.trackName}`)
+        .attr('href', d => `single_song.html?song=${d.trackName}`)
         // .attr('target', '_blank') 
         .style('color', 'inherit')
         .text(d => d.trackName)
