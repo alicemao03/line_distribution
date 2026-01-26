@@ -43,14 +43,13 @@ d3.json('json/meta_data.json').then(function (data) {
         .attr('class', 'song-title')
         .append('a')
         .attr('href', d => `single_song.html?song=${d.trackName}`)
-        // .attr('target', '_blank') 
         .style('color', 'inherit')
         .text(d => d.trackName)
 
     songInfo.append('p')
         .attr('class', 'album-title')
         .html(d => {
-            return `${d.albumName} <span class="big-dot">&middot;</span> ${d.unit} <span class="big-dot">&middot;</span> ${d.source}`;
+            return `${d.albumName} &#8226; ${d.unit} &#8226; ${d.source}`;
         });
 
     tooltips.append("div")

@@ -10,17 +10,19 @@ body {
     border: white 2px solid;
 }
 
-.big-dot {
-    font-size: 2em;       /* Adjust this to make it bigger */
-    font-weight: bold;      /* Makes it stand out more */
-    vertical-align: middle; /* Ensures it stays centered between the words */
-    /* padding: 0 5px;         */
+.home_link {
+    color: white;
 }
 
-#all-songs-container{
+.process_book {
+    margin: 3% 20%;
+}
+
+#all-songs-container {
     margin-left: 10%;
     margin-right: 10%;
 }
+
 .tooltips {
     height: auto;
     text-align: left;
@@ -46,11 +48,8 @@ body {
 
 .sticky-wrapper {
     position: -webkit-sticky;
-    /* For Safari */
     position: sticky;
-    top: 10%;
-    /* Distance from the top of the window when sticking */
+    top: 20%;
     height: fit-content;
     align-self: flex-start;
-    /* Prevents the div from stretching to full lyric height */
 }

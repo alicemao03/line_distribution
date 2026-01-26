@@ -144,7 +144,7 @@ def get_song_info(song, artist, album):
     mv_synced = []
     if lyrics_success is not FileNotFoundError:
         mv_synced = clean_official_lyrics(lyrics_success)
-        meta_data['source'] = 'official'
+        meta_data['source'] = 'MV'
 
         mv_start = time_to_sec(mv_synced[0]['start'])
         lib_start = time_to_sec(meta_data['syncedLyrics'][0]['start'])

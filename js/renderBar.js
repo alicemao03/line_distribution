@@ -3,7 +3,7 @@ export function renderBar(svg, svt_line_timing, width, height, margin, color) {
 
     const memberNames = svt_line_timing.map(item => item.member)
     console.log("NAMES:", memberNames)
-    
+
     svg.attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
 
     const mainGroup = svg.append("g")
@@ -29,7 +29,10 @@ export function renderBar(svg, svt_line_timing, width, height, margin, color) {
 
     const yAxisGroup = mainGroup.append("g")
         .attr("class", "y-axis")
-        .call(d3.axisLeft(y).ticks(10))
+        .call(d3.axisLeft(y)
+            .ticks(10)
+            .tickFormat(d => d + "%")
+        );
 
     yAxisGroup.selectAll("text")
         .style("fill", "white")
