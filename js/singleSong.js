@@ -24,13 +24,10 @@ d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').the
     const memberNames = Object.values(data['color_key']);
     const memberColors = Object.keys(data['color_key']).map(value => '#' + value)
 
-
-    console.log(memberNames, memberColors)
     const color = d3.scaleOrdinal()
         .domain(memberNames)
         .range(memberColors)
 
-    console.log(color('Dk'))
 
     data = data['syncedLyrics']
 

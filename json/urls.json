@@ -1,23 +1,13 @@
 [
     {
-        "name": "Rock with you",
-        "url": "https://colorcodedlyrics.com/2021/10/21/seventeen-rock-with-you/",
-        "album": "SEVENTEEN 9th Mini Album 'Attacca' - SEVENTEEN"
-    },
-    {
-        "name": "VERY NICE",
-        "url": "https://colorcodedlyrics.com/2016/07/03/seventeen-very-nice-aju-nice/",
-        "album": "SEVENTEEN 1st Mini Album '17 CARAT' - SEVENTEEN"
-    },
-    {
         "name": "Shining Diamond",
         "url": "https://colorcodedlyrics.com/2015/06/01/seventeen-sebeuntin-shining-diamond/",
         "album": "SEVENTEEN 1st Mini Album '17 CARAT' - SEVENTEEN"
     },
     {
-        "name": "Super",
-        "url": "https://colorcodedlyrics.com/2023/04/24/seventeen-super-sonogong/",
-        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
+        "name": "VERY NICE",
+        "url": "https://colorcodedlyrics.com/2016/07/03/seventeen-very-nice-aju-nice/",
+        "album": "SEVENTEEN 1st Mini Album '17 CARAT' - SEVENTEEN"
     },
     {
         "name": "HOT",
@@ -30,19 +20,49 @@
         "album": "SEVENTEEN 4th Album Repackage 'SECTOR 17' - SEVENTEEN"
     },
     {
-        "name": "To you",
-        "url": "https://colorcodedlyrics.com/2021/10/23/seventeen-to-you-soyongdoli/",
-        "album": "SEVENTEEN 9th Mini Album 'Attacca' - SEVENTEEN"
-    },
-    {
         "name": "_WORLD",
         "url": "https://colorcodedlyrics.com/2022/07/18/seventeen-_world/",
         "album": "SEVENTEEN 4th Album Repackage 'SECTOR 17' - SEVENTEEN"
     },
     {
-        "name": "Spell",
-        "url": "https://colorcodedlyrics.com/2024/05/02/seventeen-spell/",
-        "album": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE' - SEVENTEEN"
+        "name": "To you",
+        "url": "https://colorcodedlyrics.com/2021/10/23/seventeen-to-you-soyongdoli/",
+        "album": "SEVENTEEN 9th Mini Album 'Attacca' - SEVENTEEN"
+    },
+    {
+        "name": "Rock with you",
+        "url": "https://colorcodedlyrics.com/2021/10/21/seventeen-rock-with-you/",
+        "album": "SEVENTEEN 9th Mini Album 'Attacca' - SEVENTEEN"
+    },
+    {
+        "name": "F*ck My Life",
+        "url": "https://colorcodedlyrics.com/2023/04/25/seventeen-f-ck-my-life/",
+        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
+    },
+    {
+        "name": "Super",
+        "url": "https://colorcodedlyrics.com/2023/04/24/seventeen-super-sonogong/",
+        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
+    },
+    {
+        "name": "Fire",
+        "url": "https://colorcodedlyrics.com/2023/04/26/seventeen-fire/",
+        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
+    },
+    {
+        "name": "I Don't Understand But I Luv U",
+        "url": "https://colorcodedlyrics.com/2023/04/25/seventeen-i-don-t-understand-but-i-luv-u/",
+        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
+    },
+    {
+        "name": "Dust",
+        "url": "https://colorcodedlyrics.com/2023/04/24/seventeen-dust-meonji/",
+        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
+    },
+    {
+        "name": "April shower",
+        "url": "https://colorcodedlyrics.com/2023/04/27/seventeen-april-shower/",
+        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
     },
     {
         "name": "God of Music",
@@ -50,24 +70,19 @@
         "album": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN' - SEVENTEEN"
     },
     {
+        "name": "Spell",
+        "url": "https://colorcodedlyrics.com/2024/05/02/seventeen-spell/",
+        "album": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE' - SEVENTEEN"
+    },
+    {
         "name": "Cheers to youth",
         "url": "https://colorcodedlyrics.com/2024/05/02/seventeen-cheers-to-youth-cheongchunchanga/",
         "album": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE' - SEVENTEEN"
     },
     {
-        "name": "Bad Influence",
-        "url": "https://colorcodedlyrics.com/2025/05/26/seventeen-bad-influence-prod-pharrell-williams/",
-        "album": "SEVENTEEN 5th Album 'HAPPY BURSTDAY' - SEVENTEEN"
-    },
-    {
         "name": "THANKS",
         "url": "https://colorcodedlyrics.com/2018/02/05/seventeen-thanks-gomabda/",
         "album": "SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT'"
-    },
-    {
-        "name": "F*ck My Life",
-        "url": "https://colorcodedlyrics.com/2023/04/25/seventeen-f-ck-my-life/",
-        "album": "SEVENTEEN 10th Mini Album 'FML' - EP - SEVENTEEN"
     },
     {
         "name": "HIGHLIGHT",
@@ -80,11 +95,6 @@
         "album": "Heng:garæ - SEVENTEEN"
     },
     {
-        "name": "LOVE, MONEY, FAME",
-        "url": "https://colorcodedlyrics.com/2024/10/14/seventeen-love-money-fame-feat-dj-khaled/",
-        "album": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS' - SEVENTEEN"
-    },
-    {
         "name": "Darl+ing",
         "url": "https://colorcodedlyrics.com/2022/04/14/seventeen-darl-ing/",
         "album": "SEVENTEEN 4th Album 'Face the Sun' - SEVENTEEN"
@@ -93,5 +103,20 @@
         "name": "LALALI",
         "url": " https://colorcodedlyrics.com/2024/05/02/seventeen-lalali/",
         "album": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE' - SEVENTEEN"
+    },
+    {
+        "name": "THUNDER",
+        "url": "https://colorcodedlyrics.com/2025/05/26/seventeen-thunder/",
+        "album": "SEVENTEEN 5th Album 'HAPPY BURSTDAY' - SEVENTEEN"
+    },
+    {
+        "name": "Bad Influence",
+        "url": "https://colorcodedlyrics.com/2025/05/26/seventeen-bad-influence-prod-pharrell-williams/",
+        "album": "SEVENTEEN 5th Album 'HAPPY BURSTDAY' - SEVENTEEN"
+    },
+    {
+        "name": "LOVE, MONEY, FAME",
+        "url": "https://colorcodedlyrics.com/2024/10/14/seventeen-love-money-fame-feat-dj-khaled/",
+        "album": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS' - SEVENTEEN"
     }
 ]

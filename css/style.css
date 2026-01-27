@@ -10,6 +10,25 @@ body {
     border: white 2px solid;
 }
 
+.album-section {
+    display: flex;
+    /* gap: 40px; */
+    position: relative;
+    justify-content: center;
+}
+
+.album-name {
+    color: white;
+    opacity: 80%;
+    font-size: 3vw;
+    font-weight: bold;
+    text-align: end;
+    line-height: 1em;
+    padding-right: 3%;
+    width: 27%;
+
+}
+
 .home_link {
     color: white;
 }
@@ -19,8 +38,9 @@ body {
 }
 
 #all-songs-container {
-    margin-left: 20%;
-    margin-right: 20%;
+    padding: 0%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .tooltips {
