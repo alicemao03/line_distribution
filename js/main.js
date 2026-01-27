@@ -1,28 +1,27 @@
-const memberNames = ["S.Coups", "Jeonghan", "Joshua",
-    "Jun", "Hoshi", "Wonwoo", "Woozi",
-    "THE8", "The8", "Mingyu", "Dk",
-    "Seungkwan", "Vernon", "Dino",
-    "adlibs", "ALL"]
+// const memberNames = ["S.Coups", "Jeonghan", "Joshua",
+//     "Jun", "Hoshi", "Wonwoo", "Woozi",
+//     "THE8", "The8", "Mingyu", "Dk",
+//     "Seungkwan", "Vernon", "Dino",
+//     "adlibs", "ALL"]
 
-const colorScale = d3.scaleOrdinal()
-    .domain(memberNames)
-    .range([
-        '#e32636', '#e3268bff', '#df73ff',
-        '#949397ff', "#ff7423ff", "#975fbfff", "#D6EB6A",
-        "#3ba042ff", "#3ba042ff", '#14beb0ff', "#87CEEB",
-        "#ffa941ff", "#313abfff", '#9b6a55ff',
-        "#d0e4f5", "#fddbdb"
-    ]);
+// const colorScale = d3.scaleOrdinal()
+//     .domain(memberNames)
+//     .range([
+//         '#e32636', '#e3268bff', '#df73ff',
+//         '#949397ff', "#ff7423ff", "#975fbfff", "#D6EB6A",
+//         "#3ba042ff", "#3ba042ff", '#14beb0ff', "#87CEEB",
+//         "#ffa941ff", "#313abfff", '#9b6a55ff',
+//         "#d0e4f5", "#fddbdb"
+//     ]);
 
 
 const margin = { top: 20, right: 40, bottom: 20, left: 40 };
 
 d3.json('json/meta_data.json').then(function (data) {
 
-    // data = [data[0]]
+    // data = [data]
     console.log(data)
     const container = d3.select("#all-songs-container");
-    console.log(container.node().offsetWidth)
     const width = container.node().offsetWidth - 4;
     const height = 120 - margin.top - margin.bottom;
 
@@ -46,7 +45,7 @@ d3.json('json/meta_data.json').then(function (data) {
     songInfo.append('h2')
         .attr('class', 'song-title')
         .append('a')
-        .attr('href', d => `single_song.html?song=${d.trackName}`)
+        .attr('href', d => `single_song.html?song=${d.name}`)
         .style('color', 'inherit')
         .text(d => d.trackName)
 
@@ -73,8 +72,14 @@ d3.json('json/meta_data.json').then(function (data) {
     console.log("w", width)
     svgs.each(function (data) {
         const currentSvg = d3.select(this);
-        console.log("CURRENT SONG:", data, data.duration)
-        console.log(width)
+        console.log("CURRENT SONG:", data)
+
+        const memberNames = Object.values(data['color_key']);
+        const memberColors = Object.keys(data['color_key']).map(value => '#' + value)
+
+        const colorScale = d3.scaleOrdinal()
+            .domain(memberNames)
+            .range(memberColors)
 
         const xScale = d3.scaleLinear()
             .domain([0, data.duration])
@@ -86,17 +91,14 @@ d3.json('json/meta_data.json').then(function (data) {
             .append("rect")
             .attr("class", "lyric-rect")
             .attr("x", d => xScale(timeToSeconds(d.start)))
-            .attr("width", d => { 
-                console.log(timeToSeconds(d.end), timeToSeconds(d.start))
-                console.log(xScale(timeToSeconds(d.end)),  xScale(timeToSeconds(d.start)))
-                return xScale(timeToSeconds(d.end)) - xScale(timeToSeconds(d.start)) })
+            .attr("width", d => xScale(timeToSeconds(d.end)) - xScale(timeToSeconds(d.start)))
             .attr("y", 0)
             .attr("height", height)
             .attr("fill", d => {
                 if (d.member.length == 1) {
                     return colorScale(d.member[0])
                 } else {
-                    return getGradientId(d.member, currentSvg)
+                    return getGradientId(d.member, currentSvg, colorScale)
                 }
             })
             .on("mouseover", function (event, d) {
@@ -118,12 +120,12 @@ d3.json('json/meta_data.json').then(function (data) {
 function timeToSeconds(timeStr) {
     // console.log(timeStr)
     const [minutes, seconds, tenths] = timeStr.split(':');
-    console.log(timeStr, minutes, seconds, tenths)
+    // console.log(timeStr, minutes, seconds, tenths)
     return (parseInt(minutes) * 60) + parseInt(seconds) + parseFloat(tenths) / 100;
 }
 
-function getGradientId(members, svg) {
-    console.log(members)
+function getGradientId(members, svg, colorScale) {
+    // console.log(members)
     const id = "grad-" + members.map(m => m.replaceAll(' ', '')).sort().join('-')
 
     let defs = svg.select("defs");

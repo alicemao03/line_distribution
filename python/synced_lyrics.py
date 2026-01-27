@@ -140,7 +140,8 @@ def get_song_info(song, artist, album):
     meta_data['syncedLyrics'] = clean_lrclib_lyrics(meta_data['syncedLyrics'],  meta_data['duration'])
     meta_data['source'] = 'lrclib'
 
-    meta_data['name'] = re.sub(r'[*+&,]', '', meta_data['name'])
+    meta_data['name'] = re.sub(r'[*+&,]', '', song).replace(' ','')
+    meta_data['trackName'] = song
 
     mv_synced = []
     if lyrics_success is not FileNotFoundError:

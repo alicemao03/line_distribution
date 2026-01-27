@@ -5,6 +5,8 @@
 2
 00:00:01,958 --> 00:00:07,374
 Left and right
+Left and right
+Left and right
 
 3
 00:00:07,374 --> 00:00:08,208
@@ -65,6 +67,8 @@ Yeh it goes like
 15
 00:00:46,833 --> 00:00:51,458
 Left and right
+Left and right
+Left and right
 
 16
 00:00:51,458 --> 00:00:53,249
@@ -72,6 +76,8 @@ Rip it Rip it
 
 17
 00:00:53,249 --> 00:00:57,749
+Left and right
+Left and right
 Left and right
 
 18
@@ -92,6 +98,8 @@ Yeh it goes like
 
 22
 00:01:05,624 --> 00:01:10,458
+Left and right
+Left and right
 Left and right
 
 23
@@ -156,6 +164,8 @@ Yeh it goes like
 36
 00:01:50,624 --> 00:01:55,458
 Left and right
+Left and right
+Left and right
 
 37
 00:01:55,458 --> 00:01:56,916
@@ -163,6 +173,8 @@ Rip it Rip it
 
 38
 00:01:56,916 --> 00:02:01,708
+Left and right
+Left and right
 Left and right
 
 39
@@ -183,6 +195,8 @@ Yeh it goes like
 
 43
 00:02:09,833 --> 00:02:14,458
+Left and right
+Left and right
 Left and right
 
 44
@@ -223,6 +237,8 @@ So uh
 52
 00:02:36,958 --> 00:02:41,666
 Left and right
+Left and right
+Left and right
 
 53
 00:02:41,666 --> 00:02:43,708
@@ -230,6 +246,8 @@ Rip it Rip it
 
 54
 00:02:43,708 --> 00:02:48,374
+Left and right
+Left and right
 Left and right
 
 55
@@ -250,6 +268,8 @@ Yeh it goes like
 
 59
 00:02:56,333 --> 00:03:00,916
+Left and right
+Left and right
 Left and right
 
 60

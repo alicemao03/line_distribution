@@ -560,6 +560,12 @@
         }
     ],
     "source": "MV",
+    "color_key": {
+        "bede0d": "Jun",
+        "c04737": "Hoshi",
+        "a1dad7": "The8",
+        "d962b6": "Dino"
+    },
     "unit": "Performance",
     "unmerged_line_color": [],
     "unmerged_line_synced": []

@@ -2,7 +2,7 @@ export function renderBar(svg, svt_line_timing, width, height, margin, color) {
     // Determine the series that need to be stacked.
 
     const memberNames = svt_line_timing.map(item => item.member)
-    console.log("NAMES:", memberNames)
+    console.log("NAMES:", svt_line_timing)
 
     svg.attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
 

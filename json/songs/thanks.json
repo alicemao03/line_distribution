@@ -42,84 +42,31 @@
             "lyric": "\uadf8\ub54c \uadf8\ub54c"
         },
         {
-            "start": "00:50:54",
-            "end": "00:53:74",
-            "delta": "00:01:78",
-            "section": 3,
-            "line": 2,
-            "member": [
-                "Seungkwan"
-            ],
-            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc744 \ub0b4\uac00"
-        },
-        {
-            "start": "01:03:32",
-            "end": "01:04:80",
-            "delta": "00:01:49",
-            "section": 5,
-            "line": 0,
-            "member": [
-                "Joshua"
-            ],
-            "lyric": "\uace0\ub9d9\ub2e4"
-        },
-        {
-            "start": "01:04:80",
-            "end": "01:06:29",
-            "delta": "00:01:49",
-            "section": 5,
-            "line": 2,
-            "member": [
-                "Joshua"
-            ],
-            "lyric": "\uace0\ub9d9\ub2e4\u00a0"
-        },
-        {
-            "start": "01:39:26",
-            "end": "01:42:39",
-            "delta": "00:00:89",
-            "section": 9,
-            "line": 0,
-            "member": [
-                "Dk"
-            ],
-            "lyric": "\uace0\ub9d9\ub2e4\uace0 \ud558\uc9c0 \ubabb\ud588\ub358 \ub098"
-        },
-        {
-            "start": "02:19:34",
-            "end": "02:24:52",
-            "delta": "00:05:18",
-            "section": 12,
-            "line": 0,
-            "member": [
-                "Dk"
-            ],
-            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
-        },
-        {
-            "start": "02:25:67",
-            "end": "02:31:24",
-            "delta": "00:05:57",
-            "section": 12,
-            "line": 1,
-            "member": [
-                "Dk"
-            ],
-            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
-        }
-    ],
-    "source": "MV",
-    "unit": "OT13",
-    "unmerged_line_color": [
-        {
+            "start": "00:25:09",
+            "end": "00:28:23",
+            "delta": "00:01:18",
             "section": 1,
             "line": 0,
             "member": [
                 "Jeonghan"
             ],
-            "lyric": "\uc5b4\ub838\ub358 \ub0b4 \ub9d8\uc740 \uc9d3\uad82\uc740 \uc7a5\ub09c\uc774 \ub2e4\uc600\ub098 \ubd10"
+            "lyric": "\uc5b4\ub838\ub358 \ub0b4 \ub9d8\uc740"
         },
         {
+            "start": "00:28:23",
+            "end": "00:31:23",
+            "delta": "00:03:00",
+            "section": 1,
+            "line": 0,
+            "member": [
+                "Jeonghan"
+            ],
+            "lyric": "\uc9d3\uad82\uc740\uc7a5\ub09c\uc774\ub2e4\uc600\ub098\ubd10"
+        },
+        {
+            "start": "00:31:23",
+            "end": "00:34:78",
+            "delta": "00:03:55",
             "section": 1,
             "line": 1,
             "member": [
@@ -128,6 +75,9 @@
             "lyric": "\uc6c3\ub294 \ub108\ub97c \ubcf4\ub294 \ub0b4 \uae30\ubd84\uc774 \ubb54\uc9c0"
         },
         {
+            "start": "00:34:78",
+            "end": "00:38:33",
+            "delta": "00:03:55",
             "section": 1,
             "line": 2,
             "member": [
@@ -136,6 +86,9 @@
             "lyric": "\ubc30\uc6b4 \uc801 \uc5c6\uc5b4\uc11c"
         },
         {
+            "start": "00:38:33",
+            "end": "00:41:51",
+            "delta": "00:03:18",
             "section": 2,
             "line": 0,
             "member": [
@@ -144,6 +97,9 @@
             "lyric": "\ud45c\ud604\uc744 \ubabb \ud588\uc5b4 \ub0b4 \ub9d8\uc774 \uc11c\ud234\ub7ec\uc11c"
         },
         {
+            "start": "00:41:51",
+            "end": "00:43:78",
+            "delta": "00:02:28",
             "section": 2,
             "line": 1,
             "member": [
@@ -152,6 +108,9 @@
             "lyric": "\ub108\uc758 \ub0b4\uc77c\uc774 \ub418\uace0 \uc2f6\uc5b4\uc11c \uc624\ub298\uc744"
         },
         {
+            "start": "00:43:78",
+            "end": "00:44:49",
+            "delta": "00:00:70",
             "section": 2,
             "line": 2,
             "member": [
@@ -160,6 +119,9 @@
             "lyric": "\uc0b4\uc544\uc654\uc5b4"
         },
         {
+            "start": "00:44:49",
+            "end": "00:47:62",
+            "delta": "00:03:13",
             "section": 2,
             "line": 3,
             "member": [
@@ -169,6 +131,9 @@
             "lyric": "\u00a0\ub108\ub97c \ucc98\uc74c \ubcf8 \ub0a0 \uadf8\ub54c\ubd80\ud130 \uc9c0\uae08\uae4c\uc9c0"
         },
         {
+            "start": "00:47:62",
+            "end": "00:50:54",
+            "delta": "00:02:92",
             "section": 2,
             "line": 4,
             "member": [
@@ -177,6 +142,9 @@
             "lyric": "\ub0b4 \ub9d8\uc18d\uc5d0\ub294 \ub108\ub9cc \uc788\uc5b4"
         },
         {
+            "start": "00:50:54",
+            "end": "00:53:74",
+            "delta": "00:03:20",
             "section": 3,
             "line": 0,
             "member": [
@@ -185,6 +153,9 @@
             "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc744 \ub0b4\uac00"
         },
         {
+            "start": "00:53:74",
+            "end": "00:56:92",
+            "delta": "00:03:18",
             "section": 3,
             "line": 1,
             "member": [
@@ -193,22 +164,42 @@
             "lyric": " \uc774\uc81c\uc11c\uc57c \uaebc\ub0b4 \ubcf4\uc9c0\ub9cc"
         },
         {
+            "start": "00:56:92",
+            "end": "01:03:32",
+            "delta": "00:06:40",
+            "section": 3,
+            "line": 2,
+            "member": [
+                "Seungkwan"
+            ],
+            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc774 \uc804\ud574\ub294 \uc9c8\uae4c\uc694 Yeh"
+        },
+        {
+            "start": "01:03:32",
+            "end": "01:06:29",
+            "delta": "00:01:27",
             "section": 4,
             "line": 0,
             "member": [
                 "Dk"
             ],
-            "lyric": "\uace0\ub9d9\ub2e4 \uace0\ub9d9\ub2e4 \ub610 \uace0\ub9d9\ub2e4 \ubfd0\uc774\uc9c0\ub9cc"
+            "lyric": "\uace0\ub9d9\ub2e4 \uace0\ub9d9\ub2e4"
         },
         {
+            "start": "01:06:29",
+            "end": "01:09:54",
+            "delta": "00:03:25",
             "section": 4,
             "line": 0,
             "member": [
                 "Dk"
             ],
-            "lyric": "\uace0\ub9d9\ub2e4 \uace0\ub9d9\ub2e4 \ub610 \uace0\ub9d9\ub2e4 \ubfd0\uc774\uc9c0\ub9cc"
+            "lyric": "\ub610\uace0\ub9d9\ub2e4\ubfd0\uc774\uc9c0\ub9cc"
         },
         {
+            "start": "01:09:54",
+            "end": "01:12:71",
+            "delta": "00:03:17",
             "section": 4,
             "line": 1,
             "member": [
@@ -217,6 +208,9 @@
             "lyric": "\uae30\ub2e4\ub9bc\uae4c\uc9c0 \uadf8\ub9ac\uc6c0\uae4c\uc9c0"
         },
         {
+            "start": "01:12:71",
+            "end": "01:15:34",
+            "delta": "00:02:63",
             "section": 4,
             "line": 2,
             "member": [
@@ -226,6 +220,53 @@
             "lyric": " \uc6b0\ub9ac \ucd94\uc5b5\uae4c\uc9c0"
         },
         {
+            "start": "01:15:34",
+            "end": "01:18:09",
+            "delta": "00:02:75",
+            "section": 5,
+            "line": 0,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "\uace0\ub9d9\ub2e4"
+        },
+        {
+            "start": "01:18:09",
+            "end": "01:20:84",
+            "delta": "00:02:75",
+            "section": 5,
+            "line": 1,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "yeh"
+        },
+        {
+            "start": "01:21:73",
+            "end": "01:24:40",
+            "delta": "00:02:67",
+            "section": 5,
+            "line": 2,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "\uace0\ub9d9\ub2e4\u00a0"
+        },
+        {
+            "start": "01:24:40",
+            "end": "01:27:08",
+            "delta": "00:02:67",
+            "section": 5,
+            "line": 3,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "yeh"
+        },
+        {
+            "start": "01:29:76",
+            "end": "01:32:88",
+            "delta": "00:03:12",
             "section": 6,
             "line": 0,
             "member": [
@@ -234,14 +275,9 @@
             "lyric": "\ub108\ubb34 \ud754\ud55c \ub9d0\uc774\ub77c \ub0b4 \ub9c8\uc74c\uc774 \ub2f4\uae38\uae4c"
         },
         {
-            "section": 6,
-            "line": 0,
-            "member": [
-                "Dino"
-            ],
-            "lyric": "\ub108\ubb34 \ud754\ud55c \ub9d0\uc774\ub77c \ub0b4 \ub9c8\uc74c\uc774 \ub2f4\uae38\uae4c"
-        },
-        {
+            "start": "01:32:88",
+            "end": "01:36:09",
+            "delta": "00:03:21",
             "section": 6,
             "line": 1,
             "member": [
@@ -250,6 +286,9 @@
             "lyric": " \uac71\uc815\ub3fc\uc11c \ud558\uc9c0 \ubabb\ud588\ub358 \ub9d0"
         },
         {
+            "start": "01:36:09",
+            "end": "01:39:26",
+            "delta": "00:03:17",
             "section": 6,
             "line": 2,
             "member": [
@@ -259,6 +298,9 @@
             "lyric": " \uace0\ub9d9\ub2e4\ub294 \ub9d0\ubcf4\ub2e4 \uc608\uc05c \ub9d0\uc744 \ucc3e\ub2e4\uac00"
         },
         {
+            "start": "01:39:26",
+            "end": "01:42:39",
+            "delta": "00:03:13",
             "section": 6,
             "line": 3,
             "member": [
@@ -268,6 +310,9 @@
             "lyric": " \uace0\ub9d9\ub2e4\uace0 \ud558\uc9c0 \ubabb\ud588\ub358 \ub098"
         },
         {
+            "start": "01:42:39",
+            "end": "01:43:91",
+            "delta": "00:01:52",
             "section": 7,
             "line": 0,
             "member": [
@@ -276,6 +321,9 @@
             "lyric": "\ud45c\ud604\uc744 \ubabb \ud588\uc5b4"
         },
         {
+            "start": "01:43:91",
+            "end": "01:45:52",
+            "delta": "00:01:61",
             "section": 7,
             "line": 1,
             "member": [
@@ -284,6 +332,9 @@
             "lyric": " \uc6a9\uae30\uac00 \ubd80\uc871\ud574\uc11c"
         },
         {
+            "start": "01:45:52",
+            "end": "01:48:47",
+            "delta": "00:02:95",
             "section": 7,
             "line": 2,
             "member": [
@@ -292,6 +343,9 @@
             "lyric": "\uc0ac\ub791\uc774\ub780 \ub9d0\uc744 \uc870\uae08\uc774\ub77c\ub3c4 \uc77c\ucc0d \uc54c\uc558\ub2e4\uba74"
         },
         {
+            "start": "01:48:47",
+            "end": "01:51:63",
+            "delta": "00:03:16",
             "section": 7,
             "line": 3,
             "member": [
@@ -301,6 +355,9 @@
             "lyric": "\u00a0\ub108\ub97c \ucc98\uc74c \ubcf8 \ub0a0 \uadf8\ub54c\ubd80\ud130 \uc9c0\uae08\uae4c\uc9c0"
         },
         {
+            "start": "01:51:63",
+            "end": "01:54:55",
+            "delta": "00:02:92",
             "section": 7,
             "line": 4,
             "member": [
@@ -309,6 +366,9 @@
             "lyric": "\ub0b4 \ub9d8\uc18d\uc5d0\ub294 \ub108\ub9cc \uc788\uc5b4"
         },
         {
+            "start": "01:54:55",
+            "end": "01:57:66",
+            "delta": "00:03:11",
             "section": 8,
             "line": 0,
             "member": [
@@ -317,6 +377,9 @@
             "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc744 \ub0b4\uac00"
         },
         {
+            "start": "01:57:66",
+            "end": "02:00:91",
+            "delta": "00:03:25",
             "section": 8,
             "line": 1,
             "member": [
@@ -325,22 +388,42 @@
             "lyric": " \uc774\uc81c\uc11c\uc57c \uaebc\ub0b4 \ubcf4\uc9c0\ub9cc"
         },
         {
+            "start": "02:00:91",
+            "end": "02:07:30",
+            "delta": "00:06:39",
             "section": 8,
             "line": 2,
             "member": [
                 "Seungkwan"
             ],
-            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc774 \uc804\ud574\ub294 \uc9c8\uae4c\uc694 yeah"
+            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc774 \uc804\ud574\ub294 \uc9c8\uae4c\uc694 Yeh"
         },
         {
+            "start": "02:07:30",
+            "end": "02:10:29",
+            "delta": "00:01:28",
             "section": 9,
             "line": 0,
             "member": [
                 "Dk"
             ],
-            "lyric": "\ub9d9\ub2e4\ub610\uace0\ub9d9\ub2e4\ubfd0\uc774\uc9c0\ub9cc"
+            "lyric": "\uace0\ub9d9\ub2e4 \uace0\ub9d9\ub2e4"
         },
         {
+            "start": "02:10:29",
+            "end": "02:13:53",
+            "delta": "00:03:24",
+            "section": 9,
+            "line": 0,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "\ub610\uace0\ub9d9\ub2e4\ubfd0\uc774\uc9c0\ub9cc"
+        },
+        {
+            "start": "02:13:53",
+            "end": "02:16:72",
+            "delta": "00:03:19",
             "section": 9,
             "line": 1,
             "member": [
@@ -349,6 +432,9 @@
             "lyric": "\uae30\ub2e4\ub9bc\uae4c\uc9c0 \uc0ac\ub791\uc774 \ubb54\uc9c0"
         },
         {
+            "start": "02:16:72",
+            "end": "02:19:34",
+            "delta": "00:02:62",
             "section": 9,
             "line": 2,
             "member": [
@@ -358,6 +444,9 @@
             "lyric": " \uc54c\ub824\uc900 \ub108\uc5d0\uac8c"
         },
         {
+            "start": "02:19:34",
+            "end": "02:21:93",
+            "delta": "00:02:59",
             "section": 10,
             "line": 0,
             "member": [
@@ -366,22 +455,31 @@
             "lyric": "\uace0\ub9d9\ub2e4"
         },
         {
+            "start": "02:21:93",
+            "end": "02:24:52",
+            "delta": "00:02:59",
             "section": 10,
             "line": 1,
             "member": [
                 "Dk"
             ],
-            "lyric": "yeah"
+            "lyric": "yeh"
         },
         {
+            "start": "02:25:67",
+            "end": "02:31:24",
+            "delta": "00:05:57",
             "section": 10,
             "line": 2,
             "member": [
                 "The8"
             ],
-            "lyric": "\uace0\ub9d9\ub2e4\u00a0yeah"
+            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
         },
         {
+            "start": "02:33:35",
+            "end": "02:36:58",
+            "delta": "00:03:23",
             "section": 11,
             "line": 0,
             "member": [
@@ -390,6 +488,9 @@
             "lyric": "\ub0b4 \ub9d8 \ubcc0\ud558\uc9c0 \uc54a\uc544 \uc808\ub300 \ubcc0\ud558\uc9c0 \uc54a\uc544"
         },
         {
+            "start": "02:36:58",
+            "end": "02:39:75",
+            "delta": "00:03:17",
             "section": 11,
             "line": 1,
             "member": [
@@ -398,6 +499,9 @@
             "lyric": " \ub124\uac00 \ub098\ub97c \uc9c0\uc6b4\ub2e4 \ud574\ub3c4"
         },
         {
+            "start": "02:39:75",
+            "end": "02:41:29",
+            "delta": "00:01:54",
             "section": 11,
             "line": 2,
             "member": [
@@ -406,6 +510,9 @@
             "lyric": " \uc6b0\ub9b0 \ubcc0\ud558\uc9c0 \uc54a\uc544"
         },
         {
+            "start": "02:41:29",
+            "end": "02:46:58",
+            "delta": "00:05:29",
             "section": 11,
             "line": 3,
             "member": [
@@ -414,6 +521,9 @@
             "lyric": " \uc11c\ub85c\uc5d0 \ub9d8\uc5d0 \uc0c8\uaca8\uc838 \uc788\uc73c\ub2c8\uae4c"
         },
         {
+            "start": "02:46:58",
+            "end": "02:48:18",
+            "delta": "00:01:60",
             "section": 11,
             "line": 4,
             "member": [
@@ -422,14 +532,53 @@
             "lyric": "(\uc0c8\uaca8\uc838 \uc788\uc73c\ub2c8\uae4c)"
         },
         {
+            "start": "02:48:18",
+            "end": "02:53:39",
+            "delta": "00:05:21",
+            "section": 12,
+            "line": 0,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
+        },
+        {
+            "start": "02:54:49",
+            "end": "02:59:86",
+            "delta": "00:05:37",
+            "section": 12,
+            "line": 1,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
+        },
+        {
+            "start": "03:01:65",
+            "end": "03:04:73",
+            "delta": "00:01:23",
             "section": 13,
             "line": 0,
             "member": [
                 "Seungkwan"
             ],
-            "lyric": "\ub108\uc5d0\uac8c \ub108\uc5d0\uac8c \uc804\ud574\uc84c\uc74c \ud574 \uc774 \ub178\ub798\uac00"
+            "lyric": "\ub108\uc5d0\uac8c \ub108\uc5d0\uac8c"
         },
         {
+            "start": "03:04:73",
+            "end": "03:08:17",
+            "delta": "00:03:44",
+            "section": 13,
+            "line": 0,
+            "member": [
+                "Seungkwan"
+            ],
+            "lyric": "\uc804\ud574\uc84c\uc74c\ud574\uc774\ub178\ub798\uac00"
+        },
+        {
+            "start": "03:13:62",
+            "end": "03:16:22",
+            "delta": "00:02:60",
             "section": 14,
             "line": 0,
             "member": [
@@ -438,6 +587,9 @@
             "lyric": "\uace0\ub9d9\ub2e4"
         },
         {
+            "start": "03:20:14",
+            "end": "03:22:73",
+            "delta": "00:02:59",
             "section": 15,
             "line": 0,
             "member": [
@@ -446,258 +598,23 @@
             "lyric": "\uace0\ub9d9\ub2e4"
         }
     ],
-    "unmerged_line_synced": [
-        {
-            "start": "00:22:04",
-            "end": "00:25:09",
-            "delta": "00:03:05",
-            "lyric": "\uadf8\ub54c \uadf8\ub54c"
-        },
-        {
-            "start": "00:25:09",
-            "end": "00:28:23",
-            "delta": "00:03:14",
-            "lyric": "\uc5b4\ub838\ub358 \ub0b4 \ub9d8\uc740"
-        },
-        {
-            "start": "00:28:23",
-            "end": "00:31:23",
-            "delta": "00:03:00",
-            "lyric": "\uc9d3\uad82\uc740 \uc7a5\ub09c\uc774 \ub2e4\uc600\ub098 \ubd10"
-        },
-        {
-            "start": "00:31:23",
-            "end": "00:34:78",
-            "delta": "00:03:55",
-            "lyric": "\uc6c3\ub294 \ub108\ub97c \ubcf4\ub294 \ub0b4 \uae30\ubd84\uc774 \ubb54\uc9c0"
-        },
-        {
-            "start": "00:34:78",
-            "end": "00:38:33",
-            "delta": "00:03:55",
-            "lyric": "\ubc30\uc6b4 \uc801 \uc5c6\uc5b4\uc11c"
-        },
-        {
-            "start": "00:38:33",
-            "end": "00:41:51",
-            "delta": "00:03:18",
-            "lyric": "\ud45c\ud604\uc744 \ubabb \ud588\uc5b4 \ub0b4 \ub9d8\uc774 \uc11c\ud234\ub7ec\uc11c"
-        },
-        {
-            "start": "00:41:51",
-            "end": "00:44:49",
-            "delta": "00:02:98",
-            "lyric": "\ub108\uc758 \ub0b4\uc77c\uc774 \ub418\uace0 \uc2f6\uc5b4\uc11c \uc624\ub298\uc744 \uc0b4\uc544\uc654\uc5b4"
-        },
-        {
-            "start": "00:44:49",
-            "end": "00:47:62",
-            "delta": "00:03:13",
-            "lyric": "\ub108\ub97c \ucc98\uc74c \ubcf8 \ub0a0 \uadf8\ub54c\ubd80\ud130 \uc9c0\uae08\uae4c\uc9c0"
-        },
-        {
-            "start": "00:47:62",
-            "end": "00:50:54",
-            "delta": "00:02:92",
-            "lyric": "\ub0b4 \ub9d8\uc18d\uc5d0\ub294 \ub108\ub9cc \uc788\uc5b4"
-        },
-        {
-            "start": "00:53:74",
-            "end": "00:56:92",
-            "delta": "00:03:18",
-            "lyric": "\uc774\uc81c\uc11c\uc57c \uaebc\ub0b4 \ubcf4\uc9c0\ub9cc"
-        },
-        {
-            "start": "00:56:92",
-            "end": "01:03:32",
-            "delta": "00:06:40",
-            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc774 \uc804\ud574\ub294 \uc9c8\uae4c\uc694 Yeh"
-        },
-        {
-            "start": "01:06:29",
-            "end": "01:09:54",
-            "delta": "00:03:25",
-            "lyric": "\ub610 \uace0\ub9d9\ub2e4 \ubfd0\uc774\uc9c0\ub9cc"
-        },
-        {
-            "start": "01:09:54",
-            "end": "01:12:71",
-            "delta": "00:03:17",
-            "lyric": "\uae30\ub2e4\ub9bc\uae4c\uc9c0 \uadf8\ub9ac\uc6c0\uae4c\uc9c0"
-        },
-        {
-            "start": "01:12:71",
-            "end": "01:15:34",
-            "delta": "00:02:63",
-            "lyric": "\uc6b0\ub9ac \ucd94\uc5b5\uae4c\uc9c0"
-        },
-        {
-            "start": "01:15:34",
-            "end": "01:20:84",
-            "delta": "00:05:50",
-            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
-        },
-        {
-            "start": "01:21:73",
-            "end": "01:27:08",
-            "delta": "00:05:35",
-            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
-        },
-        {
-            "start": "01:29:76",
-            "end": "01:32:88",
-            "delta": "00:03:12",
-            "lyric": "\ub108\ubb34 \ud754\ud55c \ub9d0\uc774\ub77c \ub0b4 \ub9c8\uc74c\uc774 \ub2f4\uae38\uae4c"
-        },
-        {
-            "start": "01:32:88",
-            "end": "01:36:09",
-            "delta": "00:03:21",
-            "lyric": "\uac71\uc815\ub3fc\uc11c \ud558\uc9c0 \ubabb\ud588\ub358 \ub9d0"
-        },
-        {
-            "start": "01:36:09",
-            "end": "01:39:26",
-            "delta": "00:03:17",
-            "lyric": "\uace0\ub9d9\ub2e4\ub294 \ub9d0\ubcf4\ub2e4 \uc608\uc05c \ub9d0\uc744 \ucc3e\ub2e4\uac00"
-        },
-        {
-            "start": "01:42:39",
-            "end": "01:43:91",
-            "delta": "00:01:52",
-            "lyric": "\ud45c\ud604\uc744 \ubabb \ud588\uc5b4"
-        },
-        {
-            "start": "01:43:91",
-            "end": "01:45:52",
-            "delta": "00:01:61",
-            "lyric": "\uc6a9\uae30\uac00 \ubd80\uc871\ud574\uc11c"
-        },
-        {
-            "start": "01:45:52",
-            "end": "01:48:47",
-            "delta": "00:02:95",
-            "lyric": "\uc0ac\ub791\uc774\ub780 \ub9d0\uc744 \uc870\uae08\uc774\ub77c\ub3c4 \uc77c\ucc0d \uc54c\uc558\ub2e4\uba74"
-        },
-        {
-            "start": "01:48:47",
-            "end": "01:51:63",
-            "delta": "00:03:16",
-            "lyric": "\ub108\ub97c \ucc98\uc74c \ubcf8 \ub0a0 \uadf8\ub54c\ubd80\ud130 \uc9c0\uae08\uae4c\uc9c0"
-        },
-        {
-            "start": "01:51:63",
-            "end": "01:54:55",
-            "delta": "00:02:92",
-            "lyric": "\ub0b4 \ub9d8\uc18d\uc5d0\ub294 \ub108\ub9cc \uc788\uc5b4"
-        },
-        {
-            "start": "01:54:55",
-            "end": "01:57:66",
-            "delta": "00:03:11",
-            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc744 \ub0b4\uac00"
-        },
-        {
-            "start": "01:57:66",
-            "end": "02:00:91",
-            "delta": "00:03:25",
-            "lyric": "\uc774\uc81c\uc11c\uc57c \uaebc\ub0b4 \ubcf4\uc9c0\ub9cc"
-        },
-        {
-            "start": "02:00:91",
-            "end": "02:07:30",
-            "delta": "00:06:39",
-            "lyric": "\ubed4\ud558\ub514\ubed4\ud55c \uc774 \ub9d0\uc774 \uc804\ud574\ub294 \uc9c8\uae4c\uc694 Yeh"
-        },
-        {
-            "start": "02:07:30",
-            "end": "02:10:29",
-            "delta": "00:02:99",
-            "lyric": "\uace0\ub9d9\ub2e4 \uace0\ub9d9\ub2e4"
-        },
-        {
-            "start": "02:10:29",
-            "end": "02:13:53",
-            "delta": "00:03:24",
-            "lyric": "\ub610 \uace0\ub9d9\ub2e4 \ubfd0\uc774\uc9c0\ub9cc"
-        },
-        {
-            "start": "02:13:53",
-            "end": "02:16:72",
-            "delta": "00:03:19",
-            "lyric": "\uae30\ub2e4\ub9bc\uae4c\uc9c0 \uc0ac\ub791\uc774 \ubb54\uc9c0"
-        },
-        {
-            "start": "02:16:72",
-            "end": "02:19:34",
-            "delta": "00:02:62",
-            "lyric": "\uc54c\ub824\uc900 \ub108\uc5d0\uac8c"
-        },
-        {
-            "start": "02:33:35",
-            "end": "02:36:58",
-            "delta": "00:03:23",
-            "lyric": "\ub0b4 \ub9d8 \ubcc0\ud558\uc9c0 \uc54a\uc544 \uc808\ub300 \ubcc0\ud558\uc9c0 \uc54a\uc544"
-        },
-        {
-            "start": "02:36:58",
-            "end": "02:39:75",
-            "delta": "00:03:17",
-            "lyric": "\ub124\uac00 \ub098\ub97c \uc9c0\uc6b4\ub2e4 \ud574\ub3c4"
-        },
-        {
-            "start": "02:39:75",
-            "end": "02:41:29",
-            "delta": "00:01:54",
-            "lyric": "\uc6b0\ub9b0 \ubcc0\ud558\uc9c0 \uc54a\uc544"
-        },
-        {
-            "start": "02:41:29",
-            "end": "02:46:58",
-            "delta": "00:05:29",
-            "lyric": "\uc11c\ub85c\uc5d0 \ub9d8\uc5d0 \uc0c8\uaca8\uc838 \uc788\uc73c\ub2c8\uae4c"
-        },
-        {
-            "start": "02:46:58",
-            "end": "02:48:18",
-            "delta": "00:01:60",
-            "lyric": "(\uc0c8\uaca8\uc838 \uc788\uc73c\ub2c8\uae4c)"
-        },
-        {
-            "start": "02:48:18",
-            "end": "02:53:39",
-            "delta": "00:05:21",
-            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
-        },
-        {
-            "start": "02:54:49",
-            "end": "02:59:86",
-            "delta": "00:05:37",
-            "lyric": "\uace0\ub9d9\ub2e4 Yeh"
-        },
-        {
-            "start": "03:01:65",
-            "end": "03:04:73",
-            "delta": "00:03:08",
-            "lyric": "\ub108\uc5d0\uac8c \ub108\uc5d0\uac8c"
-        },
-        {
-            "start": "03:04:73",
-            "end": "03:08:17",
-            "delta": "00:03:44",
-            "lyric": "\uc804\ud574\uc84c\uc74c \ud574 \uc774 \ub178\ub798\uac00"
-        },
-        {
-            "start": "03:13:62",
-            "end": "03:16:22",
-            "delta": "00:02:60",
-            "lyric": "\uace0\ub9d9\ub2e4"
-        },
-        {
-            "start": "03:20:14",
-            "end": "03:22:73",
-            "delta": "00:02:59",
-            "lyric": "\uace0\ub9d9\ub2e4"
-        }
-    ]
+    "source": "MV",
+    "color_key": {
+        "4ea8d4": "S. Coups",
+        "e32636": "Jeonghan",
+        "df73ff": "Joshua",
+        "bede0d": "Jun",
+        "c04737": "Hoshi",
+        "855fc4": "Wonwoo",
+        "ff7d07": "Woozi",
+        "3d72e7": "Dk",
+        "04a497": "Mingyu",
+        "a1dad7": "The8",
+        "f1ce5f": "Seungkwan",
+        "63b76c": "Vernon",
+        "d962b6": "Dino"
+    },
+    "unit": "OT13",
+    "unmerged_line_color": [],
+    "unmerged_line_synced": []
 }

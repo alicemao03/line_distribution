@@ -8,39 +8,35 @@ let margin = { top: 20, right: 20, bottom: 20, left: 20 };
 let width = window.innerWidth / 2 - margin.left - margin.right - 100,
     height = 500 - margin.top - margin.bottom;
 
-const memberNames = ["S. Coups", "Jeonghan", "Joshua",
-    "Jun", "Hoshi", "Wonwoo", "Woozi",
-    "The8", "Mingyu", "Dk",
-    "Seungkwan", "Vernon", "Dino",
-    "adlib", "ALL"]
-
-const color = d3.scaleOrdinal()
-    .domain(memberNames)
-    .range([
-        '#e32636', '#e3268bff', '#df73ff',
-        '#949397ff', "#ff7423ff", "#975fbfff", "#D6EB6A",
-        "#3ba042ff", '#14beb0ff', "#87CEEB",
-        "#ffa941ff", "#313abfff", '#9b6a55ff',
-        "#d0e4f5", "#fddbdb"
-    ]);
-
-
 
 let selectedMember = [];
 let oldSelection = null;
 
 const urlParams = new URLSearchParams(window.location.search);
 const song = urlParams.get('song')
+console.log(song)
 console.log(song.toLowerCase().replaceAll(' ', '_'));
 
 d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').then(function (data) {
+    var title = d3.select("#song-name").append('h3').text(data['trackName'])
+    console.log(data)
+
+    const memberNames = Object.values(data['color_key']);
+    const memberColors = Object.keys(data['color_key']).map(value => '#' + value)
+
+
+    console.log(memberNames, memberColors)
+    const color = d3.scaleOrdinal()
+        .domain(memberNames)
+        .range(memberColors)
+
+    console.log(color('Dk'))
 
     data = data['syncedLyrics']
-    console.log(data)
-    let svt_line_timing = calcTiming(data)
+
+    let svt_line_timing = calcTiming(data, memberNames)
     console.log(svt_line_timing)
 
-    var title = d3.select("#song-name").append('h3').text(song)
 
     var svg = d3.select("#chart-area").append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -95,16 +91,16 @@ d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').the
 function timeToSeconds(timeStr) {
     // console.log(timeStr)
     const [minutes, seconds, tenths] = timeStr.split(':');
-    console.log(timeStr, minutes, seconds, tenths)
+    // console.log(timeStr, minutes, seconds, tenths)
     return (parseFloat(minutes) * 60) + parseFloat(seconds) + parseFloat(tenths) / 100;
 }
 
-function calcTiming(data) {
+function calcTiming(data, memberNames) {
     let svtSongData = memberNames.map(name => ({
         member: name,
         seconds: 0
     }));
-    console.log('svtSongData', svtSongData)
+    console.log('svtSongData', typeof (svtSongData))
 
     let totalTime = 0
     for (let i = 0; i < data.length; i++) {
@@ -115,15 +111,16 @@ function calcTiming(data) {
         console.log(members)
 
         const secs = timeToSeconds(line.end) - timeToSeconds(line.start)
-        console.log('secs', secs)
+        // console.log('secs', secs)
         for (var j = 0; j < members.length; j++) {
             let member = members[j]
             console.log("new memebr", member)
             let member_seconds = svtSongData.find(m => m.member === member);
-            //    , member_seconds)
+
             if (member) {
                 member_seconds.seconds += secs;
             } else {
+                svtSongData.append({ member: member, seconds: secs })
                 console.log("something borke", line)
             }
             totalTime += secs

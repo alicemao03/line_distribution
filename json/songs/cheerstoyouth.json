@@ -1,6 +1,6 @@
 {
     "id": 8996815,
-    "name": "Cheers to youth",
+    "name": "Cheerstoyouth",
     "trackName": "Cheers to youth",
     "artistName": "SEVENTEEN",
     "albumName": "SEVENTEEN",
@@ -475,6 +475,13 @@
         }
     ],
     "source": "MV",
+    "color_key": {
+        "e32636": "Jeonghan",
+        "df73ff": "Joshua",
+        "ff7d07": "Woozi",
+        "3d72e7": "Dk",
+        "f1ce5f": "Seungkwan"
+    },
     "unit": "Vocal",
     "unmerged_line_color": [],
     "unmerged_line_synced": []

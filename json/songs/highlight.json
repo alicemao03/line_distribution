@@ -1,7 +1,7 @@
 {
     "id": 1877919,
-    "name": "Highlight",
-    "trackName": "Highlight",
+    "name": "HIGHLIGHT",
+    "trackName": "HIGHLIGHT",
     "artistName": "SEVENTEEN",
     "albumName": "Going Seventeen",
     "duration": 225.0,
@@ -197,8 +197,8 @@
         },
         {
             "start": "01:03:44",
-            "end": "01:04:91",
-            "delta": "00:01:48",
+            "end": "01:05:12",
+            "delta": "00:01:68",
             "section": 3,
             "line": 5,
             "member": [
@@ -207,21 +207,31 @@
             "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04"
         },
         {
-            "start": "01:04:91",
-            "end": "01:06:82",
-            "delta": "00:01:90",
+            "start": "01:05:12",
+            "end": "01:06:12",
+            "delta": "00:01:00",
             "section": 4,
             "line": 0,
             "member": [
                 "adlib"
             ],
             "lyric": " Highlight"
-        }
-    ],
-    "source": "MV",
-    "unit": "Performance",
-    "unmerged_line_color": [
+        },
         {
+            "start": "01:11:76",
+            "end": "01:12:76",
+            "delta": "00:01:00",
+            "section": 4,
+            "line": 1,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "01:18:52",
+            "end": "01:19:52",
+            "delta": "00:01:00",
             "section": 4,
             "line": 2,
             "member": [
@@ -230,14 +240,9 @@
             "lyric": " Highlight"
         },
         {
-            "section": 4,
-            "line": 2,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
+            "start": "01:19:46",
+            "end": "01:20:68",
+            "delta": "00:01:22",
             "section": 5,
             "line": 0,
             "member": [
@@ -246,6 +251,9 @@
             "lyric": "\u4f60\u773c\u4e2d\u7684\u6211"
         },
         {
+            "start": "01:20:68",
+            "end": "01:21:90",
+            "delta": "00:01:22",
             "section": 5,
             "line": 1,
             "member": [
@@ -254,6 +262,9 @@
             "lyric": " \u6211\u773c\u4e2d\u7684\u4f60"
         },
         {
+            "start": "01:21:90",
+            "end": "01:23:24",
+            "delta": "00:01:34",
             "section": 5,
             "line": 2,
             "member": [
@@ -262,6 +273,9 @@
             "lyric": " \u6df1\u9083\u7684\u773c\u7738"
         },
         {
+            "start": "01:23:24",
+            "end": "01:24:59",
+            "delta": "00:01:34",
             "section": 5,
             "line": 3,
             "member": [
@@ -270,6 +284,9 @@
             "lyric": " \u770b\u4e0d\u89c1\u5c3d\u5934"
         },
         {
+            "start": "01:24:59",
+            "end": "01:25:82",
+            "delta": "00:01:23",
             "section": 5,
             "line": 4,
             "member": [
@@ -278,6 +295,9 @@
             "lyric": " \u76f8\u4fe1\u8fd9\u77ac\u95f4"
         },
         {
+            "start": "01:25:82",
+            "end": "01:27:05",
+            "delta": "00:01:23",
             "section": 5,
             "line": 5,
             "member": [
@@ -286,6 +306,9 @@
             "lyric": " \u5947\u8ff9\u4f1a\u51fa\u73b0"
         },
         {
+            "start": "01:27:05",
+            "end": "01:28:26",
+            "delta": "00:01:22",
             "section": 5,
             "line": 6,
             "member": [
@@ -294,6 +317,9 @@
             "lyric": " \u4e0d\u7ba1\u767d\u4e0e\u591c"
         },
         {
+            "start": "01:28:26",
+            "end": "01:29:48",
+            "delta": "00:01:22",
             "section": 5,
             "line": 7,
             "member": [
@@ -302,12 +328,539 @@
             "lyric": " \u966a\u5728\u4f60\u8eab\u8fb9"
         },
         {
+            "start": "01:42:36",
+            "end": "01:44:20",
+            "delta": "00:01:84",
             "section": 6,
+            "line": 4,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "\uc6b0\ub9ac\ub9cc \uc544\ub294 vide"
+        },
+        {
+            "start": "01:44:20",
+            "end": "01:45:84",
+            "delta": "00:01:64",
+            "section": 6,
+            "line": 5,
+            "member": [
+                "Dino"
+            ],
+            "lyric": " \uc5b4\ub514\ub860\uac00 \ub0a0 \uc774\ub04c\uc5b4"
+        },
+        {
+            "start": "01:47:90",
+            "end": "01:50:20",
+            "delta": "00:02:30",
+            "section": 7,
             "line": 0,
             "member": [
                 "Dino"
             ],
-            "lyric": "\uc624\uc9c1 \ub108\uc758 \uc2dc\uc120 \uc18d\uc5d0\uc11c"
+            "lyric": "\ub0b4 \uc874\uc7ac\uc758 \uc774\uc720\ub294 \ub108\uc57c"
+        },
+        {
+            "start": "01:50:20",
+            "end": "01:53:08",
+            "delta": "00:02:88",
+            "section": 7,
+            "line": 1,
+            "member": [
+                "Dino"
+            ],
+            "lyric": " \ubd04 \uac19\uc740 \ubbf8\uc18c\ub97c \uc9d3\uac8c \ud574\uc8fc\uace0\ud30c\n"
+        },
+        {
+            "start": "01:53:08",
+            "end": "01:54:68",
+            "delta": "00:01:60",
+            "section": 7,
+            "line": 2,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "\uc11c\ub85c\uac00 \uc5b4\ub514\uc11c \ubb34\uc5bc \ud558\ub4e0\uc9c0"
+        },
+        {
+            "start": "01:54:68",
+            "end": "01:56:28",
+            "delta": "00:01:60",
+            "section": 7,
+            "line": 3,
+            "member": [
+                "Dino"
+            ],
+            "lyric": " \uc911\uc694\uce58 \uc54a\uc74c\uc744 \uc798 \uc54c\uace0 \uc788\uc9c0"
+        },
+        {
+            "start": "01:56:28",
+            "end": "01:57:82",
+            "delta": "00:01:55",
+            "section": 7,
+            "line": 4,
+            "member": [
+                "Dino"
+            ],
+            "lyric": " \ub2e8\uc9c0 \ubc14\ub77c\ubcf4\ub294 \ub208\ube5b\uc5d0 \ub04c\ub824"
+        },
+        {
+            "start": "01:57:82",
+            "end": "01:59:52",
+            "delta": "00:01:69",
+            "section": 7,
+            "line": 5,
+            "member": [
+                "Dino"
+            ],
+            "lyric": " \uc774 \uc21c\uac04 \ubc1d\ud788\uac8c \ucf1c\ub193\uc544 \uc2a4\uc704\uce58"
+        },
+        {
+            "start": "01:59:52",
+            "end": "02:03:19",
+            "delta": "00:03:67",
+            "section": 8,
+            "line": 0,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "\ub110 \ub0b4 \ub9d8\uc5d0 match \ud558\uace0 \uc2f6\uc5b4"
+        },
+        {
+            "start": "02:03:19",
+            "end": "02:06:02",
+            "delta": "00:02:83",
+            "section": 8,
+            "line": 1,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": " \ub3d9\ud2c0 \ub54c \ud558\ub298\uacfc \ud587\uc0b4\ucc98\ub7fc"
+        },
+        {
+            "start": "02:06:02",
+            "end": "02:09:31",
+            "delta": "00:03:29",
+            "section": 8,
+            "line": 2,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": " \uc2dc\uac04\uacfc \ud568\uaed8 \uc6b0\ub9b0 \ub2ee\uc544\uac00"
+        },
+        {
+            "start": "02:09:31",
+            "end": "02:12:60",
+            "delta": "00:03:29",
+            "section": 8,
+            "line": 3,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": " \uacb0\uad6d\uc5d0 \ud558\ub098\uac00 \ub420 \uc6b0\ub9b4 \ubd10"
+        },
+        {
+            "start": "02:12:60",
+            "end": "02:15:12",
+            "delta": "00:02:53",
+            "section": 9,
+            "line": 0,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " I\u2019m like a bird"
+        },
+        {
+            "start": "02:15:12",
+            "end": "02:16:03",
+            "delta": "00:00:92",
+            "section": 9,
+            "line": 1,
+            "member": [
+                "The8"
+            ],
+            "lyric": "\ub0a0\uc544\uac08\uac8c"
+        },
+        {
+            "start": "02:16:03",
+            "end": "02:18:80",
+            "delta": "00:02:75",
+            "section": 9,
+            "line": 2,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \ub124 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub294 \uacf3 \uc5b4\ub514\ub4e0\uc9c0"
+        },
+        {
+            "start": "02:18:80",
+            "end": "02:21:20",
+            "delta": "00:02:40",
+            "section": 9,
+            "line": 3,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " In the air"
+        },
+        {
+            "start": "02:21:20",
+            "end": "02:23:00",
+            "delta": "00:01:80",
+            "section": 9,
+            "line": 4,
+            "member": [
+                "The8"
+            ],
+            "lyric": "\uc5b4\ub514\uc11c\ub4e0 \uc6b0\ub9ac"
+        },
+        {
+            "start": "02:23:00",
+            "end": "02:24:68",
+            "delta": "00:01:68",
+            "section": 9,
+            "line": 5,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04"
+        },
+        {
+            "start": "02:24:68",
+            "end": "02:25:68",
+            "delta": "00:01:00",
+            "section": 10,
+            "line": 0,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "02:31:21",
+            "end": "02:33:21",
+            "delta": "00:02:00",
+            "section": 10,
+            "line": 1,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "02:37:91",
+            "end": "02:38:91",
+            "delta": "00:01:00",
+            "section": 10,
+            "line": 2,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "02:38:96",
+            "end": "02:40:15",
+            "delta": "00:01:19",
+            "section": 11,
+            "line": 0,
+            "member": [
+                "The8"
+            ],
+            "lyric": "\u4f60\u773c\u4e2d\u7684\u6211"
+        },
+        {
+            "start": "02:40:15",
+            "end": "02:41:34",
+            "delta": "00:01:19",
+            "section": 11,
+            "line": 1,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u6211\u773c\u4e2d\u7684\u4f60"
+        },
+        {
+            "start": "02:41:34",
+            "end": "02:42:65",
+            "delta": "00:01:31",
+            "section": 11,
+            "line": 2,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u6df1\u9083\u7684\u773c\u7738"
+        },
+        {
+            "start": "02:42:65",
+            "end": "02:43:96",
+            "delta": "00:01:31",
+            "section": 11,
+            "line": 3,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u770b\u4e0d\u89c1\u5c3d\u5934"
+        },
+        {
+            "start": "02:43:96",
+            "end": "02:46:79",
+            "delta": "00:02:83",
+            "section": 11,
+            "line": 4,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u76f8\u4fe1\u8fd9\u77ac\u95f4"
+        },
+        {
+            "start": "02:46:79",
+            "end": "02:49:62",
+            "delta": "00:02:83",
+            "section": 11,
+            "line": 5,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u5947\u8ff9\u4f1a\u51fa\u73b0"
+        },
+        {
+            "start": "02:46:62",
+            "end": "02:47:81",
+            "delta": "00:01:20",
+            "section": 11,
+            "line": 6,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u4e0d\u7ba1\u767d\u4e0e\u591c"
+        },
+        {
+            "start": "02:47:81",
+            "end": "02:49:01",
+            "delta": "00:01:20",
+            "section": 11,
+            "line": 7,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u966a\u5728\u4f60\u8eab\u8fb9"
+        },
+        {
+            "start": "02:52:02",
+            "end": "02:58:08",
+            "delta": "00:06:06",
+            "section": 12,
+            "line": 0,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "Baby U \uc2dc\uac04\uc744 \ub418\uc0c8\uaca8\ubcf8\ub2e4"
+        },
+        {
+            "start": "02:58:08",
+            "end": "03:01:58",
+            "delta": "00:03:50",
+            "section": 12,
+            "line": 1,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": " \uac04\uc808\ud788 \uafc8\uafd4\uc628 \uc2dc\uac04"
+        },
+        {
+            "start": "03:01:58",
+            "end": "03:05:08",
+            "delta": "00:03:50",
+            "section": 12,
+            "line": 2,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": " \uc810\uc810 \ub354 \uac00\uae4c\uc6cc\uc838\uac00"
+        },
+        {
+            "start": "03:05:08",
+            "end": "03:08:18",
+            "delta": "00:03:10",
+            "section": 12,
+            "line": 3,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "\ub54c\ub860 \ub208\ubb3c\ub3c4 \uba38\uae08\ub358 \ub0a0\ub4e4"
+        },
+        {
+            "start": "03:08:18",
+            "end": "03:11:60",
+            "delta": "00:03:42",
+            "section": 12,
+            "line": 4,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "\uadf8\ub9cc \ub51b\uace0 \uc628 \ubc1c\uc790\uad6d\uc5d0 \ub0a8\uaca8"
+        },
+        {
+            "start": "03:11:60",
+            "end": "03:16:04",
+            "delta": "00:04:44",
+            "section": 12,
+            "line": 5,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "\uc138\uc0c1 \uc5b4\ub514\uc11c\ub3c4\n\uc11c\ub85c \ubbff\ub294\ub2e4\uba74 \uc6b0\ub9ac"
+        },
+        {
+            "start": "03:16:04",
+            "end": "03:17:61",
+            "delta": "00:01:57",
+            "section": 12,
+            "line": 6,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04"
+        },
+        {
+            "start": "03:17:61",
+            "end": "03:18:61",
+            "delta": "00:01:00",
+            "section": 13,
+            "line": 0,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "03:24:25",
+            "end": "03:25:25",
+            "delta": "00:01:00",
+            "section": 13,
+            "line": 1,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "03:30:94",
+            "end": "03:31:94",
+            "delta": "00:01:00",
+            "section": 13,
+            "line": 2,
+            "member": [
+                "adlib"
+            ],
+            "lyric": " Highlight"
+        },
+        {
+            "start": "03:32:08",
+            "end": "03:33:21",
+            "delta": "00:01:14",
+            "section": 14,
+            "line": 0,
+            "member": [
+                "The8"
+            ],
+            "lyric": "\u4f60\u773c\u4e2d\u7684\u6211"
+        },
+        {
+            "start": "03:33:21",
+            "end": "03:34:35",
+            "delta": "00:01:14",
+            "section": 14,
+            "line": 1,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u6211\u773c\u4e2d\u7684\u4f60"
+        },
+        {
+            "start": "03:34:35",
+            "end": "03:35:57",
+            "delta": "00:01:22",
+            "section": 14,
+            "line": 2,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u6df1\u9083\u7684\u773c\u7738"
+        },
+        {
+            "start": "03:35:57",
+            "end": "03:36:79",
+            "delta": "00:01:22",
+            "section": 14,
+            "line": 3,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u770b\u4e0d\u89c1\u5c3d\u5934"
+        },
+        {
+            "start": "03:36:79",
+            "end": "03:37:95",
+            "delta": "00:01:17",
+            "section": 14,
+            "line": 4,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u76f8\u4fe1\u8fd9\u77ac\u95f4"
+        },
+        {
+            "start": "03:37:95",
+            "end": "03:39:12",
+            "delta": "00:01:17",
+            "section": 14,
+            "line": 5,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u5947\u8ff9\u4f1a\u51fa\u73b0"
+        },
+        {
+            "start": "03:39:12",
+            "end": "03:40:10",
+            "delta": "00:00:98",
+            "section": 14,
+            "line": 6,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u4e0d\u7ba1\u767d\u4e0e\u591c"
+        },
+        {
+            "start": "03:40:10",
+            "end": "03:41:08",
+            "delta": "00:00:98",
+            "section": 14,
+            "line": 7,
+            "member": [
+                "The8"
+            ],
+            "lyric": " \u966a\u5728\u4f60\u8eab\u8fb9"
+        }
+    ],
+    "source": "MV",
+    "color_key": {
+        "bede0d": "Jun",
+        "c04737": "Hoshi",
+        "a1dad7": "The8",
+        "d962b6": "Dino"
+    },
+    "unit": "Performance",
+    "unmerged_line_color": [
+        {
+            "section": 6,
+            "line": 1,
+            "member": [
+                "Dino"
+            ],
+            "lyric": " \ub0b4 \uc785\uc220\uc740 \uc6c0\uc9c1\uc5ec"
         },
         {
             "section": 6,
@@ -332,41 +885,15 @@
                 "Dino"
             ],
             "lyric": " \ucc44\uc6cc \uc758\ubbf8 \uc788\uac8c \ub9cc\ub4e4\uc5b4\n"
-        },
-        {
-            "section": 6,
-            "line": 4,
-            "member": [
-                "Dino"
-            ],
-            "lyric": "\uc6b0\ub9ac\ub9cc \uc544\ub294 vide"
-        },
-        {
-            "section": 6,
-            "line": 5,
-            "member": [
-                "Dino"
-            ],
-            "lyric": " \uc5b4\ub514\ub860\uac00 \ub0a0 \uc774\ub04c\uc5b4"
-        },
-        {
-            "section": 7,
-            "line": 0,
-            "member": [
-                "Dino"
-            ],
-            "lyric": "\ub0b4 \uc874\uc7ac\uc758 \uc774\uc720\ub294 \ub108\uc57c"
-        },
-        {
-            "section": 7,
-            "line": 1,
-            "member": [
-                "Dino"
-            ],
-            "lyric": " \ubd04 \uac19\uc740 \ubbf8\uc18c\ub97c \uc9d3\uac8c \ud574\uc8fc\uace0\ud30c\n"
         }
     ],
     "unmerged_line_synced": [
+        {
+            "start": "01:31:12",
+            "end": "01:32:90",
+            "delta": "00:01:78",
+            "lyric": "Ayy, ayy, ayy"
+        },
         {
             "start": "01:32:90",
             "end": "01:37:54",
@@ -378,440 +905,6 @@
             "end": "01:42:36",
             "delta": "00:04:82",
             "lyric": "\uacf5\ud5c8\ud568\uc740 \uc11c\ub85c\uc758 \ud45c\ud604\uc73c\ub85c \ucc44\uc6cc \uc758\ubbf8 \uc788\uac8c \ub9cc\ub4e4\uc5b4"
-        },
-        {
-            "start": "01:42:36",
-            "end": "01:45:84",
-            "delta": "00:03:48",
-            "lyric": "\uc6b0\ub9ac\ub9cc \uc544\ub294 Vide \uc5b4\ub514\ub860\uac00 \ub0a0 \uc774\ub04c\uc5b4"
-        },
-        {
-            "start": "01:47:90",
-            "end": "01:50:20",
-            "delta": "00:02:30",
-            "lyric": "\ub0b4 \uc874\uc7ac\uc758 \uc774\uc720\ub294 \ub108\uc57c"
-        },
-        {
-            "start": "01:50:20",
-            "end": "01:53:08",
-            "delta": "00:02:88",
-            "lyric": "\ubd04 \uac19\uc740 \ubbf8\uc18c\ub97c \uc9d3\uac8c \ud574\uc8fc\uace0\ud30c"
-        },
-        {
-            "start": "01:53:08",
-            "end": "01:56:28",
-            "delta": "00:03:20",
-            "lyric": "\uc11c\ub85c\uac00 \uc5b4\ub514\uc11c \ubb34\uc5bc \ud558\ub4e0\uc9c0 \uc911\uc694\uce58 \uc54a\uc74c\uc744 \uc798 \uc54c\uace0 \uc788\uc9c0"
-        },
-        {
-            "start": "01:56:28",
-            "end": "01:59:52",
-            "delta": "00:03:24",
-            "lyric": "\ub2e8\uc9c0 \ubc14\ub77c\ubcf4\ub294 \ub208\ube5b\uc5d0 \ub04c\ub824 \uc774 \uc21c\uac04 \ubc1d\ud788\uac8c \ucf1c\ub193\uc544 \uc2a4\uc704\uce58"
-        },
-        {
-            "start": "01:59:52",
-            "end": "02:06:02",
-            "delta": "00:06:50",
-            "lyric": "\ub110 \ub0b4 \ub9d8\uc5d0 Match \ud558\uace0 \uc2f6\uc5b4 \ub3d9\ud2c0 \ub54c \ud558\ub298\uacfc \ud587\uc0b4\ucc98\ub7fc"
-        },
-        {
-            "start": "02:06:02",
-            "end": "02:12:60",
-            "delta": "00:06:58",
-            "lyric": "\uc2dc\uac04\uacfc \ud568\uaed8 \uc6b0\ub9b0 \ub2ee\uc544\uac00 \uacb0\uad6d\uc5d0 \ud558\ub098\uac00 \ub420 \uc6b0\ub9b4 \ubd10"
-        },
-        {
-            "start": "02:12:60",
-            "end": "02:18:80",
-            "delta": "00:06:20",
-            "lyric": "I\u2019m like a bird \ub0a0\uc544\uac08\uac8c \ub124 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub294 \uacf3 \uc5b4\ub514\ub4e0\uc9c0"
-        },
-        {
-            "start": "02:18:80",
-            "end": "02:23:00",
-            "delta": "00:04:20",
-            "lyric": "In the air \uc5b4\ub514\uc11c\ub4e0 \uc6b0\ub9ac"
-        },
-        {
-            "start": "02:23:00",
-            "end": "02:25:96",
-            "delta": "00:02:96",
-            "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04 HIGHLIGHT"
-        },
-        {
-            "start": "02:52:02",
-            "end": "02:58:08",
-            "delta": "00:06:06",
-            "lyric": "Baby U \uc2dc\uac04\uc744 \ub418\uc0c8\uaca8\ubcf8\ub2e4"
-        },
-        {
-            "start": "02:58:08",
-            "end": "03:05:08",
-            "delta": "00:07:00",
-            "lyric": "\uac04\uc808\ud788 \uafc8\uafd4\uc628 \uc2dc\uac04 \uc810\uc810 \ub354 \uac00\uae4c\uc6cc\uc838\uac00"
-        },
-        {
-            "start": "03:05:08",
-            "end": "03:11:60",
-            "delta": "00:06:52",
-            "lyric": "\ub54c\ub860 \ub208\ubb3c\ub3c4 \uba38\uae08\ub358 \ub0a0\ub4e4 \uadf8\ub9cc \ub51b\uace0 \uc628 \ubc1c\uc790\uad6d\uc5d0 \ub0a8\uaca8"
-        },
-        {
-            "start": "03:11:60",
-            "end": "03:16:04",
-            "delta": "00:04:44",
-            "lyric": "\uc138\uc0c1 \uc5b4\ub514\uc11c\ub3c4 \uc11c\ub85c \ubbff\ub294\ub2e4\uba74 \uc6b0\ub9ac"
-        },
-        {
-            "start": "03:16:04",
-            "end": "03:18:04",
-            "delta": "00:02:00",
-            "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04 HIGHLIGHT"
-        },
-        {
-            "section": 7,
-            "line": 2,
-            "member": [
-                "Dino"
-            ],
-            "lyric": "\uc11c\ub85c\uac00 \uc5b4\ub514\uc11c \ubb34\uc5bc \ud558\ub4e0\uc9c0"
-        },
-        {
-            "section": 7,
-            "line": 3,
-            "member": [
-                "Dino"
-            ],
-            "lyric": " \uc911\uc694\uce58 \uc54a\uc74c\uc744 \uc798 \uc54c\uace0 \uc788\uc9c0"
-        },
-        {
-            "section": 7,
-            "line": 4,
-            "member": [
-                "Dino"
-            ],
-            "lyric": " \ub2e8\uc9c0 \ubc14\ub77c\ubcf4\ub294 \ub208\ube5b\uc5d0 \ub04c\ub824"
-        },
-        {
-            "section": 7,
-            "line": 5,
-            "member": [
-                "Dino"
-            ],
-            "lyric": " \uc774 \uc21c\uac04 \ubc1d\ud788\uac8c \ucf1c\ub193\uc544 \uc2a4\uc704\uce58"
-        },
-        {
-            "section": 8,
-            "line": 0,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": "\ub110 \ub0b4 \ub9d8\uc5d0 match \ud558\uace0 \uc2f6\uc5b4"
-        },
-        {
-            "section": 8,
-            "line": 1,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": " \ub3d9\ud2c0 \ub54c \ud558\ub298\uacfc \ud587\uc0b4\ucc98\ub7fc"
-        },
-        {
-            "section": 8,
-            "line": 2,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": " \uc2dc\uac04\uacfc \ud568\uaed8 \uc6b0\ub9b0 \ub2ee\uc544\uac00"
-        },
-        {
-            "section": 8,
-            "line": 3,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": " \uacb0\uad6d\uc5d0 \ud558\ub098\uac00 \ub420 \uc6b0\ub9b4 \ubd10"
-        },
-        {
-            "section": 9,
-            "line": 0,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " I\u2019m like a bird"
-        },
-        {
-            "section": 9,
-            "line": 1,
-            "member": [
-                "The8"
-            ],
-            "lyric": "\ub0a0\uc544\uac08\uac8c"
-        },
-        {
-            "section": 9,
-            "line": 2,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \ub124 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub294 \uacf3 \uc5b4\ub514\ub4e0\uc9c0"
-        },
-        {
-            "section": 9,
-            "line": 3,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " In the air"
-        },
-        {
-            "section": 9,
-            "line": 4,
-            "member": [
-                "The8"
-            ],
-            "lyric": "\uc5b4\ub514\uc11c\ub4e0 \uc6b0\ub9ac"
-        },
-        {
-            "section": 9,
-            "line": 5,
-            "member": [
-                "Dino"
-            ],
-            "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04"
-        },
-        {
-            "section": 10,
-            "line": 0,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
-            "section": 10,
-            "line": 1,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
-            "section": 10,
-            "line": 2,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
-            "section": 11,
-            "line": 0,
-            "member": [
-                "The8"
-            ],
-            "lyric": "\u4f60\u773c\u4e2d\u7684\u6211"
-        },
-        {
-            "section": 11,
-            "line": 1,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u6211\u773c\u4e2d\u7684\u4f60"
-        },
-        {
-            "section": 11,
-            "line": 2,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u6df1\u9083\u7684\u773c\u7738"
-        },
-        {
-            "section": 11,
-            "line": 3,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u770b\u4e0d\u89c1\u5c3d\u5934"
-        },
-        {
-            "section": 11,
-            "line": 4,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u76f8\u4fe1\u8fd9\u77ac\u95f4"
-        },
-        {
-            "section": 11,
-            "line": 5,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u5947\u8ff9\u4f1a\u51fa\u73b0"
-        },
-        {
-            "section": 11,
-            "line": 6,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u4e0d\u7ba1\u767d\u4e0e\u591c"
-        },
-        {
-            "section": 11,
-            "line": 7,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u966a\u5728\u4f60\u8eab\u8fb9"
-        },
-        {
-            "section": 12,
-            "line": 0,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": "Baby you \uc2dc\uac04\uc744 \ub418\uc0c8\uaca8\ubcf8\ub2e4"
-        },
-        {
-            "section": 12,
-            "line": 1,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": " \uac04\uc808\ud788 \uafc8\uafd4\uc628 \uc2dc\uac04"
-        },
-        {
-            "section": 12,
-            "line": 2,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": " \uc810\uc810 \ub354 \uac00\uae4c\uc6cc\uc838\uac00"
-        },
-        {
-            "section": 12,
-            "line": 3,
-            "member": [
-                "Jun"
-            ],
-            "lyric": "\ub54c\ub860 \ub208\ubb3c\ub3c4 \uba38\uae08\ub358 \ub0a0\ub4e4"
-        },
-        {
-            "section": 12,
-            "line": 4,
-            "member": [
-                "Jun"
-            ],
-            "lyric": "\uadf8\ub9cc \ub51b\uace0 \uc628 \ubc1c\uc790\uad6d\uc5d0 \ub0a8\uaca8"
-        },
-        {
-            "section": 12,
-            "line": 5,
-            "member": [
-                "Hoshi"
-            ],
-            "lyric": "\uc138\uc0c1 \uc5b4\ub514\uc11c\ub3c4\n\uc11c\ub85c \ubbff\ub294\ub2e4\uba74 \uc6b0\ub9ac"
-        },
-        {
-            "section": 12,
-            "line": 6,
-            "member": [
-                "Dino"
-            ],
-            "lyric": "\ub9c8\uc8fc\ud558\ub294 \uc774 \uc21c\uac04"
-        },
-        {
-            "section": 13,
-            "line": 0,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
-            "section": 13,
-            "line": 1,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
-            "section": 13,
-            "line": 2,
-            "member": [
-                "adlib"
-            ],
-            "lyric": " Highlight"
-        },
-        {
-            "section": 14,
-            "line": 0,
-            "member": [
-                "The8"
-            ],
-            "lyric": "\u4f60\u773c\u4e2d\u7684\u6211"
-        },
-        {
-            "section": 14,
-            "line": 1,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u6211\u773c\u4e2d\u7684\u4f60"
-        },
-        {
-            "section": 14,
-            "line": 2,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u6df1\u9083\u7684\u773c\u7738"
-        },
-        {
-            "section": 14,
-            "line": 3,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u770b\u4e0d\u89c1\u5c3d\u5934"
-        },
-        {
-            "section": 14,
-            "line": 4,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u76f8\u4fe1\u8fd9\u77ac\u95f4"
-        },
-        {
-            "section": 14,
-            "line": 5,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u5947\u8ff9\u4f1a\u51fa\u73b0"
-        },
-        {
-            "section": 14,
-            "line": 6,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u4e0d\u7ba1\u767d\u4e0e\u591c"
-        },
-        {
-            "section": 14,
-            "line": 7,
-            "member": [
-                "The8"
-            ],
-            "lyric": " \u966a\u5728\u4f60\u8eab\u8fb9"
         }
     ]
 }

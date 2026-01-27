@@ -692,6 +692,21 @@
         }
     ],
     "source": "MV",
+    "color_key": {
+        "4ea8d4": "S. Coups",
+        "e32636": "Jeonghan",
+        "df73ff": "Joshua",
+        "bede0d": "Jun",
+        "c04737": "Hoshi",
+        "855fc4": "Wonwoo",
+        "ff7d07": "Woozi",
+        "3d72e7": "Dk",
+        "04a497": "Mingyu",
+        "a1dad7": "The8",
+        "f1ce5f": "Seungkwan",
+        "63b76c": "Vernon",
+        "d962b6": "Dino"
+    },
     "unit": "OT13",
     "unmerged_line_color": [],
     "unmerged_line_synced": []

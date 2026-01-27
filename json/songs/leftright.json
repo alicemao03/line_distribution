@@ -1,7 +1,7 @@
 {
     "id": 11785298,
-    "name": "Left",
-    "trackName": "Left",
+    "name": "LeftRight",
+    "trackName": "Left & Right",
     "artistName": "SEVENTEEN",
     "albumName": "Heng:gar\u00e6",
     "duration": 202.0,
@@ -21,10 +21,32 @@
         },
         {
             "start": "00:01:95",
-            "end": "00:07:37",
-            "delta": "00:05:42",
+            "end": "00:03:75",
+            "delta": "00:01:81",
             "section": 1,
             "line": 0,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "00:03:75",
+            "end": "00:05:55",
+            "delta": "00:01:80",
+            "section": 1,
+            "line": 1,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "00:05:55",
+            "end": "00:07:37",
+            "delta": "00:01:80",
+            "section": 1,
+            "line": 2,
             "member": [
                 "Vernon"
             ],
@@ -252,10 +274,32 @@
         },
         {
             "start": "00:46:83",
-            "end": "00:51:45",
-            "delta": "00:04:62",
+            "end": "00:48:37",
+            "delta": "00:01:54",
             "section": 8,
             "line": 0,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "00:48:37",
+            "end": "00:49:91",
+            "delta": "00:01:54",
+            "section": 8,
+            "line": 1,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "00:49:91",
+            "end": "00:51:45",
+            "delta": "00:01:54",
+            "section": 8,
+            "line": 2,
             "member": [
                 "Hoshi"
             ],
@@ -274,10 +318,32 @@
         },
         {
             "start": "00:53:24",
-            "end": "00:57:74",
-            "delta": "00:04:50",
+            "end": "00:54:74",
+            "delta": "00:01:50",
             "section": 9,
             "line": 0,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "00:54:74",
+            "end": "00:56:24",
+            "delta": "00:01:50",
+            "section": 9,
+            "line": 1,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "00:56:24",
+            "end": "00:57:74",
+            "delta": "00:01:50",
+            "section": 9,
+            "line": 2,
             "member": [
                 "Jun"
             ],
@@ -329,10 +395,32 @@
         },
         {
             "start": "01:05:62",
-            "end": "01:10:45",
-            "delta": "00:04:83",
+            "end": "01:07:23",
+            "delta": "00:01:61",
             "section": 11,
             "line": 0,
+            "member": [
+                "The8"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "01:07:23",
+            "end": "01:08:84",
+            "delta": "00:01:61",
+            "section": 11,
+            "line": 1,
+            "member": [
+                "The8"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "01:08:84",
+            "end": "01:10:45",
+            "delta": "00:01:61",
+            "section": 11,
+            "line": 2,
             "member": [
                 "The8"
             ],
@@ -348,28 +436,6 @@
                 "The8"
             ],
             "lyric": "Rip it Rip it"
-        },
-        {
-            "start": "01:12:41",
-            "end": "01:13:20",
-            "delta": "00:00:79",
-            "section": 12,
-            "line": 0,
-            "member": [
-                "Vernon"
-            ],
-            "lyric": "I run up I run up"
-        },
-        {
-            "start": "01:13:20",
-            "end": "01:13:99",
-            "delta": "00:00:79",
-            "section": 12,
-            "line": 1,
-            "member": [
-                "Vernon"
-            ],
-            "lyric": "I run up I run up"
         },
         {
             "start": "01:13:99",
@@ -571,10 +637,32 @@
         },
         {
             "start": "01:50:62",
-            "end": "01:55:45",
-            "delta": "00:04:83",
+            "end": "01:52:23",
+            "delta": "00:01:61",
             "section": 17,
             "line": 0,
+            "member": [
+                "Mingyu"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "01:52:23",
+            "end": "01:53:84",
+            "delta": "00:01:61",
+            "section": 17,
+            "line": 1,
+            "member": [
+                "Mingyu"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "01:53:84",
+            "end": "01:55:45",
+            "delta": "00:01:61",
+            "section": 17,
+            "line": 2,
             "member": [
                 "Mingyu"
             ],
@@ -593,10 +681,32 @@
         },
         {
             "start": "01:56:91",
-            "end": "02:01:70",
-            "delta": "00:04:79",
+            "end": "01:58:50",
+            "delta": "00:01:60",
             "section": 18,
             "line": 0,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "01:58:50",
+            "end": "02:00:09",
+            "delta": "00:01:60",
+            "section": 18,
+            "line": 1,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:00:09",
+            "end": "02:01:70",
+            "delta": "00:01:60",
+            "section": 18,
+            "line": 2,
             "member": [
                 "Joshua"
             ],
@@ -648,10 +758,32 @@
         },
         {
             "start": "02:09:83",
-            "end": "02:14:45",
-            "delta": "00:04:62",
+            "end": "02:11:37",
+            "delta": "00:01:54",
             "section": 20,
             "line": 0,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:11:37",
+            "end": "02:12:91",
+            "delta": "00:01:54",
+            "section": 20,
+            "line": 1,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:12:91",
+            "end": "02:14:45",
+            "delta": "00:01:54",
+            "section": 20,
+            "line": 2,
             "member": [
                 "Dino"
             ],
@@ -780,10 +912,32 @@
         },
         {
             "start": "02:36:95",
-            "end": "02:41:66",
-            "delta": "00:04:71",
+            "end": "02:38:52",
+            "delta": "00:01:57",
             "section": 25,
             "line": 0,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:38:52",
+            "end": "02:40:09",
+            "delta": "00:01:57",
+            "section": 25,
+            "line": 1,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:40:09",
+            "end": "02:41:66",
+            "delta": "00:01:57",
+            "section": 25,
+            "line": 2,
             "member": [
                 "S. Coups"
             ],
@@ -802,10 +956,32 @@
         },
         {
             "start": "02:43:70",
-            "end": "02:48:37",
-            "delta": "00:04:67",
+            "end": "02:45:25",
+            "delta": "00:01:56",
             "section": 26,
             "line": 0,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:45:25",
+            "end": "02:46:80",
+            "delta": "00:01:55",
+            "section": 26,
+            "line": 1,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:46:80",
+            "end": "02:48:37",
+            "delta": "00:01:55",
+            "section": 26,
+            "line": 2,
             "member": [
                 "Dk"
             ],
@@ -857,10 +1033,32 @@
         },
         {
             "start": "02:56:33",
-            "end": "03:00:91",
-            "delta": "00:04:58",
+            "end": "02:57:85",
+            "delta": "00:01:53",
             "section": 28,
             "line": 0,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:57:85",
+            "end": "02:59:37",
+            "delta": "00:01:52",
+            "section": 28,
+            "line": 1,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "Left and right"
+        },
+        {
+            "start": "02:59:37",
+            "end": "03:00:91",
+            "delta": "00:01:52",
+            "section": 28,
+            "line": 2,
             "member": [
                 "Jun"
             ],
@@ -901,7 +1099,46 @@
         }
     ],
     "source": "MV",
+    "color_key": {
+        "4ea8d4": "S. Coups",
+        "e32636": "Jeonghan",
+        "df73ff": "Joshua",
+        "bede0d": "Jun",
+        "c04737": "Hoshi",
+        "855fc4": "Wonwoo",
+        "ff7d07": "Woozi",
+        "3d72e7": "Dk",
+        "04a497": "Mingyu",
+        "a1dad7": "The8",
+        "f1ce5f": "Seungkwan",
+        "63b76c": "Vernon",
+        "d962b6": "Dino"
+    },
     "unit": "OT13",
-    "unmerged_line_color": [],
-    "unmerged_line_synced": []
+    "unmerged_line_color": [
+        {
+            "section": 12,
+            "line": 1,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "I run up I run up"
+        },
+        {
+            "section": 12,
+            "line": 1,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "I run up I run up"
+        }
+    ],
+    "unmerged_line_synced": [
+        {
+            "start": "01:12:41",
+            "end": "01:13:99",
+            "delta": "00:01:58",
+            "lyric": "I run up I run up I run up I run up"
+        }
+    ]
 }
