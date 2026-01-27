@@ -27,7 +27,7 @@ def get_synced_lyrics(song):
     try:
         with open(file_path, 'r') as f:
             synced_lyrics = f.read()
-            print("file found")
+            print(file_path, "found")
             return synced_lyrics
         
     except FileNotFoundError:
@@ -84,7 +84,6 @@ def clean_official_lyrics(lyrics_raw):
     pattern = r"\d{2}:(\d{2}:\d{2},\d{2})\d{1} --> \d{2}:(\d{2}:\d{2},\d{2})\d{1}\s*([\s\S]*?)(?=\n\d+\n\d{2}:|$)"
 
     parsed_synced_lyrics = re.findall(pattern, lyrics_raw)
-    print(parsed_synced_lyrics)
 
     new_synced_lyrics = []
     for line in parsed_synced_lyrics:
@@ -106,25 +105,25 @@ def clean_lrclib_lyrics(lyrics_raw, duration):
     new_synced_lyrics = []
 
     for i, line in enumerate(parsed_synced_lyrics):
-            lyric = line[1]
-            start = line[0].replace('.', ':')
-            end = ''
+        lyric = line[1]
+        start = line[0].replace('.', ':')
+        end = ''
 
-            if lyric == '':
-                continue
+        if lyric == '':
+            continue
 
-            if i + 1 >= len(lyrics_raw):
-                    minutes = int(duration/60)
-                    seconds = int(duration) % 60
-                    tenths = int(duration % 1 *10)
-                    end = f"{minutes:02}:{seconds:02}:{tenths:02}"
-            else:
-                end = parsed_synced_lyrics[i+1][0].replace('.', ':')
+        if i + 1 >= len(parsed_synced_lyrics):
+                minutes = int(duration/60)
+                seconds = int(duration) % 60
+                tenths = int(duration % 1 *10)
+                end = f"{minutes:02}:{seconds:02}:{tenths:02}"
+        else:
+            end = parsed_synced_lyrics[i+1][0].replace('.', ':')
 
-            newLine = {'start': start, 'end': end, 'lyric': lyric}
-            newLine["delta"] = getDelta(newLine, '.')
+        newLine = {'start': start, 'end': end, 'lyric': lyric}
+        newLine["delta"] = getDelta(newLine, '.')
 
-            new_synced_lyrics.append(newLine)
+        new_synced_lyrics.append(newLine)
             
     return new_synced_lyrics
 
@@ -134,12 +133,14 @@ def get_song_info(song, artist, album):
 
     if meta_data == "song not found":
         print("song not found")
-        return
+        return "song not found"
     
     lyrics_success = get_synced_lyrics(song)
 
     meta_data['syncedLyrics'] = clean_lrclib_lyrics(meta_data['syncedLyrics'],  meta_data['duration'])
     meta_data['source'] = 'lrclib'
+
+    meta_data['name'] = re.sub(r'[*+&,]', '', meta_data['name'])
 
     mv_synced = []
     if lyrics_success is not FileNotFoundError:
@@ -149,16 +150,13 @@ def get_song_info(song, artist, album):
         mv_start = time_to_sec(mv_synced[0]['start'])
         lib_start = time_to_sec(meta_data['syncedLyrics'][0]['start'])
         dif = mv_start - lib_start
-        print(mv_start, lib_start, dif)
 
-        if dif > 3:
-            print('update times')
+        if dif > 1:
             for l in mv_synced:
                 old_start = time_to_sec(l['start']) - dif
                 old_end = time_to_sec(l['end']) - dif
                 l['start'] = decimal_sec_to_time_str(old_start)
                 l['end'] = decimal_sec_to_time_str(old_end)
         meta_data['syncedLyrics'] = mv_synced
-        
         
     return meta_data

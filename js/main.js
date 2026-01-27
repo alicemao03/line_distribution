@@ -18,8 +18,12 @@ const colorScale = d3.scaleOrdinal()
 const margin = { top: 20, right: 40, bottom: 20, left: 40 };
 
 d3.json('json/meta_data.json').then(function (data) {
+
+    // data = [data[0]]
+    console.log(data)
     const container = d3.select("#all-songs-container");
-    const width = container.node().clientWidth;
+    console.log(container.node().offsetWidth)
+    const width = container.node().offsetWidth - 4;
     const height = 120 - margin.top - margin.bottom;
 
     const songRows = d3.select("#all-songs-container")
@@ -27,7 +31,7 @@ d3.json('json/meta_data.json').then(function (data) {
         .data(data)
         .enter()
         .append("div")
-        .attr("class", "text-start mx-1 mb-5 song-row");
+        .attr("class", "text-start mb-5 song-row");
 
     const songHeadings = songRows.append("div")
         .attr('class', 'song-heading-container d-flex justify-content-between')
@@ -61,14 +65,16 @@ d3.json('json/meta_data.json').then(function (data) {
     const svgs = songRows.append("div")
         .attr("class", "overall-song-distribution")
         .append("svg")
-        .style("width", width)
+        .attr("width", width)
         .attr("height", height)
+        .style('border', 0)
         .append("g")
 
-
+    console.log("w", width)
     svgs.each(function (data) {
         const currentSvg = d3.select(this);
-        console.log("CURRENT SONG:", data, currentSvg)
+        console.log("CURRENT SONG:", data, data.duration)
+        console.log(width)
 
         const xScale = d3.scaleLinear()
             .domain([0, data.duration])
@@ -80,7 +86,10 @@ d3.json('json/meta_data.json').then(function (data) {
             .append("rect")
             .attr("class", "lyric-rect")
             .attr("x", d => xScale(timeToSeconds(d.start)))
-            .attr("width", d => xScale(timeToSeconds(d.end)) - xScale(timeToSeconds(d.start)))
+            .attr("width", d => { 
+                console.log(timeToSeconds(d.end), timeToSeconds(d.start))
+                console.log(xScale(timeToSeconds(d.end)),  xScale(timeToSeconds(d.start)))
+                return xScale(timeToSeconds(d.end)) - xScale(timeToSeconds(d.start)) })
             .attr("y", 0)
             .attr("height", height)
             .attr("fill", d => {
@@ -109,8 +118,8 @@ d3.json('json/meta_data.json').then(function (data) {
 function timeToSeconds(timeStr) {
     // console.log(timeStr)
     const [minutes, seconds, tenths] = timeStr.split(':');
-    // console.log(timeStr, minutes, seconds, tenths)
-    return (parseFloat(minutes) * 60) + parseFloat(seconds) + parseFloat(tenths) / 100;
+    console.log(timeStr, minutes, seconds, tenths)
+    return (parseInt(minutes) * 60) + parseInt(seconds) + parseFloat(tenths) / 100;
 }
 
 function getGradientId(members, svg) {

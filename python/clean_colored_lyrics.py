@@ -67,7 +67,9 @@ def clean_main_body_html(html_results):
     combined_lines_test = ''
     line = ''
 
-    html_results = list(html_results)
+    if not isinstance(html_results, list):
+        html_results = list(html_results)
+
 
     i = 0
     while i < len(html_results):
@@ -124,14 +126,28 @@ def get_color_lyrics_with_container(soup):
     main_lyrics_body = find_divs[-1]
 
     # Hangul lyrics
-    main_lyrics_body = main_lyrics_body.find_all("div", class_="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow")[1]
-    # print(main_lyrics_body)
+    find_main_lyrics_body = main_lyrics_body.find_all("div", class_="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow")
 
-    main_lyrics_body = main_lyrics_body.findAll("div")[-1]
-    # print(main_lyrics_body)
+    if (len(find_main_lyrics_body) >= 3):
+        main_lyrics_body = main_lyrics_body.find_all("div", class_="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow")[1]
+        main_lyrics_body = main_lyrics_body.findAll("div")[-1]
+        main_lyrics_body = clean_main_body_html(main_lyrics_body)
 
-    main_lyrics_body = clean_main_body_html(main_lyrics_body)
+    else:
+        main_lyrics_body = body.find(string='English')
+        tag = main_lyrics_body.parent
 
+        while not tag.name == 'p':
+            tag = tag.parent
+        tag = tag.find_next_siblings('p')
+        
+        new_html = []
+        for t in tag:
+            if not t.name == 'p':
+                break
+            new_html.append(t)
+
+        main_lyrics_body = clean_main_body_html(new_html)
     return {"color_key": color_key, "main_lyrics_body": main_lyrics_body}
 
 def get_unit(color_key):
@@ -161,16 +177,22 @@ def get_unit(color_key):
 
 # HTML FORMAT WITH TABLES
 def get_color_lyrics_with_table(soup):
-    body = soup.findAll("tr")
+    body = soup.findAll("table")
 
-    song_header = body[1]
-    main_lyrics_body = body[3].findAll("td")[1]
-    color_key = get_color_key(song_header.find('td'))
+    if (len(body) > 1):
+        song_header = body[0]
+        main_lyrics_body = body[1]
+        color_key = get_color_key(song_header.findAll('td')[2])
+       
+    else:
+        main_lyrics_body = body[0]
+        song_header = soup.find('div', class_='wp-block-column is-layout-flow wp-block-column-is-layout-flow')
+        color_key = get_color_key(song_header.find('p'))
 
+    main_lyrics_body = main_lyrics_body.findAll("td")[1]
     main_lyrics_body = clean_main_body_html(main_lyrics_body.children)
     
     return {"song_header": song_header, "color_key": color_key, "main_lyrics_body": main_lyrics_body}
-
 
 # GET THE DATASET OF COLORED_LYRICS
 def get_colored_lyrics(html):

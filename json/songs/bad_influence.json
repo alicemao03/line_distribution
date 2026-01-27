@@ -1,0 +1,823 @@
+{
+    "id": 26083503,
+    "name": "Bad Influence",
+    "trackName": "Bad Influence",
+    "artistName": "SEVENTEEN",
+    "albumName": "HAPPY BURSTDAY",
+    "duration": 167.019833,
+    "instrumental": false,
+    "plainLyrics": "And I had time to think about it\nIt's too much - that surround it, I don't want it at all\nBut, hey, I wanna have a good time\nGood time, good time, good, good, good\n\nAnd I had time to think about it (woo, woo)\nBut life would be so much better without it, I don't want it at all (woo, woo)\nBut, hey, I wanna have a good time\nGood time, good time, good, good, good\n\nLet's go out (let's go out, ay, ay, whoa)\nLet's go around, whatcha doin' now?\nLet's go out (let's go out, ay, ay, whoa)\nBust the scene, flip the vibe, chase the fade (chase the fade, ay, ay, whoa)\nAnd be the section everybody talkin' 'bout (talkin' 'bout, ay, ay, whoa)\nOnly fun - is allowed\n\nBad influence, you had to do it (an ordinary time ain't enough for you)\nYou're bad influence, you had to do it (you wanna have a good, good night)\nBad influence, you had to do it (it's four in the morning, what the f- we doin'?)\nBad influence, you had to do it (you turn and say, \"Good, good time\")\n\n(Okay, okay)\nAnd I had time to think about it (bad influence)\nBut life would be so much better without it (woo) I don't want it at all (woo)\nBut, hey, I wanna have a good time\nGood time, good time, good, good, good time (woo, woo)\n\n(Good time, good time) sometimes you wanna luck up\n(Good time, good time, good, good, good time) you get frustrated, call me stuck up\n(Good time, good time, good, good, good time) but once you bring the plug up\n(Good time, yeah, yeah, good time) makes me wanna get f- up\n\nLet's go out (let's go out, ay, ay, whoa)\nLet's go around, whatcha doin' now?\nLet's go out (let's go out, ay, ay, whoa)\nBust the scene, flip the vibe, chase the fade (chase the fade, ay, ay, whoa)\nAnd be the section everybody talkin' 'bout (talkin' 'bout, ay, ay, whoa)\nOnly fun - is allowed\n\nBad influence, you had to do it (an ordinary time ain't enough for you)\nBad influence, you had to do it (you wanna have a good, good night)\nBad influence, you had to do it (it's four in the morning, what the f- we doin'?)\nBad influence, you had to do it (you turn and say, \"Good, good time\")\n\nAnd I had time to think about it (bad influence)\nIt's too much - that surround it, I don't want it at all (woo, woo)\nBut, hey, I wanna have a good time\nGood time, good time, good, good, good (woo, woo)\n\nAnd I had time to think about it (bad influence)\nBut life would be so much better without it, I don't want it at all (woo, woo)\nBut, hey, I wanna have a good time\nGood time, good time, good, good, good time (woo, woo)",
+    "syncedLyrics": [
+        {
+            "start": "00:00:17",
+            "end": "00:03:86",
+            "delta": "00:03:69",
+            "section": 0,
+            "line": 0,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "And I had time to think about it"
+        },
+        {
+            "start": "00:03:89",
+            "end": "00:07:15",
+            "delta": "00:03:26",
+            "section": 0,
+            "line": 1,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "It\u2019s too much bullshit that surround it"
+        },
+        {
+            "start": "00:07:18",
+            "end": "00:09:21",
+            "delta": "00:02:03",
+            "section": 0,
+            "line": 2,
+            "member": [
+                "Dino"
+            ],
+            "lyric": "I don\u2019t want it at all"
+        },
+        {
+            "start": "00:09:91",
+            "end": "00:12:65",
+            "delta": "00:02:74",
+            "section": 0,
+            "line": 3,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "But hey, I wanna have a good time"
+        },
+        {
+            "start": "00:12:69",
+            "end": "00:16:17",
+            "delta": "00:03:48",
+            "section": 0,
+            "line": 4,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "(Good time, good time, good, good, good)"
+        },
+        {
+            "start": "00:16:20",
+            "end": "00:19:89",
+            "delta": "00:03:69",
+            "section": 1,
+            "line": 0,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "And I had time to think about it"
+        },
+        {
+            "start": "00:19:92",
+            "end": "00:23:16",
+            "delta": "00:03:24",
+            "section": 1,
+            "line": 1,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "But life would be so much better without it"
+        },
+        {
+            "start": "00:23:20",
+            "end": "00:25:20",
+            "delta": "00:02:00",
+            "section": 1,
+            "line": 2,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "I don\u2019t want it at all"
+        },
+        {
+            "start": "00:25:86",
+            "end": "00:28:67",
+            "delta": "00:02:81",
+            "section": 1,
+            "line": 3,
+            "member": [
+                "Mingyu"
+            ],
+            "lyric": "But hey, I wanna have a good time"
+        },
+        {
+            "start": "00:28:71",
+            "end": "00:32:10",
+            "delta": "00:03:39",
+            "section": 1,
+            "line": 4,
+            "member": [
+                "Mingyu"
+            ],
+            "lyric": "(Good time, good time, good, good, good)"
+        },
+        {
+            "start": "00:32:14",
+            "end": "00:33:14",
+            "delta": "00:01:00",
+            "section": 2,
+            "line": 0,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Let\u2019s go out "
+        },
+        {
+            "start": "00:33:14",
+            "end": "00:34:14",
+            "delta": "00:01:00",
+            "section": 2,
+            "line": 1,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(let\u2019s go out)"
+        },
+        {
+            "start": "00:34:17",
+            "end": "00:35:14",
+            "delta": "00:00:97",
+            "section": 2,
+            "line": 2,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Let\u2019s go \u2018round"
+        },
+        {
+            "start": "00:35:17",
+            "end": "00:36:11",
+            "delta": "00:00:94",
+            "section": 2,
+            "line": 3,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "What ya doin\u2019 now?"
+        },
+        {
+            "start": "00:36:14",
+            "end": "00:37:16",
+            "delta": "00:01:02",
+            "section": 2,
+            "line": 4,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Let\u2019s go out "
+        },
+        {
+            "start": "00:37:16",
+            "end": "00:38:18",
+            "delta": "00:01:02",
+            "section": 2,
+            "line": 5,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(let\u2019s go out)"
+        },
+        {
+            "start": "00:38:22",
+            "end": "00:39:11",
+            "delta": "00:00:89",
+            "section": 2,
+            "line": 6,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Bust the scene"
+        },
+        {
+            "start": "00:39:15",
+            "end": "00:40:97",
+            "delta": "00:01:82",
+            "section": 2,
+            "line": 7,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Flip the vibe, chase the fade "
+        },
+        {
+            "start": "00:40:97",
+            "end": "00:41:92",
+            "delta": "00:00:95",
+            "section": 2,
+            "line": 8,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(chase the fade)"
+        },
+        {
+            "start": "00:41:96",
+            "end": "00:45:16",
+            "delta": "00:03:21",
+            "section": 2,
+            "line": 9,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "And be the section everybody talkin\u2019 bout "
+        },
+        {
+            "start": "00:45:16",
+            "end": "00:46:11",
+            "delta": "00:00:94",
+            "section": 2,
+            "line": 10,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(talkin\u2019 bout)"
+        },
+        {
+            "start": "00:46:14",
+            "end": "00:48:27",
+            "delta": "00:02:13",
+            "section": 2,
+            "line": 11,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "Only fun shit is allowed"
+        },
+        {
+            "start": "00:48:68",
+            "end": "00:50:44",
+            "delta": "00:01:76",
+            "section": 3,
+            "line": 0,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "00:50:44",
+            "end": "00:52:65",
+            "delta": "00:02:21",
+            "section": 3,
+            "line": 1,
+            "member": [
+                "Seungkwan"
+            ],
+            "lyric": "An ordinary time ain\u2019t enough for you"
+        },
+        {
+            "start": "00:52:68",
+            "end": "00:54:58",
+            "delta": "00:01:91",
+            "section": 3,
+            "line": 2,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "00:54:58",
+            "end": "00:56:65",
+            "delta": "00:02:06",
+            "section": 3,
+            "line": 3,
+            "member": [
+                "Seungkwan"
+            ],
+            "lyric": "You wanna have a good, good night"
+        },
+        {
+            "start": "00:56:69",
+            "end": "00:58:27",
+            "delta": "00:01:59",
+            "section": 3,
+            "line": 4,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "00:58:27",
+            "end": "01:00:66",
+            "delta": "00:02:38",
+            "section": 3,
+            "line": 5,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "It\u2019s 4 in the morning, what the fuck we doin\u2019?"
+        },
+        {
+            "start": "01:00:69",
+            "end": "01:02:74",
+            "delta": "00:02:05",
+            "section": 3,
+            "line": 6,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "01:02:74",
+            "end": "01:04:97",
+            "delta": "00:02:23",
+            "section": 3,
+            "line": 7,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "You turn and say, \u201ca good, good time!\u201d"
+        },
+        {
+            "start": "01:06:17",
+            "end": "01:08:63",
+            "delta": "00:02:47",
+            "section": 4,
+            "line": 0,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "And I had time to think about it"
+        },
+        {
+            "start": "01:08:63",
+            "end": "01:09:82",
+            "delta": "00:01:18",
+            "section": 4,
+            "line": 1,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "(bad influence)"
+        },
+        {
+            "start": "01:09:85",
+            "end": "01:13:17",
+            "delta": "00:03:32",
+            "section": 4,
+            "line": 2,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "But life would be so much better without it"
+        },
+        {
+            "start": "01:13:21",
+            "end": "01:15:03",
+            "delta": "00:01:82",
+            "section": 4,
+            "line": 3,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "I don\u2019t want it at all"
+        },
+        {
+            "start": "01:15:85",
+            "end": "01:18:55",
+            "delta": "00:02:70",
+            "section": 4,
+            "line": 4,
+            "member": [
+                "Mingyu"
+            ],
+            "lyric": "But hey, I wanna have a good time"
+        },
+        {
+            "start": "01:18:58",
+            "end": "01:22:38",
+            "delta": "00:03:80",
+            "section": 4,
+            "line": 5,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "(Good time, good time, good, good, good time) "
+        },
+        {
+            "start": "01:22:38",
+            "end": "01:24:28",
+            "delta": "00:01:90",
+            "section": 4,
+            "line": 6,
+            "member": [
+                "The8",
+                "Vernon"
+            ],
+            "lyric": " (good, good, good time)"
+        },
+        {
+            "start": "01:24:31",
+            "end": "01:26:54",
+            "delta": "00:01:32",
+            "section": 5,
+            "line": 0,
+            "member": [
+                "Woozi"
+            ],
+            "lyric": "Sometimes you wanna luck up"
+        },
+        {
+            "start": "01:27:89",
+            "end": "01:30:42",
+            "delta": "00:01:63",
+            "section": 5,
+            "line": 1,
+            "member": [
+                "Woozi"
+            ],
+            "lyric": "You get frustrated, call me stuck up"
+        },
+        {
+            "start": "01:32:31",
+            "end": "01:34:72",
+            "delta": "00:01:81",
+            "section": 5,
+            "line": 2,
+            "member": [
+                "Woozi"
+            ],
+            "lyric": "But once you bring the plug up"
+        },
+        {
+            "start": "01:36:69",
+            "end": "01:38:17",
+            "delta": "00:01:48",
+            "section": 5,
+            "line": 3,
+            "member": [
+                "Woozi"
+            ],
+            "lyric": "Makes me wanna get fucked up"
+        },
+        {
+            "start": "01:38:20",
+            "end": "01:39:16",
+            "delta": "00:00:96",
+            "section": 6,
+            "line": 0,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Let\u2019s go out "
+        },
+        {
+            "start": "01:39:16",
+            "end": "01:40:13",
+            "delta": "00:00:96",
+            "section": 6,
+            "line": 1,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "(let\u2019s go out)"
+        },
+        {
+            "start": "01:40:17",
+            "end": "01:41:09",
+            "delta": "00:00:92",
+            "section": 6,
+            "line": 2,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Let\u2019s go \u2018round"
+        },
+        {
+            "start": "01:41:13",
+            "end": "01:42:10",
+            "delta": "00:00:97",
+            "section": 6,
+            "line": 3,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "What ya doin\u2019 now?"
+        },
+        {
+            "start": "01:42:14",
+            "end": "01:43:15",
+            "delta": "00:01:01",
+            "section": 6,
+            "line": 4,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Let\u2019s go out "
+        },
+        {
+            "start": "01:43:15",
+            "end": "01:44:16",
+            "delta": "00:01:01",
+            "section": 6,
+            "line": 5,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "(let\u2019s go out)"
+        },
+        {
+            "start": "01:44:19",
+            "end": "01:45:12",
+            "delta": "00:00:93",
+            "section": 6,
+            "line": 6,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Bust the scene"
+        },
+        {
+            "start": "01:45:15",
+            "end": "01:46:91",
+            "delta": "00:01:77",
+            "section": 6,
+            "line": 7,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Flip the vibe, chase the fade "
+        },
+        {
+            "start": "01:46:91",
+            "end": "01:47:84",
+            "delta": "00:00:92",
+            "section": 6,
+            "line": 8,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "(chase the fade)"
+        },
+        {
+            "start": "01:47:87",
+            "end": "01:51:16",
+            "delta": "00:03:29",
+            "section": 6,
+            "line": 9,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "And be the section everybody talkin\u2019 bout "
+        },
+        {
+            "start": "01:51:16",
+            "end": "01:52:13",
+            "delta": "00:00:97",
+            "section": 6,
+            "line": 10,
+            "member": [
+                "Vernon"
+            ],
+            "lyric": "(talkin\u2019 bout)"
+        },
+        {
+            "start": "01:52:16",
+            "end": "01:54:28",
+            "delta": "00:02:12",
+            "section": 6,
+            "line": 11,
+            "member": [
+                "S. Coups"
+            ],
+            "lyric": "Only fun shit is allowed"
+        },
+        {
+            "start": "01:54:66",
+            "end": "01:56:45",
+            "delta": "00:01:79",
+            "section": 7,
+            "line": 0,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "01:56:45",
+            "end": "01:58:69",
+            "delta": "00:02:24",
+            "section": 7,
+            "line": 1,
+            "member": [
+                "Seungkwan"
+            ],
+            "lyric": "An ordinary time ain\u2019t enough for you"
+        },
+        {
+            "start": "01:58:73",
+            "end": "02:00:60",
+            "delta": "00:01:88",
+            "section": 7,
+            "line": 2,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "02:00:60",
+            "end": "02:02:64",
+            "delta": "00:02:03",
+            "section": 7,
+            "line": 3,
+            "member": [
+                "Seungkwan"
+            ],
+            "lyric": "You wanna have a good, good night"
+        },
+        {
+            "start": "02:02:67",
+            "end": "02:04:26",
+            "delta": "00:01:59",
+            "section": 7,
+            "line": 4,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "02:04:26",
+            "end": "02:06:65",
+            "delta": "00:02:39",
+            "section": 7,
+            "line": 5,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "It\u2019s 4 in the morning, what the fuck we doin\u2019?"
+        },
+        {
+            "start": "02:06:68",
+            "end": "02:08:77",
+            "delta": "00:02:09",
+            "section": 7,
+            "line": 6,
+            "member": [
+                "Wonwoo"
+            ],
+            "lyric": "(Bad influence, you had to do it)"
+        },
+        {
+            "start": "02:08:77",
+            "end": "02:11:04",
+            "delta": "00:02:27",
+            "section": 7,
+            "line": 7,
+            "member": [
+                "Dk"
+            ],
+            "lyric": "You turn and say, \u201ca good, good time!\u201d"
+        },
+        {
+            "start": "02:12:18",
+            "end": "02:15:89",
+            "delta": "00:03:71",
+            "section": 8,
+            "line": 0,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "And I had time to think about it (bad influence)"
+        },
+        {
+            "start": "02:15:92",
+            "end": "02:19:06",
+            "delta": "00:03:14",
+            "section": 8,
+            "line": 1,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "It\u2019s too much bullshit that surround it"
+        },
+        {
+            "start": "02:19:10",
+            "end": "02:21:13",
+            "delta": "00:02:03",
+            "section": 8,
+            "line": 2,
+            "member": [
+                "Joshua"
+            ],
+            "lyric": "I don\u2019t want it at all"
+        },
+        {
+            "start": "02:21:83",
+            "end": "02:24:70",
+            "delta": "00:02:87",
+            "section": 8,
+            "line": 3,
+            "member": [
+                "Jun"
+            ],
+            "lyric": "But hey, I wanna have a good time"
+        },
+        {
+            "start": "02:24:73",
+            "end": "02:28:14",
+            "delta": "00:03:41",
+            "section": 8,
+            "line": 4,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "(Good time, good time, good, good, good)"
+        },
+        {
+            "start": "02:28:17",
+            "end": "02:31:86",
+            "delta": "00:03:69",
+            "section": 9,
+            "line": 0,
+            "member": [
+                "The8"
+            ],
+            "lyric": "And I had time to think about it (bad influence)"
+        },
+        {
+            "start": "02:31:89",
+            "end": "02:35:12",
+            "delta": "00:03:23",
+            "section": 9,
+            "line": 1,
+            "member": [
+                "The8"
+            ],
+            "lyric": "But life would be so much better without it "
+        },
+        {
+            "start": "02:35:16",
+            "end": "02:36:90",
+            "delta": "00:01:74",
+            "section": 9,
+            "line": 2,
+            "member": [
+                "The8"
+            ],
+            "lyric": "I don\u2019t want it at all"
+        },
+        {
+            "start": "02:37:86",
+            "end": "02:40:60",
+            "delta": "00:02:74",
+            "section": 9,
+            "line": 3,
+            "member": [
+                "The8"
+            ],
+            "lyric": "But hey, I wanna have a good time "
+        },
+        {
+            "start": "02:40:63",
+            "end": "02:45:05",
+            "delta": "00:04:42",
+            "section": 9,
+            "line": 4,
+            "member": [
+                "Hoshi"
+            ],
+            "lyric": "(Good time, good time, good, good, good time)"
+        }
+    ],
+    "source": "MV",
+    "unit": "OT13",
+    "unmerged_line_color": [
+        {
+            "section": 3,
+            "line": 8,
+            "member": [
+                "The8"
+            ],
+            "lyric": "(okay, okay)"
+        },
+        {
+            "section": 5,
+            "line": 0,
+            "member": [
+                "Woozi"
+            ],
+            "lyric": "goodgoodgoodtime"
+        },
+        {
+            "section": 5,
+            "line": 1,
+            "member": [
+                "Woozi"
+            ],
+            "lyric": "goodgoodgoodtime"
+        }
+    ],
+    "unmerged_line_synced": []
+}
