@@ -5,6 +5,7 @@ import json
 import csv
 from datetime import datetime
 from num2words import num2words
+import chinese_converter
 
 
 
@@ -12,8 +13,16 @@ from num2words import num2words
 def normalize_lyrics(text):
     text = text.lower()
     text = "".join(text.split())
+    text = text.replace('하', 'ha')
+    text = text.replace('붐', 'boom')
+    text = text.replace('아야야', 'ahyaya')
     text = re.sub(r'[\n\(]', '', text)
     text = re.sub(r'[^\w\s가-힣]', '', text)
+    text = re.sub(r'y+e+a+h+', 'yeah', text)
+    text = re.sub(r'(yeah)+', 'yeah', text)
+    text = chinese_converter.to_simplified(text)
+    # text = re.sub(r'p+a+n+', 'pang', text)
+    # text = re.sub(r'(pang)+', 'pang', text)
     text = re.sub(r'\d+', lambda m: num2words(int(m.group(0))), text)
     text = re.sub(r'\s+', '', text).strip()
     return text
@@ -21,18 +30,18 @@ def normalize_lyrics(text):
 
 # GET RAW LYRICS
 def get_soup(song):
-    url_path = "../json/urls.json"
+    # url_path = "../json/urls.json"
 
-    with open(url_path, 'r') as file:
-        all_urls = json.load(file)
+    # with open(url_path, 'r') as file:
+    #     all_urls = json.load(file)
 
-    url = ''
-    for u in all_urls:
-        if u['name'] == song:
-            url = u['url']
-            print("url found:", url)
+    # url = ''
+    # for u in all_urls:
+    #     if u['name'] == song:
+    #         url = u['url']
+    #         print("url found:", url)
     
-    response = requests.get(url)
+    response = requests.get(song)
 
     soup = BeautifulSoup(response.text, 'html.parser')
     soup = soup.body
@@ -54,10 +63,13 @@ def get_color_key(color_key):
             print('something broke in finding color key')
             return []
         
-        name = c.text.lower().capitalize()
-        if 'coups' in name:
+        name = c.text
+        if 'coups' in name.lower():
             name = 'S. Coups'
-    
+            
+        if '8' in name:
+            name = 'THE8'
+
         color_coded_key.update({hex_value[0]: name})
         members.append(name)
     return color_coded_key
@@ -151,29 +163,31 @@ def get_color_lyrics_with_container(soup):
     return {"color_key": color_key, "main_lyrics_body": main_lyrics_body}
 
 def get_unit(color_key):
-    units = {'Vocal': ['Woozi', 'Jeonghan', 'Joshua', 'Dk', 'Seungkwan'],
+    units = {'OT13': ['S. Coups', 'Jeonghan', 'Joshua',  'Jun', 'Hoshi', 'Wonwoo', 'Woozi' , 'The8', 'Mingyu', 'DK', 'Seungkwan', 'Vernon', 'Dino'],
+            'Vocal': ['Woozi', 'Jeonghan', 'Joshua', 'DK', 'Seungkwan'],
              'Hip Hop': ['S. Coups', 'Mingyu', 'Vernon', 'Wonwoo'],
              'Performance': ['Hoshi', 'Jun', 'The8', 'Dino'],
-             'BSS': ['Dk', 'Hoshi', 'Seungkwan'],
+             'BSS': ['DK', 'Hoshi', 'Seungkwan'],
              '95s': ['S. Coups', 'Jeonghan', 'Joshua'],
-             '96s': ['Hoshi', 'Jun', 'Woozi', 'Wonwoo'],
-             '97s': ['The8', 'Mingyu', 'Dk'],
+             '96s': ['Jun', 'Hoshi','Wonwoo', 'Woozi'],
+             '97s': ['The8', 'Mingyu', 'DK'],
              'Maknae': ['Seungkwan', 'Vernon', 'Dino'],
              'Leaders': ['S. Coups', 'Woozi', 'Hoshi'],
              'China': ['Jun', 'The8']
             }
     
-    
-    all_members = set(color_key.values())
+    all_members = set(color_key)
+    # all_members = set(color_key.values())
 
     if len(all_members) >= 12:
-        return 'OT13'
+        return ['OT13']
 
     for name, members in units.items():
         if set(members) == all_members:
-            return name
+            return [name]
+    return sorted(all_members)
 
-    return sorted(all_members).joing(', ')
+    # return sorted(all_members).joing(', ')
 
 # HTML FORMAT WITH TABLES
 def get_color_lyrics_with_table(soup):

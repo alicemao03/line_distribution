@@ -1,0 +1,1976 @@
+{
+    "_type": "album",
+    "api_path": "/albums/286927",
+    "cover_art_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+    "cover_art_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+    "full_title": "17 CARAT by SEVENTEEN (\uc138\ube10\ud2f4)",
+    "id": 286927,
+    "name": "17 CARAT",
+    "name_with_artist": "17 CARAT (artist: SEVENTEEN (\uc138\ube10\ud2f4))",
+    "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+    "release_date_components": {
+        "year": 2015,
+        "month": 5,
+        "day": 29
+    },
+    "release_date_for_display": "May 29, 2015",
+    "url": "https://genius.com/albums/Seventeen/17-carat",
+    "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+    "primary_artists": [
+        {
+            "_type": "artist",
+            "api_path": "/artists/961718",
+            "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+            "id": 961718,
+            "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+            "index_character": "s",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+            "slug": "Seventeen",
+            "url": "https://genius.com/artists/Seventeen"
+        }
+    ],
+    "comment_count": 0,
+    "custom_header_image_url": "https://images.genius.com/0dd6ee505f8221db2f27525d6aaf862f.630x460x1.jpg",
+    "description_preview": "17 CARAT is SEVENTEEN\u2019s first mini-album. It was released on May 29, 2015, with \u201cAdore U\u201d as its lead track.\n\nThe five tracks were all co-produced, co-written and performed by SEVENTEEN members. The group stated that the concept of this album was about \u201cboy\u2019s passion.\u201d",
+    "header_image_url": "https://images.genius.com/0dd6ee505f8221db2f27525d6aaf862f.630x460x1.jpg",
+    "lock_state": "locked",
+    "pyongs_count": 0,
+    "release_date": "2015-05-29",
+    "tracking_paths": {
+        "aggregate": "/albums/Seventeen/17-carat",
+        "concurrent": "/albums/Seventeen/17-carat"
+    },
+    "current_user_metadata": {
+        "permissions": [
+            "create_comment"
+        ],
+        "excluded_permissions": [
+            "edit",
+            "destroy",
+            "pyong",
+            "lock",
+            "super_lock",
+            "unlock",
+            "sort_songs",
+            "see_short_id",
+            "create_question"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        }
+    },
+    "song_pageviews": 42741,
+    "cover_arts": [
+        {
+            "_type": "cover_art",
+            "annotated": false,
+            "api_path": "/albums/286927",
+            "id": 110350,
+            "image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+            "thumbnail_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+            "url": "https://genius.com/album_cover_arts/110350",
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "destroy"
+                ]
+            }
+        },
+        {
+            "_type": "cover_art",
+            "annotated": false,
+            "api_path": "/albums/286927",
+            "id": 1217514,
+            "image_url": "https://images.genius.com/88e92a28472730c68681866794e58a44.960x960x1.jpg",
+            "thumbnail_image_url": "https://images.genius.com/88e92a28472730c68681866794e58a44.300x300x1.jpg",
+            "url": "https://genius.com/album_cover_arts/1217514",
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "destroy"
+                ]
+            }
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 3322048,
+        "annotator_login": "odin27",
+        "api_path": "/referents/10724085",
+        "classification": "accepted",
+        "fragment": "17 CARAT",
+        "id": 10724085,
+        "ios_app_url": "genius://referents/10724085",
+        "is_description": true,
+        "is_image": false,
+        "path": "/10724085/17-carat/17-carat",
+        "range": {
+            "content": "17 CARAT"
+        },
+        "song_id": null,
+        "url": "https://genius.com/10724085/17-carat/17-carat",
+        "verified_annotator_ids": [],
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "add_pinned_annotation_to",
+                "add_community_annotation_to"
+            ],
+            "relationships": {}
+        },
+        "tracking_paths": {
+            "aggregate": "/10724085/17-carat/17-carat",
+            "concurrent": "/albums/Seventeen/17-carat"
+        },
+        "twitter_share_message": "\u201c17 CARAT is SEVENTEEN\u2019s first mini-album. It was released on May 29, 2015, with \u201cAdore U\u201d as its\u2026\u201d \u2014@Genius",
+        "annotatable": {
+            "_type": "album",
+            "api_path": "/albums/286927",
+            "context": "SEVENTEEN (\uc138\ube10\ud2f4)",
+            "id": 286927,
+            "image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+            "link_title": "17 CARAT",
+            "title": "17 CARAT",
+            "type": "Album",
+            "url": "https://genius.com/albums/Seventeen/17-carat"
+        },
+        "annotations": [
+            {
+                "_type": "annotation",
+                "api_path": "/annotations/10724085",
+                "being_created": false,
+                "body": {
+                    "plain": "17 CARAT is SEVENTEEN\u2019s first mini-album. It was released on May 29, 2015, with \u201cAdore U\u201d as its lead track.\n\nThe five tracks were all co-produced, co-written and performed by SEVENTEEN members. The group stated that the concept of this album was about \u201cboy\u2019s passion.\u201d"
+                },
+                "comment_count": 0,
+                "community": true,
+                "created_at": 1527609301,
+                "custom_preview": null,
+                "deleted": false,
+                "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/10724085/standalone_embed'><a href='https://genius.com/10724085/17-carat/17-carat'>17 CARAT</a><br><a href='https://genius.com/albums/Seventeen/17-carat'>&#8213; 17 CARAT</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+                "has_voters": true,
+                "id": 10724085,
+                "needs_exegesis": false,
+                "pinned": false,
+                "proposed_edit_count": 0,
+                "pyongs_count": null,
+                "referent_id": 10724085,
+                "share_url": "https://genius.com/10724085",
+                "source": null,
+                "state": "accepted",
+                "twitter_share_message": "\u201c17 CARAT is SEVENTEEN\u2019s first mini-album. It was released on May 29, 2015, with \u201cAdore U\u201d as its lead tr\u2026\u201d \u2014@Genius",
+                "url": "https://genius.com/10724085/17-carat/17-carat",
+                "verified": false,
+                "votes_total": 4,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "accepted_by": {
+                    "_type": "user",
+                    "about_me_summary": "I come home from work and start my second job writing song bios on Genius.",
+                    "api_path": "/users/5629029",
+                    "avatar": {
+                        "tiny": {
+                            "url": "https://images.genius.com/avatars/tiny/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                            "bounding_box": {
+                                "width": 16,
+                                "height": 16
+                            }
+                        },
+                        "thumb": {
+                            "url": "https://images.genius.com/avatars/thumb/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                            "bounding_box": {
+                                "width": 32,
+                                "height": 32
+                            }
+                        },
+                        "small": {
+                            "url": "https://images.genius.com/avatars/small/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                            "bounding_box": {
+                                "width": 100,
+                                "height": 100
+                            }
+                        },
+                        "medium": {
+                            "url": "https://images.genius.com/avatars/medium/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                            "bounding_box": {
+                                "width": 300,
+                                "height": 400
+                            }
+                        }
+                    },
+                    "header_image_url": "https://filepicker-images.genius.com/00nbvmhlkfc2",
+                    "human_readable_role_for_display": "Editor",
+                    "id": 5629029,
+                    "iq": 13042,
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "login": "Kelliente",
+                    "name": "Kelliente",
+                    "role_for_display": "editor",
+                    "url": "https://genius.com/Kelliente",
+                    "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                            "follow"
+                        ],
+                        "interactions": {
+                            "following": false
+                        }
+                    }
+                },
+                "authors": [
+                    {
+                        "_type": "user_attribution",
+                        "attribution": 0.9777777777777777,
+                        "pinned_role": null,
+                        "user": {
+                            "_type": "user",
+                            "about_me_summary": "hello",
+                            "api_path": "/users/3322048",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/h74za59g0s",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/h74za59g0s",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/h74za59g0s",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/h74za59g0s",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/r8r9shbfl4",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 3322048,
+                            "iq": 13897,
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "login": "odin27",
+                            "name": "odin27",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/odin27",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "_type": "user_attribution",
+                        "attribution": 0.022222222222222223,
+                        "pinned_role": null,
+                        "user": {
+                            "_type": "user",
+                            "about_me_summary": "I come home from work and start my second job writing song bios on Genius.",
+                            "api_path": "/users/5629029",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/cdf8bfd393a4addcea9dfd87d76e2a8e",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/00nbvmhlkfc2",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 5629029,
+                            "iq": 13042,
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "login": "Kelliente",
+                            "name": "Kelliente",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/Kelliente",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "created_by": {
+                    "_type": "user",
+                    "about_me_summary": "hello",
+                    "api_path": "/users/3322048",
+                    "avatar": {
+                        "tiny": {
+                            "url": "https://filepicker-images.genius.com/h74za59g0s",
+                            "bounding_box": {
+                                "width": 16,
+                                "height": 16
+                            }
+                        },
+                        "thumb": {
+                            "url": "https://filepicker-images.genius.com/h74za59g0s",
+                            "bounding_box": {
+                                "width": 32,
+                                "height": 32
+                            }
+                        },
+                        "small": {
+                            "url": "https://filepicker-images.genius.com/h74za59g0s",
+                            "bounding_box": {
+                                "width": 100,
+                                "height": 100
+                            }
+                        },
+                        "medium": {
+                            "url": "https://filepicker-images.genius.com/h74za59g0s",
+                            "bounding_box": {
+                                "width": 300,
+                                "height": 400
+                            }
+                        }
+                    },
+                    "header_image_url": "https://filepicker-images.genius.com/r8r9shbfl4",
+                    "human_readable_role_for_display": "Contributor",
+                    "id": 3322048,
+                    "iq": 13897,
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "login": "odin27",
+                    "name": "odin27",
+                    "role_for_display": "contributor",
+                    "url": "https://genius.com/odin27",
+                    "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                            "follow"
+                        ],
+                        "interactions": {
+                            "following": false
+                        }
+                    }
+                },
+                "rejection_comment": null,
+                "top_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "performance_groups": [
+        {
+            "label": "Executive Producer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2513797",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2513797,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "k",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uae40\uc5f0\uc218 (Kim Yeonsu)",
+                    "slug": "Kim-yeonsu",
+                    "url": "https://genius.com/artists/Kim-yeonsu"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                }
+            ]
+        },
+        {
+            "label": "Producer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/634653",
+                    "header_image_url": "https://images.genius.com/38b4d06b094f2b6decca8d1f6db43fed.448x448x1.jpg",
+                    "id": 634653,
+                    "image_url": "https://images.genius.com/38b4d06b094f2b6decca8d1f6db43fed.448x448x1.jpg",
+                    "index_character": "r",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rhymer (\ub77c\uc774\uba38)",
+                    "slug": "Rhymer",
+                    "url": "https://genius.com/artists/Rhymer"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/3073709",
+                    "header_image_url": "https://images.genius.com/4d8cdf88320ba902e0e79a88f246b9a1.420x420x1.jpg",
+                    "id": 3073709,
+                    "image_url": "https://images.genius.com/4d8cdf88320ba902e0e79a88f246b9a1.420x420x1.jpg",
+                    "index_character": "h",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Han Sung Soo (\ud55c\uc131\uc218)",
+                    "slug": "Han-sung-soo",
+                    "url": "https://genius.com/artists/Han-sung-soo"
+                }
+            ]
+        }
+    ],
+    "song_performances": [
+        {
+            "label": "Writers",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1646063",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 1646063,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "c",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ud06c\ub9bc\ub3c4\ub108\uce20 (Cream Donuts)",
+                    "slug": "Cream-donuts",
+                    "url": "https://genius.com/artists/Cream-donuts"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1247845",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1247845,
+                    "image_url": "https://images.genius.com/2d4dd45643239dfa8e7f9da3523e948f.1000x1000x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DINO (\ub514\ub178)",
+                    "slug": "Dino",
+                    "url": "https://genius.com/artists/Dino"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2769529",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2769529,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc5fc\ub3d9\uac74 (Dong Gun Yeom)",
+                    "slug": "Dong-gun-yeom",
+                    "url": "https://genius.com/artists/Dong-gun-yeom"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1450999",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1450999,
+                    "image_url": "https://images.genius.com/306597cbf05a1ea0713012f981517be5.1000x1000x1.jpg",
+                    "index_character": "h",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HOSHI (\ud638\uc2dc)",
+                    "slug": "Hoshi",
+                    "url": "https://genius.com/artists/Hoshi"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2458892",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2458892,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "k",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uae40\ubbfc\uc815 (Kim Min Jung)",
+                    "slug": "Kim-min-jung",
+                    "url": "https://genius.com/artists/Kim-min-jung"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2292641",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 2292641,
+                    "image_url": "https://images.genius.com/c15a763bcd35f99dec8e02a716a2ea41.1000x1000x1.jpg",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MINGYU (\ubbfc\uaddc)",
+                    "slug": "Mingyu",
+                    "url": "https://genius.com/artists/Mingyu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022186",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 1022186,
+                    "image_url": "https://images.genius.com/d15b6aeb5de13721c92d23ad1b7c63ed.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "S.COUPS (\uc5d0\uc2a4\ucff1\uc2a4)",
+                    "slug": "Scoups",
+                    "url": "https://genius.com/artists/Scoups"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007180",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1007180,
+                    "image_url": "https://images.genius.com/8ecf6bb1f96e1b2a23b9da22fd2ab347.1000x1000x1.jpg",
+                    "index_character": "v",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "VERNON (\ubc84\ub17c)",
+                    "slug": "Vernon",
+                    "url": "https://genius.com/artists/Vernon"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022188",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022188,
+                    "image_url": "https://images.genius.com/2026f55ace3367055dcd804b18d3ba88.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WONWOO (\uc6d0\uc6b0)",
+                    "slug": "Wonwoo",
+                    "url": "https://genius.com/artists/Wonwoo"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1646063",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 1646063,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "c",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ud06c\ub9bc\ub3c4\ub108\uce20 (Cream Donuts)",
+                    "slug": "Cream-donuts",
+                    "url": "https://genius.com/artists/Cream-donuts"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2769529",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2769529,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc5fc\ub3d9\uac74 (Dong Gun Yeom)",
+                    "slug": "Dong-gun-yeom",
+                    "url": "https://genius.com/artists/Dong-gun-yeom"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                }
+            ]
+        },
+        {
+            "label": "Chorus Vocals",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1646063",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 1646063,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "c",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ud06c\ub9bc\ub3c4\ub108\uce20 (Cream Donuts)",
+                    "slug": "Cream-donuts",
+                    "url": "https://genius.com/artists/Cream-donuts"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2769529",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2769529,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc5fc\ub3d9\uac74 (Dong Gun Yeom)",
+                    "slug": "Dong-gun-yeom",
+                    "url": "https://genius.com/artists/Dong-gun-yeom"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                }
+            ]
+        },
+        {
+            "label": "Electric Piano",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2588071",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2588071,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "i",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc778\uc601\ud6c8 (In Young Hoon)",
+                    "slug": "In-young-hoon",
+                    "url": "https://genius.com/artists/In-young-hoon"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1056936",
+                    "header_image_url": "https://images.genius.com/b7aac0a8965b642cc9f1b7cf87b7e228.199x199x1.jpg",
+                    "id": 1056936,
+                    "image_url": "https://images.genius.com/b7aac0a8965b642cc9f1b7cf87b7e228.199x199x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc774\ud0dc\uc6b1 (Lee Taewook)",
+                    "slug": "Lee-taewook",
+                    "url": "https://genius.com/artists/Lee-taewook"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1151259",
+                    "header_image_url": "https://images.genius.com/1bad4a476f35cbcd29eafb225b14bc48.300x300x1.jpg",
+                    "id": 1151259,
+                    "image_url": "https://images.genius.com/1bad4a476f35cbcd29eafb225b14bc48.300x300x1.jpg",
+                    "index_character": "p",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ubc15\uae30\ud0dc (Park Ki Tae)",
+                    "slug": "Park-ki-tae",
+                    "url": "https://genius.com/artists/Park-ki-tae"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1919172",
+                    "header_image_url": "https://images.genius.com/6b44a053c6956f1980ede25a433c3f98.1000x1000x1.jpg",
+                    "id": 1919172,
+                    "image_url": "https://images.genius.com/6b44a053c6956f1980ede25a433c3f98.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc815\uc218\uc644 (Sean Soowan Chung)",
+                    "slug": "Sean-soowan-chung",
+                    "url": "https://genius.com/artists/Sean-soowan-chung"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1490138",
+                    "header_image_url": "https://images.genius.com/742aabc213df122caec4ce5b3074d8a3.1000x333x1.jpg",
+                    "id": 1490138,
+                    "image_url": "https://images.genius.com/09dec501956759ffaabf47fd75a286e3.400x400x1.jpg",
+                    "index_character": "p",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PLEDIS Entertainment",
+                    "slug": "Pledis-entertainment",
+                    "url": "https://genius.com/artists/Pledis-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1247845",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1247845,
+                    "image_url": "https://images.genius.com/2d4dd45643239dfa8e7f9da3523e948f.1000x1000x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DINO (\ub514\ub178)",
+                    "slug": "Dino",
+                    "url": "https://genius.com/artists/Dino"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1450999",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1450999,
+                    "image_url": "https://images.genius.com/306597cbf05a1ea0713012f981517be5.1000x1000x1.jpg",
+                    "index_character": "h",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HOSHI (\ud638\uc2dc)",
+                    "slug": "Hoshi",
+                    "url": "https://genius.com/artists/Hoshi"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2458892",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2458892,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "k",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uae40\ubbfc\uc815 (Kim Min Jung)",
+                    "slug": "Kim-min-jung",
+                    "url": "https://genius.com/artists/Kim-min-jung"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2292641",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 2292641,
+                    "image_url": "https://images.genius.com/c15a763bcd35f99dec8e02a716a2ea41.1000x1000x1.jpg",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MINGYU (\ubbfc\uaddc)",
+                    "slug": "Mingyu",
+                    "url": "https://genius.com/artists/Mingyu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022186",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 1022186,
+                    "image_url": "https://images.genius.com/d15b6aeb5de13721c92d23ad1b7c63ed.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "S.COUPS (\uc5d0\uc2a4\ucff1\uc2a4)",
+                    "slug": "Scoups",
+                    "url": "https://genius.com/artists/Scoups"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007180",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1007180,
+                    "image_url": "https://images.genius.com/8ecf6bb1f96e1b2a23b9da22fd2ab347.1000x1000x1.jpg",
+                    "index_character": "v",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "VERNON (\ubc84\ub17c)",
+                    "slug": "Vernon",
+                    "url": "https://genius.com/artists/Vernon"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022188",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022188,
+                    "image_url": "https://images.genius.com/2026f55ace3367055dcd804b18d3ba88.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WONWOO (\uc6d0\uc6b0)",
+                    "slug": "Wonwoo",
+                    "url": "https://genius.com/artists/Wonwoo"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "slug": "Masterkey",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1046273",
+                    "header_image_url": "https://images.genius.com/953d6759690c0809d57804218ff8a302.1000x520x1.jpg",
+                    "id": 1046273,
+                    "image_url": "https://images.genius.com/e7b293da87701195645c89a6bacbc16e.445x445x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stay Tuned",
+                    "slug": "Stay-tuned",
+                    "url": "https://genius.com/artists/Stay-tuned"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022198",
+                    "header_image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "id": 1022198,
+                    "image_url": "https://images.genius.com/5ef1bf72be1fd1609e1414c71276c130.178x178x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub3d9\ub124\ud615 (Dong Nae Hyeong)",
+                    "slug": "Dong-nae-hyeong",
+                    "url": "https://genius.com/artists/Dong-nae-hyeong"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022197",
+                    "header_image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "id": 1022197,
+                    "image_url": "https://images.genius.com/db03d0b2b9c1a9892c35a92767f5c733.426x426x1.png",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc6d0\uc601\ud5cc (Won Young Heon)",
+                    "slug": "Won-young-heon",
+                    "url": "https://genius.com/artists/Won-young-heon"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1782359",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 1782359,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "index_character": "k",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uae40\ub300\uc601 (Kim Dae Young) (HYBE Studio)",
+                    "slug": "Kim-dae-young-hybe-studio",
+                    "url": "https://genius.com/artists/Kim-dae-young-hybe-studio"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "index_character": "l",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "slug": "Lishbeats",
+                    "url": "https://genius.com/artists/Lishbeats"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Director",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "slug": "Bumzu",
+                    "url": "https://genius.com/artists/Bumzu"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1041538",
+                    "header_image_url": "https://images.genius.com/2a479622fcd2d74ac1e00fb54c8ac75b.1000x625x1.jpg",
+                    "id": 1041538,
+                    "image_url": "https://images.genius.com/7c9ef68f652e2580a1e4d6ef14f5e2be.770x770x1.webp",
+                    "index_character": "0",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "THE 8 (\u5f90\u660e\u6d69)",
+                    "slug": "The-8",
+                    "url": "https://genius.com/artists/The-8"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1247845",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1247845,
+                    "image_url": "https://images.genius.com/2d4dd45643239dfa8e7f9da3523e948f.1000x1000x1.jpg",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DINO (\ub514\ub178)",
+                    "slug": "Dino",
+                    "url": "https://genius.com/artists/Dino"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1490144",
+                    "header_image_url": "https://images.genius.com/2e1e6217a0c1bd825626cdd56613234a.1000x714x1.webp",
+                    "id": 1490144,
+                    "image_url": "https://images.genius.com/4f9daa5cdf05c4c523bb7540fe4294bc.628x628x1.webp",
+                    "index_character": "d",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DOKYEOM (\ub3c4\uacb8)",
+                    "slug": "Dokyeom",
+                    "url": "https://genius.com/artists/Dokyeom"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1450999",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1450999,
+                    "image_url": "https://images.genius.com/306597cbf05a1ea0713012f981517be5.1000x1000x1.jpg",
+                    "index_character": "h",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HOSHI (\ud638\uc2dc)",
+                    "slug": "Hoshi",
+                    "url": "https://genius.com/artists/Hoshi"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1490139",
+                    "header_image_url": "https://images.genius.com/97fc04fea82a7ed576efbf4e5fd0aaa0.1000x333x1.jpg",
+                    "id": 1490139,
+                    "image_url": "https://images.genius.com/e7175f051e9c84fc82d7c53a0dba6b63.1000x1000x1.png",
+                    "index_character": "j",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JEONGHAN (\uc815\ud55c)",
+                    "slug": "Jeonghan",
+                    "url": "https://genius.com/artists/Jeonghan"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1483344",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1483344,
+                    "image_url": "https://images.genius.com/a8599bc54675a54202d40912f42657c9.1000x1000x1.jpg",
+                    "index_character": "j",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JOSHUA (SEVENTEEN)",
+                    "slug": "Joshua-seventeen",
+                    "url": "https://genius.com/artists/Joshua-seventeen"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1247862",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1247862,
+                    "image_url": "https://images.genius.com/3f4e8dd25c91c80eb5fcdebaa52c5cec.1000x1000x1.jpg",
+                    "index_character": "j",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JUN (\u6587\u4fca\u8f89)",
+                    "slug": "Jun",
+                    "url": "https://genius.com/artists/Jun"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2292641",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 2292641,
+                    "image_url": "https://images.genius.com/c15a763bcd35f99dec8e02a716a2ea41.1000x1000x1.jpg",
+                    "index_character": "m",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MINGYU (\ubbfc\uaddc)",
+                    "slug": "Mingyu",
+                    "url": "https://genius.com/artists/Mingyu"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022186",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 1022186,
+                    "image_url": "https://images.genius.com/d15b6aeb5de13721c92d23ad1b7c63ed.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "S.COUPS (\uc5d0\uc2a4\ucff1\uc2a4)",
+                    "slug": "Scoups",
+                    "url": "https://genius.com/artists/Scoups"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022196",
+                    "header_image_url": "https://images.genius.com/00bfa5a2dc411a491656d36431f80279.1000x333x1.png",
+                    "id": 1022196,
+                    "image_url": "https://images.genius.com/004502ef151bd1ddba783b198693005f.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEUNGKWAN (\uc2b9\uad00)",
+                    "slug": "Seungkwan",
+                    "url": "https://genius.com/artists/Seungkwan"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1007180",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1007180,
+                    "image_url": "https://images.genius.com/8ecf6bb1f96e1b2a23b9da22fd2ab347.1000x1000x1.jpg",
+                    "index_character": "v",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "VERNON (\ubc84\ub17c)",
+                    "slug": "Vernon",
+                    "url": "https://genius.com/artists/Vernon"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022188",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022188,
+                    "image_url": "https://images.genius.com/2026f55ace3367055dcd804b18d3ba88.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WONWOO (\uc6d0\uc6b0)",
+                    "slug": "Wonwoo",
+                    "url": "https://genius.com/artists/Wonwoo"
+                },
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "index_character": "w",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "slug": "Woozi",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        }
+    ],
+    "tracks": [
+        {
+            "number": 1,
+            "song": {
+                "_type": "song",
+                "annotation_count": 0,
+                "api_path": "/songs/3049716",
+                "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "full_title": "Shining Diamond by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+                "header_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "header_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "id": 3049716,
+                "instrumental": false,
+                "lyrics_owner_id": 4420277,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1745997339,
+                "path": "/Seventeen-shining-diamond-lyrics",
+                "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seventeen-shining-diamond-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2015",
+                "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 11491
+                },
+                "title": "Shining Diamond",
+                "title_with_featured": "Shining Diamond",
+                "updated_by_human_at": 1745988928,
+                "url": "https://genius.com/Seventeen-shining-diamond-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "_type": "artist",
+                    "api_path": "/artists/961718",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 961718,
+                    "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "slug": "Seventeen",
+                    "url": "https://genius.com/artists/Seventeen"
+                },
+                "primary_artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/961718",
+                        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                        "id": 961718,
+                        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                        "slug": "Seventeen",
+                        "url": "https://genius.com/artists/Seventeen"
+                    }
+                ],
+                "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "lyrics": "[\uc138\ube10\ud2f4 \"Shining Diamond\" \uac00\uc0ac]\n\n[Intro: Jun, Vernon]\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nAh, ah, ah, everybody get up\nSlip into the diamond life, oh!\nYeah, Seventeen, rappin the P, man\nSlip into the diamond life, oh!\nHa! Yeah, let me show you how\nSlip into the diamond life, oh!\nIt\u2019s post to be done right now\nAh, ah, ah, everybody get up\n\n[Verse 1: Vernon, S.COUPS]\nYeah, I know I\u2019m only 17\nI only got a few dollars\n\ud558\uc9c0\ub9cc \uc804\ud600 \uac1c\uc758\uce58 \uc54a\uc544 it\u2019d be no problem\n\uc774\ubbf8 \ucda9\ubd84\ud55c \uc2dc\uac04\uacfc \uc555\ub825\n\ubaa8\ub450 \uac70\ucce4\uc73c\ub2c8 \uc798 \ubd10 I\u2019m that diamond\n\uac10\ud0c4\ud558\uac8c \ub420 \uc6b0\ub9ac \ub2e8\ub2e8\ud568\uc774\n\ub9cc\ub4e4\uc5b4\ub0b4 \uac00\ub294 \uae30\ub9c9\ud78c \uc774 \uc870\ud654\ubcf4\uba74\n\ub108\ub3c4 \uc88b\uc544\ud560 \uaebc\uc57c \ubd84\uba85\n\ub0b4\uac00 \ub208\uc5d0 \ub744\uba74 \uc5c4\uc9c0 \ub4e4\uace0 \ubd99\uc5b4, uh\n\n[Pre-Chorus: Hoshi, WOOZI]\n\uc790 \ub208\ub5a0\ubd10, ooh-ah\nLike Jackson I dance around (Eh-eh)\n\uc774\uc81c \uc900\ube44\ub41c \uc0ac\ub78c\ub4e4\n\uc5ec\uae30 \ud558\ub098 \ub458 \uc14b \ub137 (Everybody get up)\n\ud759 \uc18d\uc5d0 \ubb3b\ud600 \uc788\ub358 \ub0a0\n\uc704\ub85c \ub04c\uc5b4\uc62c\ub824 (Eh-eh)\n\uc774\uc81c \ube5b\uc744 \ub0bc \uc2dc\uac04\uc774\uc57c oh, oh, oh, oh\n\n[Chorus: DK, SeungKwan]\nShining Diamonds, yeah\n\uc2dc\uac04\uc774 \ub354 \ud758\ub7ec\ub3c4\n\uc57d\ud574\uc9c0\uc9c0 \uc54a\uc544 we\u2019ll keep it up\n\uc9c0\uae08 \uc774 \ube5b\ub098\ub294 \uc57d\uc18d\uc744\n\ub124 \uc190\uc5d0 \ub07c\uc6cc\uc904\uac8c\nShining Diamonds, yeah, \ub110 \ube5b\ub0bc\uac8c\nShining Diamonds, yeah\n\n[Verse 2: Wonwoo, DK, Mingyu, WOOZI, *S.COUPS*]\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds, yeah\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds, yeah\n\uc774\uc81c \ub354 \uc228\uae30\uc9c0\ub9c8 \ud53c\ud558\ub824 \ud558\uc9c0\ub9c8\n\ub09c \uc9c0\uae08 \ub204\uad6c\ubcf4\ub2e4 \ube5b\ub098\n\uadf8 \uc5b4\ub5a4 \ub204\uad6c\ubcf4\ub2e4 (\ube5b\ub098)\n\uac10\ucd94\ub824 \ud558\uc9c0\ub9c8, yeah, uh\n*\ub2e4 \ud544\uc694 \uc5c6\ub294 \uac10\uc815\n\uc5ec\uae30 \uc0c1\ud0dc\ub294 \ucd5c\uace0\uc870\ub97c \ub2ec\ub824 (Coups!)\n\ub2c8 \ubab8 \uc548\uc5d0 \uac10\ucd98 \uac78\n\ud1a0\ud574\ub0b4 \uc3df\uc544\ub0b4 (Yeah)\n\ubaa8\ub450\uac00 \uc774 \ubab8\uc744 \ud0d0 \ub0b4\uac8c \ud574*\n\n[Pre-Chorus: Joshua, Jeonghan]\n\uc790 \ub208\ub5a0\ubd10, ooh-ah\nLike Jackson I dance around (Eh-eh)\n\uc774\uc81c \uc900\ube44\ub41c \uc0ac\ub78c\ub4e4\n\uc5ec\uae30 \ud558\ub098 \ub458 \uc14b \ub137 (Everybody Get Up)\n\ud759 \uc18d\uc5d0 \ubb3b\ud600 \uc788\ub358 \ub0a0\n\uc704\ub85c \ub04c\uc5b4\uc62c\ub824 (Eh-eh)\n\uc774\uc81c \ube5b\uc744 \ub0bc \uc2dc\uac04\uc774\uc57c oh, oh, oh, oh\n\n[Chorus: DK, SeungKwan]\nShining Diamonds, yeah\n\uc2dc\uac04\uc774 \ub354 \ud758\ub7ec\ub3c4\n\uc57d\ud574\uc9c0\uc9c0 \uc54a\uc544 we\u2019ll keep it up\n\uc9c0\uae08 \uc774 \ube5b\ub098\ub294 \uc57d\uc18d\uc744\n\ub124 \uc190\uc5d0 \ub07c\uc6cc\uc904\uac8c\nShining Diamonds, yeah, \ub110 \ube5b\ub0bc\uac8c\n\n[Bridge: THE 8, Hoshi, SeungKwan, DK & SeungKwan]\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nAh ah ah everybody get up\nSlip into the diamond life oh!\nSlip into the diamond life oh!\nSlip into the diamond life oh!\nSlip into the shining diamond life\nShining Diamonds, yeah\n\uc2dc\uac04\uc774 \ub354 \ud758\ub7ec\ub3c4\n\uc57d\ud574\uc9c0\uc9c0 \uc54a\uc544 we\u2019ll keep it up\n\uc9c0\uae08 \uc774 \ube5b\ub098\ub294 \uc57d\uc18d\uc744\n\ub124 \uc190\uc5d0 \ub07c\uc6cc\uc904\uac8c\nShining Diamonds, yeah, \ub110 \ube5b\ub0bc\uac8c\nWe gon shine like woah!\n\n[Outro: DK, Vernon & Dino, S.COUPS, Wonwoo & Mingyu, WOOZI]\nShining Diamonds, yeah\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds, yeah\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds yeah"
+            }
+        },
+        {
+            "number": 2,
+            "song": {
+                "_type": "song",
+                "annotation_count": 1,
+                "api_path": "/songs/2892553",
+                "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "full_title": "\uc544\ub080\ub2e4 (Adore U) by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+                "header_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "header_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "id": 2892553,
+                "instrumental": false,
+                "lyrics_owner_id": 4474151,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1764090385,
+                "path": "/Seventeen-adore-u-lyrics",
+                "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Seventeen-adore-u-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2015",
+                "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false,
+                    "pageviews": 15586
+                },
+                "title": "\uc544\ub080\ub2e4 (Adore U)",
+                "title_with_featured": "\uc544\ub080\ub2e4 (Adore U)",
+                "updated_by_human_at": 1764090385,
+                "url": "https://genius.com/Seventeen-adore-u-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "_type": "artist",
+                    "api_path": "/artists/961718",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 961718,
+                    "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "slug": "Seventeen",
+                    "url": "https://genius.com/artists/Seventeen"
+                },
+                "primary_artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/961718",
+                        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                        "id": 961718,
+                        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                        "slug": "Seventeen",
+                        "url": "https://genius.com/artists/Seventeen"
+                    }
+                ],
+                "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "lyrics": "[\uc138\ube10\ud2f4 \"\uc544\ub080\ub2e4\" \uac00\uc0ac]\n\n[Intro: S.COUPS, Vernon, Jun, Mingyu]\nAyy-yo, ayy-yo (SEVENTEEN), yup\nUh-huh, you know what?\n(\uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c \uc0dd\uac01\uc774 \ub9ce\uc544) Da-da-da\n(\uc694\uc998\ub9d0\uc57c \ub108\uc5d0\uac8c \ub9d0\uc57c \ud560 \ub9d0\uc774 \ub9ce\uc544) Da-da-da\n(\uc694\uc998\ub9d0\uc57c)\n\n[Verse 1: Seungkwan, DK]\n\ub0b4\uac00 \uc880 \uc774\uc0c1\ud574 \ub9d0\uc218\uac00 \uc801\uc5b4\uc838\n\uce5c\uad6c\ub4e4\uc774 \ub2e4 \uac71\uc815\ud574, yeah, yeah-yeah-yeah (\uc694\uc998\ub9d0\uc57c)\n\ub124 \uc55e\uc5d0\ub9cc \uc11c\uba74 \uc2ec\uc7a5\uc774 \ub6f0\uc5b4\uc11c\n\ud589\ub3d9\uc774 \uc11c\ud234\ub7ec\uc11c \ubbf8\uc548\ud574\n\n[Pre-Chorus: Vernon, Dino]\n\uc544\uc9c1\ub3c4 \uc870\uc808\uc774 \uc548\ub3fc\n\ub098 \uac16\uace0 \ub180\uc9c0 \uc880 \ub9d0\ub798\n\uc65c \uc790\uafb8 front\ud558\ub294\uac74\ub370?\n\ubaa8\ub974\uaca0\ub2e4, \ubaa8\ub974\uaca0\ub2e4, \uc5b4\ub5bb\uac8c\ub4e0 \ub418\uaca0\uc9c0\n\n[Chorus: SeungKwan, WOOZI, DK]\n\uadf8\ub2c8\uae4c \ub0b4 \ub9d0\uc740 \ub108\ub97c \ub2e4 \uc54c\uace0 \uc2f6\uc5b4\n\ub108\ub97c \ub178\ub798\ud574 you-ooh, \ub108\ub97c \ub178\ub798\ud574 you-ooh\n\uc785\uc220\uc774 \ub9d0\ub77c\ub3c4 \ud560\ub9d0\uc740 \ud574\uc57c\uaca0\uc5b4, baby\n\uc544\uaef4 \ub110, \uc544\uaef4 \ub110 \ud604\uae30\uc99d \ub0a0 \uc815\ub3c4\ub85c\n\n[Post-Chorus: Mingyu, WOOZI]\n(\uc544\ub080\ub2e4) \uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c\n(\uc694\uc998\ub9d0\uc57c; Uh, uh, uh)\n(\uc544\ub080\ub2e4) \uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c\n(\uc694\uc998, \uc694\uc998\ub9d0\uc57c; Uh, uh, uh)\n\n[Verse 2: S.COUPS, Hoshi, Vernon, THE 8, *Jun*, **Joshua**]\n\uc5b4\uca4c\ub2e4\uac00 \ub208\uc774 \ubd80\uc2dc\ub294\uac00\n\uc774\uae30\uc801\uc778 \uc678\ubaa8 \uacb8\uc190\ud55c \uc131\ud488\uc744 \ubd10\n\uc5ec\uae30 \uac10\ud788 \uc5b4\ub514\ub77c\uace0 \ub18d\uc774 \uc544\ub0d0\n\ub108\uc5d0 \ub9e4\ub825\uc5d0 \ub300\ud55c \uc0ac\uc2e4\uc744 \uace0\ud55c\ub2e4, oh\n\ub0a0 \ubcf4\uace0 \uc6c3\ub294 \uac8c \uc88b\uc544\uc120\uc9c0\n\uc544\ub2c8\uba74 \uadf8\ub0e5 \uc6b0\uc2a4\uc6cc \ubcf4\uc774\ub294 \uac74\uc9c0, ho\n(Yeah) \uc9c0\uae08 \uc790\ub9b4 \ucc3e\uace0 \uc788\ub2e4\uba74\n(Yeah) *\ub0b4 \uc606\uc790\ub9ac\uac00 \uc88b\uc544 \ubcf4\uc5ec*\n(Yeah) **\ub108\uc5d0\uac8c \uad00\uc2ec \ub9ce\uc5b4**\n**\uc2e0\ubc1c \uc0ac\uc774\uc988 \uae4c\uc9c0\ub3c4, ooh-oh**\n\n[Pre-Chorus: Wonwoo, Mingyu]\n\uc544, \uc9c0\uae08 \ub108 \ub55c\uc5d0 \ubd88\uc774\ub098\n\ub098\ub97c \uc2dd\ud788\ub294 \uac74 \ubb34\ub9ac\uc57c\n\uc544, \uc9c0\uae08 \ub108 \ub55c\uc5d0 \ubd88\uc774\ub098\n\ubaa8\ub974\uaca0\ub2e4, \ubaa8\ub974\uaca0\ub2e4 \uc5b4\ub5bb\uac8c\ub4e0 \ub418\uaca0\uc9c0\n\n[Chorus: SeungKwan, WOOZI, DK]\n\uadf8\ub2c8\uae4c \ub0b4 \ub9d0\uc740 \ub108\ub97c \ub2e4 \uc54c\uace0 \uc2f6\uc5b4 (Yeah, yeah)\n\ub108\ub97c \ub178\ub798\ud574 you-ooh, \ub108\ub97c \ub178\ub798\ud574 you-ooh\n\uc785\uc220\uc774 \ub9d0\ub77c\ub3c4 \ud560\ub9d0\uc740 \ud574\uc57c\uaca0\uc5b4, baby\n\uc544\uaef4 \ub110, \uc544\uaef4 \ub110 \ud604\uae30\uc99d \ub0a0 \uc815\ub3c4\ub85c\n\n[Post-Chorus: Hoshi, WOOZI]\n(\uc544\ub080\ub2e4) \uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c\n(\uc694\uc998\ub9d0\uc57c; Uh, uh, uh)\n(\uc544\ub080\ub2e4) \uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c\n(\uc694\uc998, \uc694\uc998\ub9d0\uc57c; Uh, uh, uh)\n\n[Bridge: SeungKwan, DK, Vernon, S.COUPS]\n\ub108 \uc5ec\uae30 \uae30\ub300\ub3c4 \ub3fc\n\ub108\uc758 \uc544\ud514 \ub098\ub85c \ub36e\uc5b4\ub3c4 \ub3fc\n\ub124 \uc18d\ub9c8\uc74c \ubd88\uc5b4 (\ub208\uce58\ucc44\uae34 \uc5ed\ubd80\uc871)\nCan't fake it no more (\ub04c\uc5b4\uc62c\ub824 \uc18d\ub3c4)\n\ud295\uae30\ub294 \uac74 \uc774\ucbe4\uc5d0\uc11c \ub05d\ub0b4\uace0\n\uc774\uc81c \ub098\ub3c4 \ud55c\ubc88 \ubd88\ub7ec\ubcf4\uc790\nBaby, you are my angel\n\n[Chorus: SeungKwan, WOOZI, DK]\n\ub108\ub97c \ub2e4 \uc54c\uace0 \uc2f6\uc5b4 (Yeah, yeah)\n\ub108\ub97c \ub178\ub798\ud574 you-ooh, \ub108\ub97c \ub178\ub798\ud574 you-ooh\n\uc785\uc220\uc774 \ub9d0\ub77c\ub3c4 \ud560\ub9d0\uc740 \ud574\uc57c\uaca0\uc5b4, baby (No, woah, no, oh)\n\uc544\uaef4 \ub110, \uc544\uaef4 \ub110 \ud604\uae30\uc99d \ub0a0 \uc815\ub3c4\ub85c (No, no, no-no-no-no)\n\n[Post-Chorus: Hoshi, Mingyu, WOOZI, SeungKwan]\n(\uc544\ub080\ub2e4) \uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c\n(\uc694\uc998\ub9d0\uc57c; Uh, uh, uh)\n(\uc544\ub080\ub2e4) \uc694\uc998\ub9d0\uc57c \ub0b4\uac00\ub9d0\uc57c (Yeah, yeah-yeah)\n(\uc694\uc998, \uc694\uc998\ub9d0\uc57c; Uh, uh, uh)"
+            }
+        },
+        {
+            "number": 3,
+            "song": {
+                "_type": "song",
+                "annotation_count": 0,
+                "api_path": "/songs/3049720",
+                "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "full_title": "Ah Yeah by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+                "header_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "header_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "id": 3049720,
+                "instrumental": false,
+                "lyrics_owner_id": 4420277,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1653425566,
+                "path": "/Seventeen-ah-yeah-lyrics",
+                "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seventeen-ah-yeah-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2015",
+                "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Ah Yeah",
+                "title_with_featured": "Ah Yeah",
+                "updated_by_human_at": 1653564193,
+                "url": "https://genius.com/Seventeen-ah-yeah-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "_type": "artist",
+                    "api_path": "/artists/961718",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 961718,
+                    "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "slug": "Seventeen",
+                    "url": "https://genius.com/artists/Seventeen"
+                },
+                "primary_artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/961718",
+                        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                        "id": 961718,
+                        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                        "slug": "Seventeen",
+                        "url": "https://genius.com/artists/Seventeen"
+                    }
+                ],
+                "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "lyrics": "[\uc138\ube10\ud2f4 \"Ah Yeah\" \uac00\uc0ac]\n\n[Intro: Vernon]\n\uc544 \uc608, \uc544 \uc608 \uadfc\ub370 \ubb50\ub77c\uad6c\uc694?\nYo S.COUPS, here\u2019s the baton, man\n\n[Verse 1: S.COUPS]\n\ub4f1\uc7a5\uacfc \ub3d9\uc2dc\uc5d0 \ub4e4\ub7ec\ub9ac\ub4e4 \ubc14\ub2e5\uc5d0\uc11c\n\uce68 \ud758\ub9ac\uba70 \uae30\uc808 \uadf8 \uc704\uc5d0\uc11c \uc218\uc601\ud574\uc694\nWoah, \uc606\uad6c\ub9ac \uc9c0\ubc29\ud29c\ube0c \ub07c\uace0 \ubabb \ub72c\n\uc560\ub4e4\uc774 \uc54c\ub9ac \uc788\ub098\n\ubabb \ub72c \uc774\uc720 \uc808\ub300 \ubaa8\ub984 (Don't know)\n\ub9de\ucd9c \uc0dd\uac01 \uc5c6\uc5b4\n\ub2c8 \uc2dd\uacac\uc5d0 \ub0a0 \ub9de\ucd94\uc9c0 \ub9d0\uae38\n\ub9c9 \uadc0\ub4e4 \ubc29\uad6c\uc11d \ubc15\ud600 \ubc16\uc5d0 \ub098\uc624\uc9c8 \uc54a\uc9c0\n\uadf8\ub534 \uc2dd\uc73c\ub85c \ud3c9\uc0dd\uc6b0\ub9ac \ub4a4 \uc77c\ud314 (\uc77c\uce60)\n\uad11\ub561\ub3c4 \uc544\ub140 \ubd88 \ud544\uc694 \uc5c6\uc774\n\ud55c\ubc88 \ub4e3\uace0 \ub05d (Ho)\n\n[Verse 2: Wonwoo]\n\uc774\uc820 \ucd9c\ubc1c\uc120 \uc2e0\ubc1c\ub048 \uaf49 \ub9e4\n\ube44\uc2a4\ub4ec\ud574 \uc6b0\ub9ac\ub791 1\ub4f1 \uc0ac\uc774 \uac04\uaca9\n\ud574\uac00 \ub418\ub358 \ubaa8\ub798\uc8fc\uba38\ub2c8 \uc591 \uc606 (\uc606)\n\ubc1c\uc5d0\uc11c \ub5bc\uace0 \uc790\uc138\ub97c \uc7a1\uc544 \ud06c\ub77c\uc6b0\uce58 (\ub2ec\ub824)\n\uaf34\ucc0c\uc5d0\uc11c \uc774\ub4f1\uc774 \ub418\uace0\n\ube44\ub4f1\ube44\ub4f1\ud55c \uc774\ud2c8\uc5d0\uc11c\n\uc77c\ub4f1\uc774 \ub418\uace0\ud30c (I wanna, wanna)\n\ubb34\uc791\uc815 \uc778\uae30 \ub9ce\uc740\uac74 \ub410\uace0\n\uc6b0\ub9ac \uc598\uae30\ub85c \ub9ce\uc740 \uc774\ub4e4\uc758\n\uadc0\ub97c \ucc44\uc6b0\uace0\ud30c (Pull up)\n\n[Pre-Chorus: Mingyu]\nHold up \ubb54\uac00 \ubb34\uac70\uc6b4 \uc785\uc7a5\n\uc2dc\uc120 \uac15\ud0c8 \uadf8 \ud6c4 \uc0ac\ubfd0\uc0ac\ubfd0 \ub6f0\uc5b4 \ub180\uc544\nTurnt up, I don\u2019t give a\nWhat, what, what, what, what\nWhat you gonna say?\n\n[Chorus: Vernon, S.COUPS]\n\uc544 (\uc544\uc608, \uc544\uc608, \uc544\uc608, \uc544\uc608) \uc608 \uadfc\ub370 \ubb50\ub77c\uace0\uc694?\n(He, he) \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694 \uc804\ubd80 \ub2e4\n\uc544 (\uc544\uc608, \uc544\uc608, \uc544\uc608, \uc544\uc608) \uc608 \uc774\ud574\uac00 \uc548\uac00\uc694\n\ud55c\ubc88\ub9cc \ub354 \ub9d0\ud574\uc904\ub798\uc694 \ub108 \ub9d0\uc57c\n\n[Post-Chorus: Mingyu, Vernon]\n(You ain\u2019t) Got no feel, got no feel\n(You ain\u2019t) Got no feel, got no feel\n(You ain\u2019t) Got no feel, got no feel\nI\u2019m turnt up I\u2019m super turnt up\n(You ain\u2019t) Got no feel, got no feel\n(You ain\u2019t) Got no feel, got no feel\n(You ain\u2019t) Got no feel, got no feel\nI\u2019m turnt up, I\u2019m super turnt up\n\n[Verse 3: Vernon]\nVernon yeah Pull up on you wacks\nWith a Mac fully loaded, ah\n\ud37c\ubd80\uc5b4 \uc7a5\ub9c8\ucca0\n\ubc8c\uc9d1\ub4e4\uc774 \ubd88\uc5b4\ub098 \ub0b4 \uc2dc\uc57c\ub97c \uac00\ub824 (Wow)\n\uc9c0\uac00 \ubb54 \uc18c\ub9ac\ud558\ub294\uc9c0\ub3c4 \ubaa8\ub974\uba74\uc11c\n\uc9d6\uc5b4\ub300\ub294 \uad11\uacac\ub4e4 (Bow-wow)\n\uc9c0\uae08 \uc774 \ubc8c\uc2a4\ub85c \uce58\ub8cc\ub420\uac78 \ubc14\ub784\uac8c\n'Cause I'm the vet, you know it\n\n[Pre-Chorus: Mingyu]\nHold up \ubb54\uac00 \ubb34\uac70\uc6b4 \uc785\uc7a5\n\uc2dc\uc120 \uac15\ud0c8 \uadf8 \ud6c4 \uc0ac\ubfd0\uc0ac\ubfd0 \ub6f0\uc5b4 \ub180\uc544\nTurnt up, I don\u2019t give a\nWhat, what, what, what, what\nWhat you gonna say?\n\n[Chorus: Vernon, S.COUPS]\n\uc544 (\uc544\uc608, \uc544\uc608, \uc544\uc608, \uc544\uc608) \uc608 \uadfc\ub370 \ubb50\ub77c\uace0\uc694?\n(He, he) \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694 \uc804\ubd80 \ub2e4\n\uc544 (\uc544\uc608, \uc544\uc608, \uc544\uc608, \uc544\uc608) \uc608 \uc774\ud574\uac00 \uc548\uac00\uc694\n\ud55c\ubc88\ub9cc \ub354 \ub9d0\ud574\uc904\ub798\uc694 \ub108 \ub9d0\uc57c\n\n[Post-Chorus: Mingyu, Vernon]\n(You ain\u2019t) Got no feel got no feel\n(You ain\u2019t) Got no feel got no feel\n(You ain\u2019t) Got no feel got no feel\nI\u2019m turnt up I\u2019m super turnt up\n(You ain\u2019t) Got no feel got no feel\n(You ain\u2019t) Got no feel got no feel\n(You ain\u2019t) Got no feel got no feel\nI\u2019m turnt up I\u2019m super turnt up\n\n[Verse 4: Mingyu, Vernon]\n\uc774 \uae38\uc740 \ub124\uac00 \uac77\uc9c0 \ubabb\ud574 (\uc544\uc608)\n\ub10c \uadf8 \uc815\ub3c4 \ubc16\uc5d0 \ubabb\ud574 (\uc544\uc608)\n\ubb54 \ub9d0\uc778\uc9c0 \uc54c\uc9c0\n\uc544\uc608 \ubaa8\ub974\uaca0\uc5b4 \uc81c\ubc1c \uc2e0\uacbd \uc880 \uaebc\uc8fc\uae38 \ubc14\ub798\n\uc774 \uae38\uc740 \ub124\uac00 \uac77\uc9c0 \ubabb\ud574 (\uc544\uc608)\n\ub10c \uadf8 \uc815\ub3c4 \ubc16\uc5d0 \ubabb\ud574 (\uc544\uc608)\n\ubb54 \ub9d0\uc778\uc9c0 \uc54c\uc9c0\nAh yeah, one more time say\nWhat, what, what, what, what\nWhat you gonna say?\n\n[Chorus: Vernon, S.COUPS]\n\uc544 (\uc544\uc608, \uc544\uc608, \uc544\uc608, \uc544\uc608) \uc608 \uadfc\ub370 \ubb50\ub77c\uace0\uc694?\n(He, he) \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694 \uc804\ubd80 \ub2e4\n\uc544 (\uc544\uc608, \uc544\uc608, \uc544\uc608, \uc544\uc608) \uc608 \uc774\ud574\uac00 \uc548\uac00\uc694\n\ud55c\ubc88\ub9cc \ub354 \ub9d0\ud574\uc904\ub798\uc694 \ub108 \ub9d0\uc57c\n\n[Outro: Vernon]\nI'm turnt up, I'm super turnt up"
+            }
+        },
+        {
+            "number": 4,
+            "song": {
+                "_type": "song",
+                "annotation_count": 0,
+                "api_path": "/songs/3049722",
+                "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "full_title": "Jam Jam by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+                "header_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "header_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "id": 3049722,
+                "instrumental": false,
+                "lyrics_owner_id": 4420277,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1653429164,
+                "path": "/Seventeen-jam-jam-lyrics",
+                "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seventeen-jam-jam-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2015",
+                "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                },
+                "title": "Jam Jam",
+                "title_with_featured": "Jam Jam",
+                "updated_by_human_at": 1747326017,
+                "url": "https://genius.com/Seventeen-jam-jam-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "_type": "artist",
+                    "api_path": "/artists/961718",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 961718,
+                    "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "slug": "Seventeen",
+                    "url": "https://genius.com/artists/Seventeen"
+                },
+                "primary_artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/961718",
+                        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                        "id": 961718,
+                        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                        "slug": "Seventeen",
+                        "url": "https://genius.com/artists/Seventeen"
+                    }
+                ],
+                "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "lyrics": "[\uc138\ube10\ud2f4 \"Jam Jam\" \uac00\uc0ac]\n\n[Intro: Jun, Hoshi]\nPlay with me (Hey!)\nHey, baby, play with me (Hey!)\nYeah, baby, play with me (Ooh)\nBrr! Dirty, dirty \uc7bc\uc7bc\n\n[Chorus:  Jun, Vernon]\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty \uc7bc\uc7bc\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty \uc7bc\uc7bc\n\n[Verse 1: Hoshi, Dino]\n\ud558\uae30 \ud798\ub4e0 \uac74 \ub0b4\uc77c \ud574\n\uad1c\ud788 \uc560\uc368\uc11c \uc548 \ud574\ub3c4 \ub3fc, baby (\ub0b4\uac00 \ud638\uc2dc)\n\ub2e4\ub4e4 \ub0b4\uac8c \ub9d0\ud574\n\uc880\ub354 dirty\ud55c jamming\uc744 \uc6d0\ud574\n\ud3f0 \uc5d0\uac8c \ub9d0\ud574\ub46c \uc7a0\uc2dc \ub0a0\uace0 \uc624\uaca0\ub2e4\uace0\n\uc8fc\ubcc0\uc2dc\uc120\uc5d0 \ubc1c\ubaa9 \uc7a1\ud788\uc9c0 \ub9d0\uace0\n\uc790\uc720\ub86d\uac8c \uc990\uaca8 \uc900\ube44 \ub530\uc708 skip\n\ub290\ub080 \ub300\ub85c \uc870\uc808 \ud560 \ud544\uc694 \uc5c6\uc5b4 \uc218\uc704\n\n[Pre-Chorus: THE 8, Hoshi, Jun, Dino]\n\uc544\ubb34 \ub54c\ub098 \ub204\uac00 \uc6b0\ub9b4 \ub530\ub77c\uc628\ub2e4 \ud574 (Eh-eh)\n\uc5b4\uae68 \ud138\uace0\uac00\n\uadf8\ub0e5 \uac00\ubccd\uac8c \ub530\ub77c\uc624\uba74 \ub3fc (What you say, baby?)\nSay my name, say my name\nOh, \ub354 \ubbf8\uce5c \ub4ef\uc774 \ub5a0\ub098\uac08 \ub4ef\uc774\nSay my name, say my name, oh\nBrr! Dirty, dirty \uc7bc\uc7bc\n\n[Chorus: Jun, Vernon]\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty \uc7bc\uc7bc\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty \uc7bc\uc7bc\n\n[Verse 2: Vernon]\nJamming mouths up\nLike bad traffic rush hour rapping\n\ub9c9\ucc28 \uc7a1\ub294 \ub4ef \ubc85\ucc2c BPM\uc758 rhythm\n\ub0b4\uac90 \uadf8\uc800 \uadf8\ub7f0 beat \uc911 \ud558\ub098\uc77c \ubfd0\nI just beat\ub97c \ud0c8 \ubfd0\n\ub0b4\ud0ac \ub300\ub85c \ub2ec\ub9ac\ub294 \uc911, uh (Skrrt)\nI'ma keep grinding like this\n\uc194\uae4c \ub098\uac19\uc774 \ub7a9 \ud558\ub294 \uc560\n\ud55c \ubc88\ub3c4 \ubabb \ubd24\uc9c0 (Oh, no)\nYeah, \uc774\uac74 \uc790\uadf9\uc81c \uac70\uae30 \ub531 \uae30\ub2e4\ub824\n\uace7\uc7a5 \ub530\ub77c\uc7a1\uc744\uac8c, yup\n\n[Pre-Chorus: THE 8, Hoshi, Jun, Dino]\n\uc544\ubb34 \ub54c\ub098 \ub204\uac00 \uc6b0\ub9b4 \ub530\ub77c\uc628\ub2e4 \ud574 (Eh-eh)\n\uc5b4\uae68 \ud138\uace0\uac00\n\uadf8\ub0e5 \uac00\ubccd\uac8c \ub530\ub77c\uc624\uba74 \ub3fc (What you say, baby?)\nSay my name, say my name\nOh, \ub354 \ubbf8\uce5c \ub4ef\uc774 \ub5a0\ub098\uac08 \ub4ef\uc774\nSay my name, say my name, oh\nBrr! Dirty, dirty \uc7bc\uc7bc\n\n[Chorus: Jun, Vernon]\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty \uc7bc\uc7bc\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty \uc7bc\uc7bc\n\n[Verse 3: Vernon, Hoshi]\nCome, come \ub0b4 \uc190\uc9d3 \ub530\ub77c, baby\nDon't, don't \uc9c0\ub09c \uc77c\uc740 \ub4a4\ub85c, baby\n\uc774\ub9ac \uc628 \uc6d0\ud558\ub294 \uac70 \ub2e4 \uc904\uac8c\n\uc5ec\uae30\uc800\uae30 \ubaa8\ub450 dirty, dirty \uc7bc\uc7bc\nCome, come \ub0b4 \uc190\uc9d3 \ub530\ub77c, baby\nDon't, don't \uc9c0\ub09c \uc77c\uc740 \ub4a4\ub85c, baby\n\uc774\ub9ac \uc628 \uc6d0\ud558\ub294\uac70 \ub2e4 \uc904\uac8c\n\uc5ec\uae30\uc800\uae30 \ubaa8\ub450 dirty, dirty \uc7bc\uc7bc\n\n[Chorus: Jun, Vernon]\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty jam jam\n(Hey! Eh-eh, hey!)\nBrr! Dirty, dirty jam jam\n\n[Outro: THE 8 & Dino, Jun]\nGo dirty, go, go, go dirty, go \uc7bc\uc7bc\nGo dirty, go, go, go dirty, go \uc7bc\uc7bc\nGo dirty, go, go, go dirty, go \uc7bc\uc7bc\nGo dirty, go, go, go dirty\nBrr! Dirty, dirty \uc7bc\uc7bc"
+            }
+        },
+        {
+            "number": 5,
+            "song": {
+                "_type": "song",
+                "annotation_count": 0,
+                "api_path": "/songs/3049724",
+                "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "full_title": "20 by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+                "header_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "header_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "id": 3049724,
+                "instrumental": false,
+                "lyrics_owner_id": 4420277,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1685540077,
+                "path": "/Seventeen-20-lyrics",
+                "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "pyongs_count": null,
+                "relationships_index_url": "https://genius.com/Seventeen-20-sample",
+                "release_date_components": {
+                    "year": 2015,
+                    "month": 5,
+                    "day": 29
+                },
+                "release_date_for_display": "May 29, 2015",
+                "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                "song_art_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+                "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false,
+                    "pageviews": 8585
+                },
+                "title": "20",
+                "title_with_featured": "20",
+                "updated_by_human_at": 1747326068,
+                "url": "https://genius.com/Seventeen-20-lyrics",
+                "featured_artists": [],
+                "primary_artist": {
+                    "_type": "artist",
+                    "api_path": "/artists/961718",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 961718,
+                    "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                    "index_character": "s",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "slug": "Seventeen",
+                    "url": "https://genius.com/artists/Seventeen"
+                },
+                "primary_artists": [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/961718",
+                        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                        "id": 961718,
+                        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                        "index_character": "s",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                        "slug": "Seventeen",
+                        "url": "https://genius.com/artists/Seventeen"
+                    }
+                ],
+                "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "lyrics": "[\uc138\ube10\ud2f4 \"20\" \uac00\uc0ac]\n\n[Verse 1: Jeonghan, Woozi]\n\uc544\uc9c1\ub3c4 \ud558\ub8e8 \uc628\uc885\uc77c \uc9c0\ub8e8\ud558\uae30 \ub9cc\ud55c morning\n(Far away, so far away, far away, so far away)\n\uc5b8\uc81c\uae4c\uc9c0\ub098 \uc9c4\uc804\uc774 \uc5c6\ub294 \ub108\uc640\uc758 \uac70\ub9b0\nSo far away (Far away, so far away)\n\n[Pre-Chorus: Joshua, SeungKwan, DK]\n\uc544\uc9c1\ub3c4 \uc608\uc804\uc758 \ub098\uc5d0 \uba38\ubb34\ub294\uc9c0\n\uadf8\ub798 \uc544\ub9c8\ub3c4 \uc791\uc740 \ub108\uc758 \ub208\uc5d4 \uc544\uc9c1\n\uc5b4\ub9b0 \uc544\uc774\uc758 \ubaa8\uc2b5\uc73c\ub85c \ubcf4\uc774\uaca0\uc9c0\n\ubb50 \ud558\ub8e8 \uc774\ud2c0\uc758 \uc77c\uc740 \uc544\ub2c8\ub2c8\n\uadfc\ub370 \ubb58 \uc5b4\ub5a1\ud574\n\ub0b4 \uc55e\uc5d0\uc11c \uc6c3\ub294 \uac8c \uc2e0\uacbd \uc4f0\uc774\ub294\ub370\n\uadf8\ub0e5 \uac00\ub9cc\ud788 \uc788\uc744 \uc0c1\ud669\uc740 \uc544\ub2cc\ub370\n\n[Chorus: SeungKwan, DK]\nI wanna be your morning, baby\n\uc774\uc81c\ubd80\ud134 be alright\n\ud568\uaed8 \uc788\ub294 morning, baby\nI want you to be my night\n\ub108\uc758 \uc0dd\uac01\ud558\ub294 \ubaa8\ub4e0 \uac8c\n\ub098\uc758 \ubaa8\ub4e0 \uac83 \uc774 \ub420 \uc218 \uc788\ub3c4\ub85d\n\ub0a0 \ubd10\uc918 and be my lady\nYou're my twenties\n\n[Post-Chorus: WOOZI]\n\uadf8\ub0e5 \uc544\ubb34\ub807\uc9c0 \uc54a\uac8c \ub118\uae30\ub824\uace0 \ud558\uc9c0\ub9c8\nIf you want me, yeah, if you want me\n\ub0b4 \uc804\ubd88 \ub108\uc5d0\uac8c \ub2e4 \uc904 \uc218 \uc788\uc5b4\n\ub0b4\uac00 \uc788\ub2e4\uba74 \ub2c8 \ub9d8\uc5d0 \uc788\ub2e4\uba74\n\n[Verse 2: Jeonghan, WOOZI]\nOh, \uc815\ub9d0 \uc544\ubb34\ub3c4 \ubaa8\ub974\uac8c \uc5b4\ub290\uc0c8\n\ub098\uc870\ucc28\ub3c4 \ubcc0\ud574 \ubc84\ub838\ub124\n\uaf2c\uc600\ub124 \uaf2c\uc600\ub124, baby\n\ub124\uac8c \uaf2c\uc600\ub124 \uaf2c\uc600\uc5b4, lady\n\uc815\ub9d0 \ub0b4\uac00 \uc774\ub7f4 \uc904\uc740 \ubab0\ub790\uc5b4\n\uc124\ub9c8 \ud588\ub358 \uc77c\uc774\ub77c\uc11c (You\u2019re ooh-ooh-ooh)\n\n[Pre-Chorzs: Jeonghan, SeungKwan, DK]\n\uc544\uc9c1\ub3c4 \uc608\uc804\uc758 \ub098\uc5d0 \uba38\ubb34\ub294\uc9c0\n\uadf8\ub798 \uc544\ub9c8\ub3c4 \uc791\uc740 \ub108\uc758 \ub208\uc5d4 \uc544\uc9c1\n\uc5b4\ub9b0 \uc544\uc774\uc758 \ubaa8\uc2b5\uc73c\ub85c \ubcf4\uc774\uaca0\uc9c0\n\ubb50 \ud558\ub8e8 \uc774\ud2c0\uc758 \uc77c\uc740 \uc544\ub2c8\ub2c8\n\uadfc\ub370 \ubb58 \uc5b4\ub5a1\ud574 (Ooh-oh)\n\ub0b4 \uc55e\uc5d0\uc11c \uc6c3\ub294 \uac8c \uc2e0\uacbd \uc4f0\uc774\ub294\ub370\n\uadf8\ub0e5 \uac00\ub9cc\ud788 \uc788\uc744 \uc0c1\ud669\uc740 \uc544\ub2cc\ub370\n\n[Chorus: SeungKwan, Jeonghan, Joshua]\nI wanna be your morning, baby\n\uc774\uc81c\ubd80\ud134 be alright\n\ud568\uaed8 \uc788\ub294 morning, baby\nI want you to be my night\n\ub108\uc758 \uc0dd\uac01\ud558\ub294 \ubaa8\ub4e0 \uac8c\n\ub098\uc758 \ubaa8\ub4e0 \uac83 \uc774 \ub420 \uc218 \uc788\ub3c4\ub85d\n\ub0a0 \ubd10\uc918 and be my lady\nYou're my twenties\n\n[Bridge: DK, WOOZI, SeungKwan]\n\ub0a0 \ubcf4\uace0 \uc788\ub294 \ub2c8 \ubaa8\uc2b5\uc774 \ucc38 \uc544\ub984\ub2f5\ub2e4\uace0\n\ub2e4 \uc804\ud558\uace0\ub9cc \uc2f6\uc5b4\n\ub208 \uc55e\uc5d0 \ubcf4\uc774\ub294 \ub2c8 \ubaa8\ub4e0\uac78\n\ub2e4 \uc544\ub07c\uace0 \uc2f6\uc5b4 \uadf8\ub0e5\n\ub0b4\uac8c \uc640\uc8fc\uba74 \ub418\nI want you to want me, baby\n\n[Chorus: DK, Joshua, Jeonghan, WOOZI]\nI wanna be your morning, baby\n\uc774\uc81c\ubd80\ud134 be alright (\uc5b8\uc81c\uae4c\uc9c0\ub098)\n\ub108\uc758 \uc0dd\uac01\ub9cc \ud558\ub294\n\ub0b4 \ubaa8\uc2b5\uc744 \ub2e4 \ube44\ucdb0\uc904\uac8c\n\uadf8\ub0e5 \uc544\ubb34\ub807\uc9c0 \uc54a\uac8c \ub118\uae30\ub824\uace0 \ud558\uc9c0\ub9c8\nIf you want me, yeah, if you want me\n\ub0b4 \uc804\ubd88 \ub108\uc5d0\uac8c \ub2e4 \uc904 \uc218 \uc788\uc5b4\n\ub0b4\uac00 \uc788\ub2e4\uba74 \ub2c8 \ub9d8\uc5d0 \uc788\ub2e4\uba74"
+            }
+        }
+    ]
+}

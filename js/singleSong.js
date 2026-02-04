@@ -1,6 +1,7 @@
 import { renderLyrics } from "./renderLyrics.js";
 import { renderPieChart } from "./renderPieChart.js";
 import { renderBar } from "./renderBar.js";
+import { renderCord } from "./renderCord.js";
 
 let margin = { top: 20, right: 20, bottom: 20, left: 20 };
 
@@ -13,77 +14,85 @@ let selectedMember = [];
 let oldSelection = null;
 
 const urlParams = new URLSearchParams(window.location.search);
-const song = urlParams.get('song')
-console.log(song)
-console.log(song.toLowerCase().replaceAll(' ', '_'));
+// const song = urlParams.get('song')
+// console.log(song)
+// console.log(song.toLowerCase().replaceAll(' ', '_'));
+const store = JSON.parse(localStorage.getItem('data'))
+console.log(store)
+const song = store['song']
+const color_domain = store['color_domain']
+const color_scale = store['color_scale']
+const data = song['synced_lyrics']
+console.log(data)
 
-d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').then(function (data) {
-    var title = d3.select("#song-name").append('h3').text(data['trackName'])
-    console.log(data)
-
-    const memberNames = Object.values(data['color_key']);
-    const memberColors = Object.keys(data['color_key']).map(value => '#' + value)
-
-    const color = d3.scaleOrdinal()
-        .domain(memberNames)
-        .range(memberColors)
-
-
-    data = data['syncedLyrics']
-
-    let svt_line_timing = calcTiming(data, memberNames)
-    console.log(svt_line_timing)
+const color = d3.scaleOrdinal()
+    .domain(color_domain)
+    .range(color_scale);
 
 
-    var svg = d3.select("#chart-area").append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .attr("style", "max-width: 100%; height: auto;");
+// d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').then(function (data) {
+var title = d3.select("#song-name").append('h3').text(song['english_name'])
 
-    function updateChart() {
-        let selection = d3.select("#chart-select").property("value");
+let svt_line_timing = calcTiming(data, color_domain)
+console.log(svt_line_timing)
 
-        console.log("selection:", selection)
-        svg.selectAll("*").remove();
-        d3.select("#song-area").html("");
 
-        let paths = null
+var svg = d3.select("#chart-area").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .attr("style", "max-width: 100%; height: auto;");
 
-        if (selection === "bar") {
-            paths = renderBar(svg, svt_line_timing.timing, width, height, margin, color, memberNames);
-        } else if (selection === "pie") {
-            paths = renderPieChart(svg, svt_line_timing.timing, width, height, color);
-        }
-        const lyricLines = renderLyrics(data, color, svg)
+function updateChart() {
+    let selection = d3.select("#chart-select").property("value");
 
-        if (selectedMember.length != 0) {
-            handleMemberClick(selectedMember, selection, true)
-        }
+    console.log("selection:", selection)
+    svg.selectAll("*").remove();
+    d3.select("#song-area").html("");
 
-        let clickedMember = null
-        paths.on("click", function (event, d) {
-            if (selection == 'bar') {
-                clickedMember = [d.member]
-            } else {
-                clickedMember = [d.data.member]
-            }
-            console.log('clicked', clickedMember, selection)
+    let paths = null
 
-            handleMemberClick(clickedMember, selection, false)
-        });
-
-        lyricLines.on("click", function (event, d) {
-            clickedMember = d.member
-            console.log('clicked', clickedMember, selection)
-            handleMemberClick(clickedMember, selection, false)
-        });
-
+    if (selection === "bar") {
+        paths = renderBar(svg, svt_line_timing.timing, width, height, margin, color, color_domain);
+    } else if (selection === "pie") {
+        paths = renderPieChart(svg, svt_line_timing.timing, width, height, color);
     }
 
-    d3.select("#chart-select").on("change", updateChart);
-    updateChart();
-});
+    const lyricLines = renderLyrics(data, color, (lyric, event) => {
+        const clickedMember = lyric.member;
+        console.log("clicked lyric", clickedMember, selection);
+        handleMemberClick(clickedMember, selection, false);
+    });
 
+    if (selectedMember.length != 0) {
+        handleMemberClick(selectedMember, selection, true)
+    }
+
+    let clickedMember = null
+    paths.on("click", function (event, d) {
+        if (selection == 'bar') {
+            clickedMember = [d.member]
+        } else {
+            clickedMember = [d.data.member]
+        }
+        console.log('clicked', clickedMember, selection)
+
+        handleMemberClick(clickedMember, selection, false)
+    });
+}
+
+d3.select("#chart-select").on("change", updateChart);
+updateChart()
+// renderCord(song['featured_artists'], data, svg, color, width, height, margin)
+
+d3.select("body").on("click", (event) => {
+    const target = event.target;
+
+    // check if click was on lyric line or chart fragment
+    if (!target.closest(".lyric-line") && !target.closest(".chart-fragment")) {
+        console.log("background clicked — resetting selection");
+        resetViz()
+    }
+});
 
 function timeToSeconds(timeStr) {
     // console.log(timeStr)
@@ -97,15 +106,12 @@ function calcTiming(data, memberNames) {
         member: name,
         seconds: 0
     }));
-    console.log('svtSongData', typeof (svtSongData))
+    console.log('svtSongData', data)
 
     let totalTime = 0
     for (let i = 0; i < data.length; i++) {
         const line = data[i]
-        console.log(line)
-
         const members = line.member
-        console.log(members)
 
         const secs = timeToSeconds(line.end) - timeToSeconds(line.start)
         // console.log('secs', secs)
@@ -114,11 +120,11 @@ function calcTiming(data, memberNames) {
             console.log("new memebr", member)
             let member_seconds = svtSongData.find(m => m.member === member);
 
-            if (member) {
+            if (member_seconds) {
                 member_seconds.seconds += secs;
             } else {
-                svtSongData.append({ member: member, seconds: secs })
-                console.log("something borke", line)
+                svtSongData.push({ member: member, seconds: secs })
+                console.log("add member", line)
             }
             totalTime += secs
         }
@@ -128,6 +134,19 @@ function calcTiming(data, memberNames) {
     console.log(svtSongData)
 
     return { timing: svtSongData, totalTime: totalTime }
+}
+
+function resetViz() {
+    selectedMember = [];
+    // Reset all lyrics to full opacity
+    d3.selectAll(".lyric-line")
+        .classed("dimmed", false)
+        .classed("highlighted", false)
+        .style("border-left-color", "transparent");
+    d3.selectAll(".chart-fragment")
+        .classed("dimmed", false)
+        .classed("highlighted", false)
+        .style("border-left-color", "transparent");
 }
 
 function handleMemberClick(clickedMember, selection, updatingChart) {
@@ -147,16 +166,7 @@ function handleMemberClick(clickedMember, selection, updatingChart) {
     }
 
     if (isReset && !updatingChart) {
-        selectedMember = [];
-        // Reset all lyrics to full opacity
-        d3.selectAll(".lyric-line")
-            .classed("dimmed", false)
-            .classed("highlighted", false)
-            .style("border-left-color", "transparent");
-        d3.selectAll(".chart-fragment")
-            .classed("dimmed", false)
-            .classed("highlighted", false)
-            .style("border-left-color", "transparent");
+        resetViz()
     } else {
         selectedMember = clickedMember;
         console.log(selectedMember)

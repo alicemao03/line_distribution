@@ -4,18 +4,16 @@ from datetime import datetime
 
 # GET SONG INFO
 def get_meta_data(song, artist, album):
-    song = song.replace(' ', '_')
-    artist = artist.replace(' ', '_')
-    album = album.replace(' ', '_')
-    url = f"https://lrclib.net/api/get?artist_name={artist}&track_name={song}&albumName={album}"
-    print("requesting ", url)
+    url = f"https://lrclib.net/api/search?artist_name={artist.replace(' ', '_')}&track_name={song.replace(' ', '_')}&albumName={album.replace(' ', '_')}"
     response = requests.get(url)
-    
+    print(song, artist, album, url)
+
     if response.status_code == 200:
-        data = response.json()
-        return data
+        for r in response.json():
+            if r['name'].lower() == song.lower() and r['artistName'].lower() == artist.lower() and r['syncedLyrics'] is not None:
+                return r
+        return "song not found"
     else:
-        print("song not found")
         return "song not found"
     
 
@@ -42,9 +40,10 @@ def getDelta(line, replaceChar):
     start = datetime.strptime(line['start'].replace(replaceChar, ':'), time_format)
     end = datetime.strptime(line['end'].replace(replaceChar, ':'), time_format)
 
-    delta = str(end-start)
-    pattern = r"\d{1}:(\d{2}:\d{2}(?:\.\d{2})?)"
-    delta = re.findall(pattern, delta)[0]
+    return (end-start).total_seconds()
+    # delta = str(end-start)
+    # pattern = r"\d{1}:(\d{2}:\d{2}(?:\.\d{2})?)"
+    # delta = re.findall(pattern, delta)[0]
 
     if "." not in delta:
         delta += ".00"
@@ -130,11 +129,16 @@ def clean_lrclib_lyrics(lyrics_raw, duration):
 #MAIN BODY
 def get_song_info(song, artist, album):
     meta_data = get_meta_data(song, artist, album)
+    print('meta_data', meta_data)
 
     if meta_data == "song not found":
         print("song not found")
         return "song not found"
     
+    if meta_data['syncedLyrics'] is None:
+        print('empyt synced lyrics')
+        return "song not found"
+    # print(meta_data['syncedLyrics'])
     lyrics_success = get_synced_lyrics(song)
 
     meta_data['syncedLyrics'] = clean_lrclib_lyrics(meta_data['syncedLyrics'],  meta_data['duration'])

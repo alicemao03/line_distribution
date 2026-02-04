@@ -1,0 +1,1092 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3049716",
+    "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+    "full_title": "Shining Diamond by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+    "header_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+    "id": 3049716,
+    "instrumental": false,
+    "lyrics_owner_id": 4420277,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1745997339,
+    "path": "/Seventeen-shining-diamond-lyrics",
+    "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Seventeen-shining-diamond-sample",
+    "release_date_components": {
+        "year": 2015,
+        "month": 5,
+        "day": 29
+    },
+    "release_date_for_display": "May 29, 2015",
+    "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 13,
+        "iq_earners": 13,
+        "transcribers": 2,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 11491
+    },
+    "title": "Shining Diamond",
+    "title_with_featured": "Shining Diamond",
+    "updated_by_human_at": 1745988928,
+    "url": "https://genius.com/Seventeen-shining-diamond-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/961718",
+        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+        "id": 961718,
+        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+        "url": "https://genius.com/artists/Seventeen"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/961718",
+            "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+            "id": 961718,
+            "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+            "url": "https://genius.com/artists/Seventeen"
+        }
+    ],
+    "apple_music_id": "999645043",
+    "apple_music_player_url": "https://genius.com/songs/3049716/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_3049716' class='rg_embed_link' data-song-id='3049716'>Read <a href='https://genius.com/Seventeen-shining-diamond-lyrics'>\u201cShining Diamond\u201d by SEVENTEEN\u00a0(\uc138\ube10\ud2f4)</a> on Genius</div> <script crossorigin src='//genius.com/songs/3049716/embed.js'></script>",
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2015-05-29",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#13298e",
+    "song_art_secondary_color": "#111e69",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/993580",
+        "cover_art_url": "https://images.genius.com/e0870bfcce9fb1b0913fcffa5cf2500d.1000x1000x1.png",
+        "full_title": "17 Hits by SEVENTEEN (\uc138\ube10\ud2f4)",
+        "id": 993580,
+        "name": "17 Hits",
+        "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+        "release_date_for_display": "October 21, 2016",
+        "url": "https://genius.com/albums/Seventeen/17-hits",
+        "artist": {
+            "api_path": "/artists/961718",
+            "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+            "id": 961718,
+            "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+            "url": "https://genius.com/artists/Seventeen"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/961718",
+                "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                "id": 961718,
+                "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                "url": "https://genius.com/artists/Seventeen"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "url": "https://genius.com/artists/Masterkey"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1782359",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 1782359,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uae40\ub300\uc601 (Kim Dae Young) (HYBE Studio)",
+                    "url": "https://genius.com/artists/Kim-dae-young-hybe-studio"
+                }
+            ]
+        },
+        {
+            "label": "Chorus Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "url": "https://genius.com/artists/Woozi"
+                },
+                {
+                    "api_path": "/artists/1007181",
+                    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+                    "id": 1007181,
+                    "image_url": "https://images.genius.com/78ffa2d34a16627539835283190b4a87.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BUMZU",
+                    "url": "https://genius.com/artists/Bumzu"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "url": "https://genius.com/artists/Lishbeats"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "url": "https://genius.com/artists/Lishbeats"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1056936",
+                    "header_image_url": "https://images.genius.com/b7aac0a8965b642cc9f1b7cf87b7e228.199x199x1.jpg",
+                    "id": 1056936,
+                    "image_url": "https://images.genius.com/b7aac0a8965b642cc9f1b7cf87b7e228.199x199x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uc774\ud0dc\uc6b1 (Lee Taewook)",
+                    "url": "https://genius.com/artists/Lee-taewook"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "url": "https://genius.com/artists/Masterkey"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "url": "https://genius.com/artists/Woozi"
+                },
+                {
+                    "api_path": "/artists/1022186",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 1022186,
+                    "image_url": "https://images.genius.com/d15b6aeb5de13721c92d23ad1b7c63ed.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "S.COUPS (\uc5d0\uc2a4\ucff1\uc2a4)",
+                    "url": "https://genius.com/artists/Scoups"
+                },
+                {
+                    "api_path": "/artists/1007180",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1007180,
+                    "image_url": "https://images.genius.com/8ecf6bb1f96e1b2a23b9da22fd2ab347.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "VERNON (\ubc84\ub17c)",
+                    "url": "https://genius.com/artists/Vernon"
+                },
+                {
+                    "api_path": "/artists/2458892",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "id": 2458892,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\uae40\ubbfc\uc815 (Kim Min Jung)",
+                    "url": "https://genius.com/artists/Kim-min-jung"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1022186",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 1022186,
+                    "image_url": "https://images.genius.com/d15b6aeb5de13721c92d23ad1b7c63ed.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "S.COUPS (\uc5d0\uc2a4\ucff1\uc2a4)",
+                    "url": "https://genius.com/artists/Scoups"
+                },
+                {
+                    "api_path": "/artists/1490139",
+                    "header_image_url": "https://images.genius.com/97fc04fea82a7ed576efbf4e5fd0aaa0.1000x333x1.jpg",
+                    "id": 1490139,
+                    "image_url": "https://images.genius.com/e7175f051e9c84fc82d7c53a0dba6b63.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JEONGHAN (\uc815\ud55c)",
+                    "url": "https://genius.com/artists/Jeonghan"
+                },
+                {
+                    "api_path": "/artists/1483344",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1483344,
+                    "image_url": "https://images.genius.com/a8599bc54675a54202d40912f42657c9.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JOSHUA (SEVENTEEN)",
+                    "url": "https://genius.com/artists/Joshua-seventeen"
+                },
+                {
+                    "api_path": "/artists/1247862",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1247862,
+                    "image_url": "https://images.genius.com/3f4e8dd25c91c80eb5fcdebaa52c5cec.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JUN (\u6587\u4fca\u8f89)",
+                    "url": "https://genius.com/artists/Jun"
+                },
+                {
+                    "api_path": "/artists/1450999",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1450999,
+                    "image_url": "https://images.genius.com/306597cbf05a1ea0713012f981517be5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HOSHI (\ud638\uc2dc)",
+                    "url": "https://genius.com/artists/Hoshi"
+                },
+                {
+                    "api_path": "/artists/1022188",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022188,
+                    "image_url": "https://images.genius.com/2026f55ace3367055dcd804b18d3ba88.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WONWOO (\uc6d0\uc6b0)",
+                    "url": "https://genius.com/artists/Wonwoo"
+                },
+                {
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "url": "https://genius.com/artists/Woozi"
+                },
+                {
+                    "api_path": "/artists/1490144",
+                    "header_image_url": "https://images.genius.com/2e1e6217a0c1bd825626cdd56613234a.1000x714x1.webp",
+                    "id": 1490144,
+                    "image_url": "https://images.genius.com/4f9daa5cdf05c4c523bb7540fe4294bc.628x628x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DOKYEOM (\ub3c4\uacb8)",
+                    "url": "https://genius.com/artists/Dokyeom"
+                },
+                {
+                    "api_path": "/artists/2292641",
+                    "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+                    "id": 2292641,
+                    "image_url": "https://images.genius.com/c15a763bcd35f99dec8e02a716a2ea41.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MINGYU (\ubbfc\uaddc)",
+                    "url": "https://genius.com/artists/Mingyu"
+                },
+                {
+                    "api_path": "/artists/1041538",
+                    "header_image_url": "https://images.genius.com/2a479622fcd2d74ac1e00fb54c8ac75b.1000x625x1.jpg",
+                    "id": 1041538,
+                    "image_url": "https://images.genius.com/7c9ef68f652e2580a1e4d6ef14f5e2be.770x770x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "THE 8 (\u5f90\u660e\u6d69)",
+                    "url": "https://genius.com/artists/The-8"
+                },
+                {
+                    "api_path": "/artists/1022196",
+                    "header_image_url": "https://images.genius.com/00bfa5a2dc411a491656d36431f80279.1000x333x1.png",
+                    "id": 1022196,
+                    "image_url": "https://images.genius.com/004502ef151bd1ddba783b198693005f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SEUNGKWAN (\uc2b9\uad00)",
+                    "url": "https://genius.com/artists/Seungkwan"
+                },
+                {
+                    "api_path": "/artists/1007180",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1007180,
+                    "image_url": "https://images.genius.com/8ecf6bb1f96e1b2a23b9da22fd2ab347.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "VERNON (\ubc84\ub17c)",
+                    "url": "https://genius.com/artists/Vernon"
+                },
+                {
+                    "api_path": "/artists/1247845",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1247845,
+                    "image_url": "https://images.genius.com/2d4dd45643239dfa8e7f9da3523e948f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DINO (\ub514\ub178)",
+                    "url": "https://genius.com/artists/Dino"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "url": "https://genius.com/artists/Masterkey"
+                },
+                {
+                    "api_path": "/artists/1022185",
+                    "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                    "id": 1022185,
+                    "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WOOZI (\uc6b0\uc9c0)",
+                    "url": "https://genius.com/artists/Woozi"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/683655",
+                    "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "id": 683655,
+                    "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LISHBEATS",
+                    "url": "https://genius.com/artists/Lishbeats"
+                },
+                {
+                    "api_path": "/artists/217050",
+                    "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "id": 217050,
+                    "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+                    "url": "https://genius.com/artists/Masterkey"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 4420277,
+        "annotator_login": "ywk",
+        "api_path": "/referents/11643195",
+        "classification": "needs_exegesis",
+        "fragment": "Shining Diamond",
+        "id": 11643195,
+        "is_description": true,
+        "path": "/11643195/Seventeen-shining-diamond/Shining-diamond",
+        "range": {
+            "content": "Shining Diamond"
+        },
+        "song_id": 3049716,
+        "url": "https://genius.com/11643195/Seventeen-shining-diamond/Shining-diamond",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/3049716",
+            "client_timestamps": {
+                "updated_by_human_at": 1745988928,
+                "lyrics_updated_at": 1745997339
+            },
+            "context": "SEVENTEEN (\uc138\ube10\ud2f4)",
+            "id": 3049716,
+            "image_url": "https://images.genius.com/709adc5236be69f19775f9545e9e80b8.1000x1000x1.png",
+            "link_title": "Shining Diamond by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+            "title": "Shining Diamond",
+            "type": "Song",
+            "url": "https://genius.com/Seventeen-shining-diamond-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/11643195",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 11643195,
+                "pinned": false,
+                "share_url": "https://genius.com/11643195",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/11643195/Seventeen-shining-diamond/Shining-diamond",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/4420277",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/5a5389cd4b0ea9c2bc758ce9d4e7c0e5",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/5a5389cd4b0ea9c2bc758ce9d4e7c0e5",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/5a5389cd4b0ea9c2bc758ce9d4e7c0e5",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/5a5389cd4b0ea9c2bc758ce9d4e7c0e5",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/ef0465032821ac7d824712dec253145d.851x315x1.jpg",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 4420277,
+                            "iq": 857921,
+                            "login": "ywk",
+                            "name": "Kookie_iring",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/ywk",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=aEZErcMf2Kg"
+        }
+    ],
+    "producer_artists": [],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": "https://genius.com/Men-at-work-down-under-sample/samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9625982",
+                    "artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "full_title": "Diamond Days by\u00a0SEVENTEEN\u00a0(\uc138\ube10\ud2f4)",
+                    "header_image_thumbnail_url": "https://images.genius.com/29d50113153d5e8c54f9d4973e62dcae.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/29d50113153d5e8c54f9d4973e62dcae.1000x1000x1.png",
+                    "id": 9625982,
+                    "lyrics_owner_id": 16463578,
+                    "lyrics_state": "complete",
+                    "path": "/Seventeen-diamond-days-lyrics",
+                    "primary_artist_names": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Seventeen-diamond-days-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 23
+                    },
+                    "release_date_for_display": "October 23, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 23, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/29d50113153d5e8c54f9d4973e62dcae.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/29d50113153d5e8c54f9d4973e62dcae.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 11231
+                    },
+                    "title": "Diamond Days",
+                    "title_with_featured": "Diamond Days",
+                    "url": "https://genius.com/Seventeen-diamond-days-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/961718",
+                        "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                        "id": 961718,
+                        "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                        "url": "https://genius.com/artists/Seventeen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/961718",
+                            "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+                            "id": 961718,
+                            "image_url": "https://images.genius.com/3d803aed2c4127e633a1c767e32a8978.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "SEVENTEEN (\uc138\ube10\ud2f4)",
+                            "url": "https://genius.com/artists/Seventeen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": "https://genius.com/Men-at-work-down-under-sample/covers",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9702742",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "SEVENTEEN (\uc138\ube10\ud2f4) - Shining Diamonds (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/4e183d0bf6ef36cca0b9e95ba9db78f1.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/4e183d0bf6ef36cca0b9e95ba9db78f1.527x527x1.jpg",
+                    "id": 9702742,
+                    "lyrics_owner_id": 20980392,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-seventeen-shining-diamonds-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-seventeen-shining-diamonds-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2015,
+                        "month": 5,
+                        "day": 30
+                    },
+                    "release_date_for_display": "May 30, 2015",
+                    "release_date_with_abbreviated_month_for_display": "May 30, 2015",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4e183d0bf6ef36cca0b9e95ba9db78f1.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4e183d0bf6ef36cca0b9e95ba9db78f1.527x527x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SEVENTEEN (\uc138\ube10\ud2f4) - Shining Diamonds (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "SEVENTEEN (\uc138\ube10\ud2f4) - Shining Diamonds (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-seventeen-shining-diamonds-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/5841750",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "SEVENTEEN - Shining Diamond (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.600x600x1.jpg",
+                    "id": 5841750,
+                    "lyrics_owner_id": 2557222,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-seventeen-shining-diamond-english-translation-lyrics",
+                    "primary_artist_names": "Genius English Translations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-seventeen-shining-diamond-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2015,
+                        "month": 5,
+                        "day": 29
+                    },
+                    "release_date_for_display": "May 29, 2015",
+                    "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 13401
+                    },
+                    "title": "SEVENTEEN - Shining Diamond (English Translation)",
+                    "title_with_featured": "SEVENTEEN - Shining Diamond (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-seventeen-shining-diamond-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/196943",
+                            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                            "id": 196943,
+                            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius English Translations",
+                            "url": "https://genius.com/artists/Genius-english-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5841742",
+                    "artist_names": "Genius Romanizations",
+                    "full_title": "SEVENTEEN - Shining Diamond (Romanized) by\u00a0Genius\u00a0Romanizations",
+                    "header_image_thumbnail_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.600x600x1.jpg",
+                    "id": 5841742,
+                    "lyrics_owner_id": 2557222,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-romanizations-seventeen-shining-diamond-romanized-lyrics",
+                    "primary_artist_names": "Genius Romanizations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-romanizations-seventeen-shining-diamond-romanized-sample",
+                    "release_date_components": {
+                        "year": 2015,
+                        "month": 5,
+                        "day": 29
+                    },
+                    "release_date_for_display": "May 29, 2015",
+                    "release_date_with_abbreviated_month_for_display": "May 29, 2015",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ed5ecff0849b2bcb58017c4d37a445bf.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SEVENTEEN - Shining Diamond (Romanized)",
+                    "title_with_featured": "SEVENTEEN - Shining Diamond (Romanized)",
+                    "url": "https://genius.com/Genius-romanizations-seventeen-shining-diamond-romanized-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1507735",
+                        "header_image_url": "https://images.genius.com/e5afba664f84f0cadba65e3231dd57c7.1000x495x1.png",
+                        "id": 1507735,
+                        "image_url": "https://images.genius.com/086f5809e96b133dd536982629e5844b.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Romanizations",
+                        "url": "https://genius.com/artists/Genius-romanizations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1507735",
+                            "header_image_url": "https://images.genius.com/e5afba664f84f0cadba65e3231dd57c7.1000x495x1.png",
+                            "id": 1507735,
+                            "image_url": "https://images.genius.com/086f5809e96b133dd536982629e5844b.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Romanizations",
+                            "url": "https://genius.com/artists/Genius-romanizations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/9702742",
+            "id": 9702742,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-seventeen-shining-diamonds-turkce-ceviri-lyrics",
+            "title": "SEVENTEEN (\uc138\ube10\ud2f4) - Shining Diamonds (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-seventeen-shining-diamonds-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/5841750",
+            "id": 5841750,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-seventeen-shining-diamond-english-translation-lyrics",
+            "title": "SEVENTEEN - Shining Diamond (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-seventeen-shining-diamond-english-translation-lyrics"
+        },
+        {
+            "api_path": "/songs/5841742",
+            "id": 5841742,
+            "language": "romanization",
+            "lyrics_state": "complete",
+            "path": "/Genius-romanizations-seventeen-shining-diamond-romanized-lyrics",
+            "title": "SEVENTEEN - Shining Diamond (Romanized)",
+            "url": "https://genius.com/Genius-romanizations-seventeen-shining-diamond-romanized-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/217050",
+            "header_image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+            "id": 217050,
+            "image_url": "https://images.genius.com/d58bc11a5edd1a8543c0e69e8780bf83.381x381x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\ub9c8\uc2a4\ud130\ud0a4 (MasterKey)",
+            "url": "https://genius.com/artists/Masterkey"
+        },
+        {
+            "api_path": "/artists/683655",
+            "header_image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+            "id": 683655,
+            "image_url": "https://images.genius.com/b6177b12af42475898323c4be1e41d24.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "LISHBEATS",
+            "url": "https://genius.com/artists/Lishbeats"
+        },
+        {
+            "api_path": "/artists/2458892",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+            "id": 2458892,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769531208",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\uae40\ubbfc\uc815 (Kim Min Jung)",
+            "url": "https://genius.com/artists/Kim-min-jung"
+        },
+        {
+            "api_path": "/artists/1022186",
+            "header_image_url": "https://images.genius.com/79781221abe268a8320b13deae3dc26c.1000x333x1.jpg",
+            "id": 1022186,
+            "image_url": "https://images.genius.com/d15b6aeb5de13721c92d23ad1b7c63ed.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "S.COUPS (\uc5d0\uc2a4\ucff1\uc2a4)",
+            "url": "https://genius.com/artists/Scoups"
+        },
+        {
+            "api_path": "/artists/1022185",
+            "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+            "id": 1022185,
+            "image_url": "https://images.genius.com/cf8b8090a673c57a5a34101f243cc808.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "WOOZI (\uc6b0\uc9c0)",
+            "url": "https://genius.com/artists/Woozi"
+        },
+        {
+            "api_path": "/artists/1007180",
+            "header_image_url": "https://images.genius.com/a7c1c08903554b299a604dc66f3d7a44.1000x333x1.jpg",
+            "id": 1007180,
+            "image_url": "https://images.genius.com/8ecf6bb1f96e1b2a23b9da22fd2ab347.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "VERNON (\ubc84\ub17c)",
+            "url": "https://genius.com/artists/Vernon"
+        }
+    ],
+    "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+    "lyrics": "[\uc138\ube10\ud2f4 \"Shining Diamond\" \uac00\uc0ac]\n\n[Intro: Jun, Vernon]\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nAh, ah, ah, everybody get up\nSlip into the diamond life, oh!\nYeah, Seventeen, rappin the P, man\nSlip into the diamond life, oh!\nHa! Yeah, let me show you how\nSlip into the diamond life, oh!\nIt\u2019s post to be done right now\nAh, ah, ah, everybody get up\n\n[Verse 1: Vernon, S.COUPS]\nYeah, I know I\u2019m only 17\nI only got a few dollars\n\ud558\uc9c0\ub9cc \uc804\ud600 \uac1c\uc758\uce58 \uc54a\uc544 it\u2019d be no problem\n\uc774\ubbf8 \ucda9\ubd84\ud55c \uc2dc\uac04\uacfc \uc555\ub825\n\ubaa8\ub450 \uac70\ucce4\uc73c\ub2c8 \uc798 \ubd10 I\u2019m that diamond\n\uac10\ud0c4\ud558\uac8c \ub420 \uc6b0\ub9ac \ub2e8\ub2e8\ud568\uc774\n\ub9cc\ub4e4\uc5b4\ub0b4 \uac00\ub294 \uae30\ub9c9\ud78c \uc774 \uc870\ud654\ubcf4\uba74\n\ub108\ub3c4 \uc88b\uc544\ud560 \uaebc\uc57c \ubd84\uba85\n\ub0b4\uac00 \ub208\uc5d0 \ub744\uba74 \uc5c4\uc9c0 \ub4e4\uace0 \ubd99\uc5b4, uh\n\n[Pre-Chorus: Hoshi, WOOZI]\n\uc790 \ub208\ub5a0\ubd10, ooh-ah\nLike Jackson I dance around (Eh-eh)\n\uc774\uc81c \uc900\ube44\ub41c \uc0ac\ub78c\ub4e4\n\uc5ec\uae30 \ud558\ub098 \ub458 \uc14b \ub137 (Everybody get up)\n\ud759 \uc18d\uc5d0 \ubb3b\ud600 \uc788\ub358 \ub0a0\n\uc704\ub85c \ub04c\uc5b4\uc62c\ub824 (Eh-eh)\n\uc774\uc81c \ube5b\uc744 \ub0bc \uc2dc\uac04\uc774\uc57c oh, oh, oh, oh\n\n[Chorus: DK, SeungKwan]\nShining Diamonds, yeah\n\uc2dc\uac04\uc774 \ub354 \ud758\ub7ec\ub3c4\n\uc57d\ud574\uc9c0\uc9c0 \uc54a\uc544 we\u2019ll keep it up\n\uc9c0\uae08 \uc774 \ube5b\ub098\ub294 \uc57d\uc18d\uc744\n\ub124 \uc190\uc5d0 \ub07c\uc6cc\uc904\uac8c\nShining Diamonds, yeah, \ub110 \ube5b\ub0bc\uac8c\nShining Diamonds, yeah\n\n[Verse 2: Wonwoo, DK, Mingyu, WOOZI, *S.COUPS*]\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds, yeah\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds, yeah\n\uc774\uc81c \ub354 \uc228\uae30\uc9c0\ub9c8 \ud53c\ud558\ub824 \ud558\uc9c0\ub9c8\n\ub09c \uc9c0\uae08 \ub204\uad6c\ubcf4\ub2e4 \ube5b\ub098\n\uadf8 \uc5b4\ub5a4 \ub204\uad6c\ubcf4\ub2e4 (\ube5b\ub098)\n\uac10\ucd94\ub824 \ud558\uc9c0\ub9c8, yeah, uh\n*\ub2e4 \ud544\uc694 \uc5c6\ub294 \uac10\uc815\n\uc5ec\uae30 \uc0c1\ud0dc\ub294 \ucd5c\uace0\uc870\ub97c \ub2ec\ub824 (Coups!)\n\ub2c8 \ubab8 \uc548\uc5d0 \uac10\ucd98 \uac78\n\ud1a0\ud574\ub0b4 \uc3df\uc544\ub0b4 (Yeah)\n\ubaa8\ub450\uac00 \uc774 \ubab8\uc744 \ud0d0 \ub0b4\uac8c \ud574*\n\n[Pre-Chorus: Joshua, Jeonghan]\n\uc790 \ub208\ub5a0\ubd10, ooh-ah\nLike Jackson I dance around (Eh-eh)\n\uc774\uc81c \uc900\ube44\ub41c \uc0ac\ub78c\ub4e4\n\uc5ec\uae30 \ud558\ub098 \ub458 \uc14b \ub137 (Everybody Get Up)\n\ud759 \uc18d\uc5d0 \ubb3b\ud600 \uc788\ub358 \ub0a0\n\uc704\ub85c \ub04c\uc5b4\uc62c\ub824 (Eh-eh)\n\uc774\uc81c \ube5b\uc744 \ub0bc \uc2dc\uac04\uc774\uc57c oh, oh, oh, oh\n\n[Chorus: DK, SeungKwan]\nShining Diamonds, yeah\n\uc2dc\uac04\uc774 \ub354 \ud758\ub7ec\ub3c4\n\uc57d\ud574\uc9c0\uc9c0 \uc54a\uc544 we\u2019ll keep it up\n\uc9c0\uae08 \uc774 \ube5b\ub098\ub294 \uc57d\uc18d\uc744\n\ub124 \uc190\uc5d0 \ub07c\uc6cc\uc904\uac8c\nShining Diamonds, yeah, \ub110 \ube5b\ub0bc\uac8c\n\n[Bridge: THE 8, Hoshi, SeungKwan, DK & SeungKwan]\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nSlip into the diamond life, oh!\nAh ah ah everybody get up\nSlip into the diamond life oh!\nSlip into the diamond life oh!\nSlip into the diamond life oh!\nSlip into the shining diamond life\nShining Diamonds, yeah\n\uc2dc\uac04\uc774 \ub354 \ud758\ub7ec\ub3c4\n\uc57d\ud574\uc9c0\uc9c0 \uc54a\uc544 we\u2019ll keep it up\n\uc9c0\uae08 \uc774 \ube5b\ub098\ub294 \uc57d\uc18d\uc744\n\ub124 \uc190\uc5d0 \ub07c\uc6cc\uc904\uac8c\nShining Diamonds, yeah, \ub110 \ube5b\ub0bc\uac8c\nWe gon shine like woah!\n\n[Outro: DK, Vernon & Dino, S.COUPS, Wonwoo & Mingyu, WOOZI]\nShining Diamonds, yeah\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds, yeah\nOh, yes, I\u2019m that diamond\n\ud749\ub0b4 \ub0bc \uc218 \uc5c6\ub294 Seventeen Carat\n1\ubd841\ucd08\uac00 \ubcf4\uc11d \uac19\uc740\n\uc2dc\uac04\uc744 \uc990\uaca8 this is your life, hun\nShining Diamonds yeah"
+}

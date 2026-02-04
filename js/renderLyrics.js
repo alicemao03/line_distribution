@@ -1,11 +1,25 @@
-export function renderLyrics(data, color, svg) {
+export function renderLyrics(data, color, onLyricClick) {
+    console.log("LYRICS", data)
+    const sections = d3.group(data, d => d.section)
+
+    console.log(sections)
     const lyricLines = d3.select("#song-area")
-        .selectAll(".lyric-line")
-        .data(data) // 'data' is the array from your CSV
+        .selectAll(".lyric-section")
+        .data(sections)
+        .enter()
+        .append("div")
+        .attr("class", "lyric-section")
+
+    lyricLines.append("div")
+        .attr("class", "section_name")
+        .text(d => d[0])
+
+    lyricLines.selectAll(".lyric-line")
+        .data(d => d[1]) // the array of lyrics in this section
         .enter()
         .append("div")
         .attr("class", "lyric-line")
-        .text(d => d.lyric)
+        .html(d => d.lyric)
         .style("background", d => {
             // 1. If only one member, just return a solid color
             if (d.member.length === 1) return color(d.member[0]);
@@ -24,6 +38,10 @@ export function renderLyrics(data, color, svg) {
         .style("background-clip", "text")
         .style("-webkit-text-fill-color", "transparent")
         .style("color", "transparent")
+        .on("click", (event, d) => {
+            onLyricClick(d, event); // 👈 delegate upward
+        });
+
 
     return lyricLines
 }
