@@ -18,7 +18,7 @@ body {
 
 .album-name-container {
     position: sticky;
-    top: 10%;
+    top: 15%;
     height: fit-content;
     align-self: flex-start;
     color: white;
@@ -51,7 +51,7 @@ body {
     padding-bottom: 2%;
 }
 
-.song-section{
+.song-section {
     margin-left: 5%;
 }
 
@@ -79,6 +79,11 @@ body {
 
 .home_link {
     color: white;
+}
+
+.main-body {
+    padding-top: var(--navbar-height, 80px);
+    margin-bottom: 10%;
 }
 
 .process_book {
@@ -120,4 +125,13 @@ body {
     top: 20%;
     height: fit-content;
     align-self: flex-start;
+}
+
+#nav-placeholder {
+    /* width: 100%;
+    height: auto; */
+}
+
+.page-title {
+    margin: 0%;
 }

@@ -83,8 +83,7 @@ d3.json('json/final_meta_data.json').then(function (data) {
             .attr('class', 'song-title')
             .append('a')
             .attr('href', d => {
-                // console.log(d)
-                return `single_song.html?song=${d.english_name.replace("'", '').replace('!',)}`
+                return `./html/single_song.html?song=${d.english_name.replace("'", '').replace('!',)}`
             })
             .style('color', 'inherit')
             .text(d => d.english_name)

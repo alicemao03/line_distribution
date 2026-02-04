@@ -5,8 +5,6 @@ export function renderPieChart(svg, svt_line_timing, width, height, color) {
 
     svg.attr("viewBox", [-width / 2, -height / 2, width, height])
 
-    console.log("asdfasf", svt_line_timing)
-
     const radius = Math.min(width, height) / 2;
 
     const pie = d3.pie()

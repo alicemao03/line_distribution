@@ -1,22 +1,15 @@
 import { renderLyrics } from "./renderLyrics.js";
 import { renderPieChart } from "./renderPieChart.js";
 import { renderBar } from "./renderBar.js";
-import { renderCord } from "./renderCord.js";
+import { renderChord } from "./renderChord.js";
 
 let margin = { top: 20, right: 20, bottom: 20, left: 20 };
-
-
-let width = window.innerWidth / 2 - margin.left - margin.right - 100,
-    height = 500 - margin.top - margin.bottom;
 
 
 let selectedMember = [];
 let oldSelection = null;
 
 const urlParams = new URLSearchParams(window.location.search);
-// const song = urlParams.get('song')
-// console.log(song)
-// console.log(song.toLowerCase().replaceAll(' ', '_'));
 const store = JSON.parse(localStorage.getItem('data'))
 console.log(store)
 const song = store['song']
@@ -29,32 +22,59 @@ const color = d3.scaleOrdinal()
     .domain(color_domain)
     .range(color_scale);
 
-
-// d3.json('./json/songs/' + song.toLowerCase().replaceAll(' ', '_') + '.json').then(function (data) {
 var title = d3.select("#song-name").append('h3').text(song['english_name'])
 
 let svt_line_timing = calcTiming(data, color_domain)
 console.log(svt_line_timing)
 
 
-var svg = d3.select("#chart-area").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-    .attr("style", "max-width: 100%; height: auto;");
-
 function updateChart() {
-    let selection = d3.select("#chart-select").property("value");
-
+    let selection = d3.select("#chart-select").property("value")
     console.log("selection:", selection)
-    svg.selectAll("*").remove();
-    d3.select("#song-area").html("");
+
+    var single_song_body = d3.select("#single-song-body")
+    single_song_body.html("")
 
     let paths = null
+    if (selection === "chord") {
+        single_song_body.append('div').attr('id', 'chart-area-chord')
 
-    if (selection === "bar") {
-        paths = renderBar(svg, svt_line_timing.timing, width, height, margin, color, color_domain);
-    } else if (selection === "pie") {
-        paths = renderPieChart(svg, svt_line_timing.timing, width, height, color);
+        let width = window.innerWidth / 2 - margin.left - margin.right - 100,
+            height = 700 - margin.top - margin.bottom;
+
+        var svg = d3.select("#chart-area-chord").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .attr("style", "max-width: 100%; height: auto;")
+
+        svg.selectAll("*").remove()
+
+        paths = renderChord(song['featured_artists'], data, svg, color, width, height, margin);
+    } else {
+        single_song_body.append('div')
+            .attr('class', 'col-4 me-2 mb-4')
+            .append('div').attr('class', 'sticky-wrapper').append('div').attr('id', 'chart-area')
+
+        single_song_body.append('div')
+            .attr('class', 'col-3 ms-5')
+            .attr('id', 'song-area')
+
+        let width = window.innerWidth / 2 - margin.left - margin.right - 100,
+            height = 500 - margin.top - margin.bottom;
+
+        var svg = d3.select("#chart-area").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .attr("style", "max-width: 100%; height: auto;");
+
+        svg.selectAll("*").remove()
+        d3.select("#song-area").html("")
+
+        if (selection === "bar") {
+            paths = renderBar(svg, svt_line_timing.timing, width, height, margin, color, color_domain);
+        } else if (selection === "pie") {
+            paths = renderPieChart(svg, svt_line_timing.timing, width, height, color);
+        }
     }
 
     const lyricLines = renderLyrics(data, color, (lyric, event) => {
@@ -80,9 +100,8 @@ function updateChart() {
     });
 }
 
-d3.select("#chart-select").on("change", updateChart);
+d3.select("#chart-select").on("change", updateChart)
 updateChart()
-// renderCord(song['featured_artists'], data, svg, color, width, height, margin)
 
 d3.select("body").on("click", (event) => {
     const target = event.target;
