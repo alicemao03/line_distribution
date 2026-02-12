@@ -4,8 +4,8 @@
 {"start": "00:13:11", "end": "00:16:24", "delta": 3.13, "section": "Verse 1", "line": 1, "member": ["Dino"], "lyric": "뭘 자꾸 주저해 감정이 싹 틀 때"}
 {"start": "00:16:24", "end": "00:19:29", "delta": 3.05, "section": "Verse 1", "line": 2, "member": ["Dino"], "lyric": "표현하는 방법은 여러 가지가 있지"}
 {"start": "00:19:29", "end": "00:22:57", "delta": 3.28, "section": "Verse 1", "line": 3, "member": ["Dino"], "lyric": "하고 싶은 것 하고 싶은 것"}
-{"start": "", "end": "", "delta": 0, "section": "Verse 1", "line": 4, "member": ["Dino"], "lyric": "갖고 싶은 것 갖고 싶은 것"}
-{"start": "00:22:57", "end": "00:26:55", "delta": 3.98, "section": "Verse 1", "line": 5, "member": ["Dino"], "lyric": "선택의 문제는, ah yeah"}
+{"start": "00:22:57", "end": "00:24:57", "delta": 0, "section": "Verse 1", "line": 4, "member": ["Dino"], "lyric": "갖고 싶은 것 갖고 싶은 것"}
+{"start": "00:24:57", "end": "00:26:55", "delta": 3.98, "section": "Verse 1", "line": 5, "member": ["Dino"], "lyric": "선택의 문제는, ah yeah"}
 {"start": "00:26:55", "end": "00:29:35", "delta": 2.8, "section": "Verse 2", "line": 1, "member": ["Seungkwan"], "lyric": "침착하게 slow down"}
 {"start": "00:29:35", "end": "00:32:58", "delta": 3.23, "section": "Verse 2", "line": 2, "member": ["Seungkwan"], "lyric": "더 많이 고민해도 돼"}
 {"start": "00:32:58", "end": "00:33:59", "delta": 1.01, "section": "Verse 2", "line": 3, "member": ["Vernon"], "lyric": "Yeah, yeah"}
@@ -21,12 +21,12 @@
 {"start": "00:54:92", "end": "00:58:21", "delta": 3.29, "section": "Chorus", "line": 2, "member": ["Dino"], "lyric": "어렵단 생각이 늘 어렵게 하지"}
 {"start": "00:58:21", "end": "01:01:36", "delta": 3.15, "section": "Chorus", "line": 3, "member": ["Dino"], "lyric": "Yeah, yeah, yeah, yeah, oh-oh"}
 {"start": "01:01:36", "end": "01:04:65", "delta": 3.29, "section": "Chorus", "line": 4, "member": ["Dino"], "lyric": "Yeah, yeah, yeah, yeah, oh-oh"}
-{"start": "", "end": "", "delta": 0, "section": "Chorus", "line": 5, "member": ["Seungkwan"], "lyric": "Piano에 앉아 do-re-mi"}
+{"start": "01:04:65", "end": "01:06:95", "delta": 0, "section": "Chorus", "line": 5, "member": ["Seungkwan"], "lyric": "Piano에 앉아 do-re-mi"}
 {"start": "01:06:95", "end": "01:10:28", "delta": 3.33, "section": "Chorus", "line": 6, "member": ["Seungkwan"], "lyric": "손가락이 이끄는 대로 따라가 do-re-mi"}
 {"start": "01:10:28", "end": "01:14:34", "delta": 4.06, "section": "Chorus", "line": 7, "member": ["Seungkwan"], "lyric": "노래해 yeah, yeah, yeah, yeah, oh-oh"}
 {"start": "01:14:34", "end": "01:17:24", "delta": 2.9, "section": "Chorus", "line": 8, "member": ["Seungkwan"], "lyric": "Yeah, yeah, oh"}
 {"start": "01:17:24", "end": "01:17:88", "delta": 0.64, "section": "Verse 2", "line": 1, "member": ["Vernon"], "lyric": "Yeah-yeah, life goes on, just keep goin'"}
-{"start": "", "end": "", "delta": 0, "section": "Verse 2", "line": 2, "member": ["Vernon"], "lyric": "끝없는 후회와 고민"}
+{"start": "01:17:88", "end": "01:19:68", "delta": 0, "section": "Verse 2", "line": 2, "member": ["Vernon"], "lyric": "끝없는 후회와 고민"}
 {"start": "01:19:68", "end": "01:20:97", "delta": 1.29, "section": "Verse 2", "line": 3, "member": ["Vernon"], "lyric": "Boxing, boxing us in"}
 {"start": "01:20:97", "end": "01:21:29", "delta": 0.32, "section": "Verse 2", "line": 2, "member": ["adlib"], "lyric": "고민"}
 {"start": "01:21:29", "end": "01:22:79", "delta": 1.5, "section": "Verse 2", "line": 4, "member": ["Vernon"], "lyric": "Guard up, block them, break out"}

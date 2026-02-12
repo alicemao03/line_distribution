@@ -1,0 +1,25 @@
+<!Doctype html>
+<div>
+	<div class="main-body container-fluid mb-3 align-content-center">
+		<div class="text-center my-4">
+			<h1>SVT Line Distribution</h1>
+		</div>
+		<div class="mb-2" id="all-songs-container"></div>
+	</div>
+
+	<script>
+		$(function () {
+			$("#nav-placeholder").load("navbar.html", function () {
+				const store = JSON.parse(localStorage.getItem('data'))
+
+				const song = store['song']
+				console.log("nav bar")
+				$(".navbar").css("color", song['song_art_text_color'])
+					.css("background-image", "linear-gradient(to bottom right, #F7CAC9, #91A8D0)")
+					
+			})
+		});
+	</script>
+
+	<script type="module" src="./js/main.js"></script>
+</div>

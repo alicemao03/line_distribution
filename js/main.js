@@ -1,33 +1,34 @@
-// const memberNames = ["S.Coups", "Jeonghan", "Joshua",
-//     "Jun", "Hoshi", "Wonwoo", "Woozi",
-//     "THE8", "The8", "Mingyu", "Dk",
-//     "Seungkwan", "Vernon", "Dino",
-//     "adlibs", "ALL"]
+const memberNames = ["S. Coups", "Jeonghan", "Joshua",
+    "Jun", "Hoshi", "Wonwoo", "Woozi",
+    "The8", "Mingyu", "DK",
+    "Seungkwan", "Vernon", "Dino",
+    "adlib", "All",
+"Dj khalid", 'Marshmello']
 
-// const colorScale = d3.scaleOrdinal()
-//     .domain(memberNames)
-//     .range([
-//         '#e32636', '#e3268bff', '#df73ff',
-//         '#949397ff', "#ff7423ff", "#975fbfff", "#D6EB6A",
-//         "#3ba042ff", "#3ba042ff", '#14beb0ff', "#87CEEB",
-//         "#ffa941ff", "#313abfff", '#9b6a55ff',
-//         "#d0e4f5", "#fddbdb"
-//     ]);
+const memberColors = [
+    '#e32636', '#e3268bff', '#df73ff',
+    '#949397ff', "#ff7423ff", "#975fbfff", "#D6EB6A",
+    "#3ba042ff", '#14beb0ff', "#87CEEB",
+    "#ffa941ff", "#313abfff", '#9b6a55ff',
+    "#d0e4f5", "#fddbdb",
+    "#1f3345", "#89ac90",
+]
+
+const colorScale = d3.scaleOrdinal()
+    .domain(memberNames)
+    .range(memberColors);
 
 
 const margin = { top: 20, right: 40, bottom: 20, left: 40 };
 
-d3.json('json/meta_data.json').then(function (data) {
-
-    // data = [data]
+var local_store_obj = { song: '' }
+d3.json('json/final_meta_data.json').then(function (data) {
     console.log(data)
 
+    data.forEach(function (data, index) {
+        console.log("CUR ALBUM", data)
 
-    const groupedData = d3.group(data, d => d.albumName)
-    console.log(groupedData)
-    groupedData.forEach((songs, albumName) => {
-        console.log(albumName)
-
+        const albumName = data['album_name']
         const regex = /'([^']+)'/
         const match = albumName.match(regex)
         const shorten_name = match ? match[1] : albumName
@@ -37,24 +38,37 @@ d3.json('json/meta_data.json').then(function (data) {
             .append('div')
             .attr('class', 'album-section mb-5')
 
-        albumSection.append("div")
-            .attr("class", "album-name")
-            .text(shorten_name)
+        const album_div = albumSection.append("div")
+            .attr("class", "album-name-container")
             .attr('id', id)
 
+        album_div.append('div')
+            .attr('class', 'album-cover-img')
+            .append("img")
+            .attr("src", data["cover_art_url"])
+            .attr("alt", albumName + " cover art")
+
+        album_div.append('div')
+            .attr('class', 'album-name')
+            .text(shorten_name)
+
+        const album_description = album_div.append('div')
+            .attr('class', 'album-description')
+        album_description.append('div')
+            .text(data['album_type'])
+
+        album_description.append('div')
+            .text(data['release_date_for_display'])
 
         const container = d3.select('#all-songs-container')
         const name_container = d3.select('#' + id)
-        console.log(container.node().offsetWidth, name_container.node().offsetWidth)
-        const width = container.node().offsetWidth - name_container.node().offsetWidth;
+        const width = container.node().offsetWidth - name_container.node().offsetWidth
         const height = 120 - margin.top - margin.bottom;
-
-        console.log(width)
 
         const songRows = albumSection.append("div")
             .attr("class", 'song-section')
             .selectAll(".song-row")
-            .data(songs)
+            .data(data['tracks'])
             .enter()
             .append("div")
             .attr("class", "text-start mb-5 song-row");
@@ -72,19 +86,28 @@ d3.json('json/meta_data.json').then(function (data) {
         songInfo.append('h2')
             .attr('class', 'song-title')
             .append('a')
-            .attr('href', d => `single_song.html?song=${d.name}`)
+            .attr('href', d => {
+                return `./html/single_song.html?song=${d.english_name.replace("'", '').replace('!',)}`
+            })
             .style('color', 'inherit')
-            .text(d => d.trackName)
+            .text(d => d.english_name)
+            .on('click', (event, d) => {
+                local_store_obj = { song: d, album: data, color_domain: memberNames, color_scale: memberColors };
+                localStorage.setItem('data', JSON.stringify(local_store_obj))
+            });
 
         songInfo.append('p')
             .attr('class', 'album-title')
             .html(d => {
-                return `${d.unit} &#8226; ${d.source}`;
+                // console.log('unit', d.unit)
+                return `${d.unit.join(', ')} &#8226; ${d.synced_lyrics_source}`;
             });
 
         tooltips.append("div")
             .attr("class", "text-start tooltips")
-            .attr("id", d => `tooltip-${d.name.toLowerCase().split(' ').join('-')}`)
+            .attr("id", d => {
+                return `tooltip-${d.norm_name}`
+            })
             .style("width", width)
 
         const svgs = songRows.append("div")
@@ -96,28 +119,27 @@ d3.json('json/meta_data.json').then(function (data) {
             .append("g")
 
         // 3. Loop through songs in this album and draw charts
+
         svgs.each(function (data) {
+            console.log(data)
             const currentSvg = d3.select(this);
-            console.log("CURRENT SONG:", data)
-
-            const memberNames = Object.values(data['color_key']);
-            const memberColors = Object.keys(data['color_key']).map(value => '#' + value)
-
-            const colorScale = d3.scaleOrdinal()
-                .domain(memberNames)
-                .range(memberColors)
+            const merged_lines_data = data.synced_lyrics
+            console.log("CURRENT SONG:", merged_lines_data)
 
             const xScale = d3.scaleLinear()
                 .domain([0, data.duration])
                 .range([0, width])
 
             currentSvg.selectAll("rect")
-                .data(data.syncedLyrics)
+                .data(merged_lines_data)
                 .enter()
                 .append("rect")
                 .attr("class", "lyric-rect")
                 .attr("x", d => xScale(timeToSeconds(d.start)))
-                .attr("width", d => xScale(timeToSeconds(d.end)) - xScale(timeToSeconds(d.start)))
+                .attr("width", d => {
+                    // console.log(d.delta, d.lyric)
+                    return xScale(d.delta)
+                })
                 .attr("y", 0)
                 .attr("height", height)
                 .attr("fill", d => {
@@ -128,7 +150,7 @@ d3.json('json/meta_data.json').then(function (data) {
                     }
                 })
                 .on("mouseover", function (event, d) {
-                    d3.select("#tooltip-" + data.name.toLowerCase().split(' ').join('-'))
+                    d3.select("#tooltip-" + data.norm_name)
                         .style("opacity", 1)
                         .html(`
                         <div class='member-name'>${d.member.join(', ')}</div>
@@ -138,15 +160,10 @@ d3.json('json/meta_data.json').then(function (data) {
                         .style("left", "0 px")
                         .style("top", "0 px");
                 })
-                .on("mouseout", () => d3.select("#tooltip-" + data.name.toLowerCase().split(' ').join('-')).style("opacity", 0));
+                .on("mouseout", () => d3.select("#tooltip-" + data.norm_name).style("opacity", 0));
         })
-    });
-
-
-
-
+    })
 });
-
 
 function timeToSeconds(timeStr) {
     // console.log(timeStr)
@@ -156,7 +173,9 @@ function timeToSeconds(timeStr) {
 }
 
 function getGradientId(members, svg, colorScale) {
-    // console.log(members)
+    if (members.length == 0) {
+        return 'black'
+    }
     const id = "grad-" + members.map(m => m.replaceAll(' ', '')).sort().join('-')
 
     let defs = svg.select("defs");

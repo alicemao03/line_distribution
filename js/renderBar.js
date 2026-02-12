@@ -20,7 +20,7 @@ export function renderBar(svg, svt_line_timing, width, height, margin, color) {
         .selectAll("text")
         .attr("transform", "translate(-10,0)rotate(-45)")
         .style("text-anchor", "end")
-        .style('fill', 'white')
+        .style('fill', 'black')
         .attr("font-size", 14)
 
     var y = d3.scaleLinear()
@@ -35,7 +35,7 @@ export function renderBar(svg, svt_line_timing, width, height, margin, color) {
         );
 
     yAxisGroup.selectAll("text")
-        .style("fill", "white")
+        .style("fill", "black")
         .style("font-size", "16px")
 
     yAxisGroup.selectAll("path")

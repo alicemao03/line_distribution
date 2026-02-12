@@ -1,61 +1,77 @@
 [
-    { "name": "17 CARAT",
+    {
+        "name": "17 CARAT",
         "url": "https://genius.com/albums/Seventeen/17-carat",
-        "album_type": "Mini Album"
+        "album_type": "1st Mini Album"
     },
     {
         "name": "BOYS BE",
         "url": "https://genius.com/albums/Seventeen/Boys-be",
-        "album_type": "EP"
+        "album_type": "2nd Mini Album"
     },
     {
         "name": "Going Seventeen",
         "url": "https://genius.com/albums/Seventeen/Going-seventeen",
-        "album_type": "EP"
+        "album_type": "3rd Mini Album"
     },
     {
         "name": "Al1",
         "url": "https://genius.com/albums/Seventeen/Al1",
-        "album_type": "EP"
+        "album_type": "4th Mini Album"
     },
     {
         "name": "You Make My Day",
         "url": "https://genius.com/albums/Seventeen/You-make-my-day",
-        "album_type": "EP"
+        "album_type": "5th Mini Album"
     },
     {
         "name": "YOU MADE MY DAWN",
         "url": "https://genius.com/albums/Seventeen/You-made-my-dawn",
-        "album_type": "EP"
+        "album_type": "6th Mini Album"
     },
     {
-        
+        "name": "Heng:garæ",
         "url": "https://genius.com/albums/Seventeen/Heng-gar",
-        "album_type": "EP"
+        "album_type": "7th Mini Album"
     },
     {
+        "name": "; [SEMICOLON]",
         "url": "https://genius.com/albums/Seventeen/Semicolon",
         "album_type": "EP"
     },
     {
+        "name": "Your Choice",
         "url": "https://genius.com/albums/Seventeen/Your-choice",
-        "album_type": "EP"
+        "album_type": "8th Mini Album"
     },
     {
+        "name": "Attacca",
         "url": "https://genius.com/albums/Seventeen/Attacca",
-        "album_type": "EP"
+        "album_type": "9th Mini Album"
     },
     {
+        "name": "FML",
         "url": "https://genius.com/albums/Seventeen/Fml",
-        "album_type": "EP"
+        "album_type": "10th Mini Album"
     },
     {
+        "name": "SEVENTEENTH HEAVEN",
         "url": "https://genius.com/albums/Seventeen/Seventeenth-heaven",
+        "album_type": "11th Mini Album"
+    },
+    {
+        "name": "SPILL THE FEELS",
+        "url": "https://genius.com/albums/Seventeen/Spill-the-feels",
+        "album_type": "12th Mini Album"
+    },
+    {
+        "name": "Director's Cut",
+        "url": "https://genius.com/albums/Seventeen/Directors-cut",
         "album_type": "EP"
     },
     {
-        "url": "https://genius.com/albums/Seventeen/Spill-the-feels",
-        "album_type": "EP"
+        "name": "HAPPY BURSTDAY",
+        "url": "https://genius.com/albums/Seventeen/Happy-burstday-explicit-edition",
+        "album_type": "Album"
     }
 ]
-

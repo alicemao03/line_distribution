@@ -284,9 +284,7 @@ NEW UPDATE
 {"start": "00:23:16", "end": "00:25:73", "delta": 2.57, "section": "Chorus", "line": 4, "member": ["All"], "lyric": "Water, water, water, water"}
 {"start": "00:25:73", "end": "00:27:27", "delta": 1.54, "section": "Verse 1", "line": 1, "member": ["Mingyu"], "lyric": "우린 운이 터져 waterfall"}
 {"start": "00:27:27", "end": "00:29:33", "delta": 2.06, "section": "Verse 1", "line": 2, "member": ["Mingyu"], "lyric": "인생은 원래 wonderful All day"}
-{"start": "00:29:33", "end": "00:29:57", "delta": 0.24, "section": "Verse 1", "line": 3, "member": ["Mingyu"], "lyric": "기념일 일일일일"}
-{"start": "00:42:29", "end": "00:45:38", "delta": 3.09, "section": "", "line": "", "member": "", "lyric": "높은 곳은 내게 휴양지"}
-{"start": "00:29:57", "end": "00:32:24", "delta": 2.67, "section": "Verse 1", "line": 4, "member": ["adlib"], "lyric": "nethousand,onehundredandeleven넘쳐빼빼로인기levelup"}
+{"start": "00:29:33", "end": "00:32:24", "delta": 0.24, "section": "Verse 1", "line": 3, "member": ["Mingyu"], "lyric": "기념일 일일일일"}
 {"start": "00:32:24", "end": "00:33:71", "delta": 1.47, "section": "Verse 1", "line": 4, "member": ["Mingyu"], "lyric": "넘쳐 빼빼로 인기 Level up"}
 {"start": "00:33:71", "end": "00:35:47", "delta": 1.76, "section": "Verse 1", "line": 5, "member": ["Mingyu"], "lyric": "Only we can make ’em sweat"}
 {"start": "00:35:47", "end": "00:37:57", "delta": 2.1, "section": "Verse 1", "line": 6, "member": ["Mingyu"], "lyric": "Turn it up, I'll make you hotter"}
@@ -325,6 +323,6 @@ NEW UPDATE
 {"start": "02:18:16", "end": "02:21:26", "delta": 3.1, "section": "Chorus", "line": 6, "member": ["All"], "lyric": "Water, water, water, water"}
 {"start": "02:21:26", "end": "02:24:51", "delta": 3.25, "section": "Chorus", "line": 7, "member": ["All"], "lyric": "Water, water, water, water"}
 {"start": "02:24:51", "end": "02:27:01", "delta": 2.5, "section": "Chorus", "line": 8, "member": ["All"], "lyric": "Water, water, water, water"}
-{"start": "", "end": "", "delta": 0, "section": "Chorus", "line": 9, "member": ["All"], "lyric": "Water, water, water, water, water, water"}
+{"start": "02:27:01", "end": "02:28:61", "delta": 0, "section": "Chorus", "line": 9, "member": ["All"], "lyric": "Water, water, water, water, water, water"}
 
 

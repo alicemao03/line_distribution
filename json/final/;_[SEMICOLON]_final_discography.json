@@ -14,11 +14,7 @@
             "english_name": "Do Re Mi",
             "url": "https://genius.com/Seventeen-do-re-mi-lyrics",
             "duration": 198.0,
-            "featured_artists": [
-                "Seungkwan",
-                "Vernon",
-                "Dino"
-            ],
+            "featured_artists": [],
             "unit": [
                 "Maknae"
             ],
@@ -590,21 +586,21 @@
                     "is_adlib": false
                 },
                 {
-                    "start": "",
-                    "end": "",
-                    "delta": 0,
+                    "start": "00:22:57",
+                    "end": "00:24:57",
+                    "delta": 2.0,
                     "section": "Verse 1",
                     "line": 4,
                     "member": [
                         "Dino"
                     ],
                     "lyric": "\uac16\uace0 \uc2f6\uc740 \uac83 \uac16\uace0 \uc2f6\uc740 \uac83",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
-                    "start": "00:22:57",
+                    "start": "00:24:57",
                     "end": "00:26:55",
-                    "delta": 3.98,
+                    "delta": 1.98,
                     "section": "Verse 1",
                     "line": 5,
                     "member": [
@@ -794,16 +790,16 @@
                     "is_adlib": false
                 },
                 {
-                    "start": "",
-                    "end": "",
-                    "delta": 0,
+                    "start": "01:04:65",
+                    "end": "01:06:95",
+                    "delta": 2.3,
                     "section": "Chorus",
                     "line": 5,
                     "member": [
                         "Seungkwan"
                     ],
                     "lyric": "Piano\uc5d0 \uc549\uc544 do-re-mi",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "01:06:95",
@@ -854,16 +850,16 @@
                     "is_adlib": false
                 },
                 {
-                    "start": "",
-                    "end": "",
-                    "delta": 0,
+                    "start": "01:17:88",
+                    "end": "01:19:68",
+                    "delta": 1.8,
                     "section": "Verse 2",
                     "line": 2,
                     "member": [
                         "Vernon"
                     ],
                     "lyric": "\ub05d\uc5c6\ub294 \ud6c4\ud68c\uc640 \uace0\ubbfc",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "01:19:68",
@@ -1340,7 +1336,7 @@
                         "Vernon"
                     ],
                     "lyric": "Piano\uc5d0 \uc549\uc544 do-re-mi",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "03:03:58",
@@ -1692,22 +1688,28 @@
                     ]
                 }
             ],
-            "norm_name": "\ub3c4\ub808\ubbf8doremi"
+            "main_artists": [
+                "Seungkwan",
+                "Vernon",
+                "Dino"
+            ],
+            "norm_name": "\ub3c4\ub808\ubbf8doremi",
+            "title_with_featured": "\ub3c4\ub808\ubbf8 (Do Re Mi)",
+            "song_art_primary_color": "#bf3f3f",
+            "song_art_secondary_color": "#0c0404",
+            "song_art_text_color": "#fff",
+            "song_art_image_url": "https://images.genius.com/bb2d0bf2143c43ddd3f5243c039e6890.1000x1000x1.png",
+            "album_name": "; [SEMICOLON]",
+            "track_num": 1
         },
         {
             "track_name": "HEY BUDDY",
             "english_name": "HEY BUDDY",
             "url": "https://genius.com/Seventeen-hey-buddy-lyrics",
             "duration": 198.0,
-            "featured_artists": [
-                "The8",
-                "Mingyu",
-                "DK"
-            ],
+            "featured_artists": [],
             "unit": [
-                "DK",
-                "Mingyu",
-                "The8"
+                "97s"
             ],
             "media": [
                 {
@@ -3358,19 +3360,26 @@
                     ]
                 }
             ],
-            "norm_name": "heybuddy"
+            "main_artists": [
+                "The8",
+                "Mingyu",
+                "DK"
+            ],
+            "norm_name": "heybuddy",
+            "title_with_featured": "HEY BUDDY",
+            "song_art_primary_color": "#bf3f3f",
+            "song_art_secondary_color": "#0c0404",
+            "song_art_text_color": "#fff",
+            "song_art_image_url": "https://images.genius.com/bb2d0bf2143c43ddd3f5243c039e6890.1000x1000x1.png",
+            "album_name": "; [SEMICOLON]",
+            "track_num": 2
         },
         {
             "track_name": "\ub9c8\uc74c\uc5d0 \ubd88\uc744 \uc9c0\ud3b4 (Light a Flame)",
             "english_name": "Light a Flame",
             "url": "https://genius.com/Seventeen-light-a-flame-lyrics",
             "duration": 190.0,
-            "featured_artists": [
-                "Jun",
-                "Hoshi",
-                "Wonwoo",
-                "Woozi"
-            ],
+            "featured_artists": [],
             "unit": [
                 "96s"
             ],
@@ -4554,18 +4563,27 @@
                     ]
                 }
             ],
-            "norm_name": "\ub9c8\uc74c\uc5d0\ubd88\uc744\uc9c0\ud3b4lightaflame"
+            "main_artists": [
+                "Jun",
+                "Hoshi",
+                "Wonwoo",
+                "Woozi"
+            ],
+            "norm_name": "\ub9c8\uc74c\uc5d0\ubd88\uc744\uc9c0\ud3b4lightaflame",
+            "title_with_featured": "\ub9c8\uc74c\uc5d0 \ubd88\uc744 \uc9c0\ud3b4 (Light a Flame)",
+            "song_art_primary_color": "#bf3f3f",
+            "song_art_secondary_color": "#0c0404",
+            "song_art_text_color": "#fff",
+            "song_art_image_url": "https://images.genius.com/bb2d0bf2143c43ddd3f5243c039e6890.1000x1000x1.png",
+            "album_name": "; [SEMICOLON]",
+            "track_num": 3
         },
         {
             "track_name": "AH! LOVE",
             "english_name": "AH! LOVE",
             "url": "https://genius.com/Seventeen-ah-love-lyrics",
             "duration": 195.0,
-            "featured_artists": [
-                "S. Coups",
-                "Jeonghan",
-                "Joshua"
-            ],
+            "featured_artists": [],
             "unit": [
                 "95s"
             ],
@@ -5846,29 +5864,26 @@
                     ]
                 }
             ],
-            "norm_name": "ahlove"
+            "main_artists": [
+                "S. Coups",
+                "Jeonghan",
+                "Joshua"
+            ],
+            "norm_name": "ahlove",
+            "title_with_featured": "AH! LOVE",
+            "song_art_primary_color": "#bf3f3f",
+            "song_art_secondary_color": "#0c0404",
+            "song_art_text_color": "#fff",
+            "song_art_image_url": "https://images.genius.com/bb2d0bf2143c43ddd3f5243c039e6890.1000x1000x1.png",
+            "album_name": "; [SEMICOLON]",
+            "track_num": 4
         },
         {
             "track_name": "\uaca8\uc6b0 (All My Love)",
             "english_name": "All My Love",
             "url": "https://genius.com/Seventeen-all-my-love-lyrics",
             "duration": 202.0,
-            "featured_artists": [
-                "S. Coups",
-                "Jeonghan",
-                "Joshua",
-                "Jun",
-                "Hoshi",
-                "Wonwoo",
-                "Woozi",
-                "Woozi",
-                "The8",
-                "Mingyu",
-                "DK",
-                "Seungkwan",
-                "Vernon",
-                "Dino"
-            ],
+            "featured_artists": [],
             "unit": [
                 "OT13"
             ],
@@ -6971,7 +6986,7 @@
                         "Jun"
                     ],
                     "lyric": "Oh-woah-oh-oh-oh",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "03:05:53",
@@ -6995,7 +7010,7 @@
                         "Joshua"
                     ],
                     "lyric": "Oh-oh-oh-oh-oh, no, no, oh-oh",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "03:11:78",
@@ -7028,10 +7043,10 @@
                     "section": "Chorus",
                     "line": 4,
                     "member": [
-                        "SeungKwan"
+                        "Seungkwan"
                     ],
                     "lyric": "Oh-oh",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "03:16:38",
@@ -7414,8 +7429,32 @@
                     ]
                 }
             ],
-            "norm_name": "\uaca8\uc6b0allmylove"
+            "main_artists": [
+                "S. Coups",
+                "Jeonghan",
+                "Joshua",
+                "Jun",
+                "Hoshi",
+                "Wonwoo",
+                "Woozi",
+                "The8",
+                "Mingyu",
+                "DK",
+                "Seungkwan",
+                "Vernon",
+                "Dino"
+            ],
+            "norm_name": "\uaca8\uc6b0allmylove",
+            "title_with_featured": "\uaca8\uc6b0 (All My Love)",
+            "song_art_primary_color": "#bf3f3f",
+            "song_art_secondary_color": "#0c0404",
+            "song_art_text_color": "#fff",
+            "song_art_image_url": "https://images.genius.com/bb2d0bf2143c43ddd3f5243c039e6890.1000x1000x1.png",
+            "album_name": "; [SEMICOLON]",
+            "track_num": 5
         }
     ],
-    "norm_name": "semicolon"
+    "norm_name": "semicolon",
+    "album_type": "EP",
+    "url": "https://genius.com/albums/Seventeen/Semicolon"
 }

@@ -514,11 +514,11 @@ NEW UPDATE
 {"start": "02:09:30", "end": "02:12:51", "delta": 3.21, "section": "Verse 2", "line": 14, "member": ["DK"], "lyric": "이러는 것만 같아 Woah-woah"}
 {"start": "02:12:51", "end": "02:15:92", "delta": 3.41, "section": "Verse 2", "line": 15, "member": ["DK"], "lyric": "널 잃어버릴까 봐"}
 {"start": "02:15:92", "end": "02:22:02", "delta": 6.1, "section": "Verse 2", "line": 16, "member": ["DK"], "lyric": "부디 넌 나 같지 않기를, oh, no, oh-oh"}
-{"start": "02:22:02", "end": "02:26:11", "delta": 4.09, "section": "Chorus", "line": 1, "member": ["Vocal", "Team"], "lyric": "함께라서 웃을 수 있고"}
-{"start": "02:26:11", "end": "02:29:59", "delta": 3.48, "section": "Chorus", "line": 2, "member": ["Vocal", "Team"], "lyric": "너라서 울 수도 있어"}
-{"start": "02:29:59", "end": "02:35:06", "delta": 5.47, "section": "Chorus", "line": 3, "member": ["Vocal", "Team"], "lyric": "그렇게라도 못할 게 어딨어 Yeah, ooh"}
-{"start": "02:35:06", "end": "02:38:83", "delta": 3.77, "section": "Chorus", "line": 4, "member": ["Vocal", "Team"], "lyric": "마지막이란 Ooh, 말 Ooh"}
-{"start": "", "end": "", "delta": 0, "section": "Chorus", "line": 5, "member": ["Vocal", "Team"], "lyric": "하지 마 Ooh, 영원히"}
+{"start": "02:22:02", "end": "02:26:11", "delta": 4.09, "section": "Chorus", "line": 1, "member": ["Jeonghan", "WOOZI", "Joshua", "Seungkwan", "DK"], "lyric": "함께라서 웃을 수 있고"}
+{"start": "02:26:11", "end": "02:29:59", "delta": 3.48, "section": "Chorus", "line": 2, "member": ["Jeonghan", "WOOZI", "Joshua", "Seungkwan", "DK"], "lyric": "너라서 울 수도 있어"}
+{"start": "02:29:59", "end": "02:35:06", "delta": 5.47, "section": "Chorus", "line": 3, "member": ["Jeonghan", "WOOZI", "Joshua", "Seungkwan", "DK"], "lyric": "그렇게라도 못할 게 어딨어 Yeah, ooh"}
+{"start": "02:35:06", "end": "02:38:83", "delta": 3.77, "section": "Chorus", "line": 4, "member": ["Jeonghan", "WOOZI", "Joshua", "Seungkwan", "DK"], "lyric": "마지막이란 Ooh, 말 Ooh"}
+{"start": "02:38:83", "end": "02:42:06", "delta": 0, "section": "Chorus", "line": 5, "member": ["Jeonghan", "WOOZI", "Joshua", "Seungkwan", "DK"], "lyric": "하지 마 Ooh, 영원히"}
 {"start": "02:42:06", "end": "02:45:36", "delta": 3.3, "section": "Chorus", "line": 6, "member": ["Seungkwan", "DK"], "lyric": "내가 너의 곁에"}
 {"start": "02:45:36", "end": "02:48:66", "delta": 3.3, "section": "Chorus", "line": 7, "member": ["Seungkwan", "DK"], "lyric": "남아있을 테니"}
 {"start": "02:51:94", "end": "02:57:71", "delta": 5.77, "section": "Bridge", "line": 1, "member": ["Jun"], "lyric": "우린 정말 무슨 일 있어도"}

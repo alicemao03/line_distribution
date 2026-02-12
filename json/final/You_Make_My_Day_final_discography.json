@@ -1,6 +1,7 @@
 {
     "album_name": "You Make My Day",
     "artist": "SEVENTEEN (\uc138\ube10\ud2f4)",
+    "album_type": "5th Mini Album",
     "cover_art_url": "https://images.genius.com/01142b33306ffad36e1c6ce412e9da00.1000x1000x1.png",
     "release_date_components": {
         "year": 2018,
@@ -14,22 +15,7 @@
             "english_name": "Oh My!",
             "url": "https://genius.com/Seventeen-oh-my-lyrics",
             "duration": 195.0,
-            "featured_artists": [
-                "S. Coups",
-                "Jeonghan",
-                "Joshua",
-                "Jun",
-                "Hoshi",
-                "Wonwoo",
-                "Woozi",
-                "The8",
-                "Mingyu",
-                "DK",
-                "Seungkwan",
-                "Vernon",
-                "Dino",
-                "Dino"
-            ],
+            "featured_artists": [],
             "unit": [
                 "OT13"
             ],
@@ -1446,7 +1432,7 @@
                         "All"
                     ],
                     "lyric": "Da-la, da-la, da-la",
-                    "is_adlib": true
+                    "is_adlib": false
                 },
                 {
                     "start": "03:01:60",
@@ -1470,7 +1456,7 @@
                         "All"
                     ],
                     "lyric": "Da-la",
-                    "is_adlib": true
+                    "is_adlib": false
                 }
             ],
             "synced_lyrics_source": "lrclib",
@@ -1480,9 +1466,9 @@
                     "artists": [
                         {
                             "api_path": "/artists/2930287",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 2930287,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc7a5\uc6b0\uc601 (Jang Woo Young) (doobdoob Studio)",
@@ -1490,9 +1476,9 @@
                         },
                         {
                             "api_path": "/artists/2458392",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 2458392,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\ubbfc\uc131\uc218 (Min Sung Soo)",
@@ -1520,9 +1506,9 @@
                         },
                         {
                             "api_path": "/artists/1024982",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 1024982,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc6b0\ubbfc\uc815 (Woo Min Jeong) (Ingrid Studio)",
@@ -1535,9 +1521,9 @@
                     "artists": [
                         {
                             "api_path": "/artists/2524776",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 2524776,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uae40\ud0dc\uc601 (Kim Tae Yeong)",
@@ -1580,9 +1566,9 @@
                     "artists": [
                         {
                             "api_path": "/artists/2672328",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 2672328,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc774\ub3d9\ud601 (Lee Dong Hyeok)",
@@ -1886,14 +1872,7 @@
                     ]
                 }
             ],
-            "norm_name": "\uc5b4\uca4c\ub098ohmy"
-        },
-        {
-            "track_name": "Holiday",
-            "english_name": "Holiday",
-            "url": "https://genius.com/Seventeen-holiday-lyrics",
-            "duration": 205.0,
-            "featured_artists": [
+            "main_artists": [
                 "S. Coups",
                 "Jeonghan",
                 "Joshua",
@@ -1908,6 +1887,21 @@
                 "Vernon",
                 "Dino"
             ],
+            "norm_name": "\uc5b4\uca4c\ub098ohmy",
+            "title_with_featured": "\uc5b4\uca4c\ub098 (Oh My!)",
+            "song_art_primary_color": "#e19d2e",
+            "song_art_secondary_color": "#f2c23c",
+            "song_art_text_color": "#000",
+            "song_art_image_url": "https://images.genius.com/01142b33306ffad36e1c6ce412e9da00.1000x1000x1.png",
+            "album_name": "You Make My Day",
+            "track_num": 1
+        },
+        {
+            "track_name": "Holiday",
+            "english_name": "Holiday",
+            "url": "https://genius.com/Seventeen-holiday-lyrics",
+            "duration": 205.0,
+            "featured_artists": [],
             "unit": [
                 "OT13"
             ],
@@ -2189,7 +2183,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uc0ac\uc9c4 \uc18d \uc5b4\ub514\ub4e0",
                     "section": "Verse 2",
@@ -2197,7 +2191,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\ub108\ub9cc \uc788\uc74c \uac70\uae30\uc57c",
                     "section": "Verse 2",
@@ -2349,7 +2343,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "Holi-holi, holi",
                     "section": "Post-Chorus",
@@ -2357,7 +2351,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "Holi-holi, holiday",
                     "section": "Post-Chorus",
@@ -3551,9 +3545,9 @@
                         },
                         {
                             "api_path": "/artists/1024982",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 1024982,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc6b0\ubbfc\uc815 (Woo Min Jeong) (Ingrid Studio)",
@@ -3581,9 +3575,9 @@
                     "artists": [
                         {
                             "api_path": "/artists/2672328",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 2672328,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc774\ub3d9\ud601 (Lee Dong Hyeok)",
@@ -3746,9 +3740,9 @@
                         },
                         {
                             "api_path": "/artists/1055356",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 1055356,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "PRISMFILTER",
@@ -3892,20 +3886,36 @@
                     ]
                 }
             ],
-            "norm_name": "holiday"
+            "main_artists": [
+                "S. Coups",
+                "Jeonghan",
+                "Joshua",
+                "Jun",
+                "Hoshi",
+                "Wonwoo",
+                "Woozi",
+                "The8",
+                "Mingyu",
+                "DK",
+                "Seungkwan",
+                "Vernon",
+                "Dino"
+            ],
+            "norm_name": "holiday",
+            "title_with_featured": "Holiday",
+            "song_art_primary_color": "#e19d2e",
+            "song_art_secondary_color": "#f2c23c",
+            "song_art_text_color": "#000",
+            "song_art_image_url": "https://images.genius.com/01142b33306ffad36e1c6ce412e9da00.1000x1000x1.png",
+            "album_name": "You Make My Day",
+            "track_num": 2
         },
         {
             "track_name": "\ub098\uc5d0\uac8c\ub85c \uc640 (Come To Me)",
             "english_name": "Come To Me",
             "url": "https://genius.com/Seventeen-come-to-me-lyrics",
             "duration": 190.0,
-            "featured_artists": [
-                "Jeonghan",
-                "Joshua",
-                "Woozi",
-                "DK",
-                "Seungkwan"
-            ],
+            "featured_artists": [],
             "unit": [
                 "Vocal"
             ],
@@ -5219,26 +5229,30 @@
                     ]
                 }
             ],
-            "norm_name": "\ub098\uc5d0\uac8c\ub85c\uc640cometome"
+            "main_artists": [
+                "Jeonghan",
+                "Joshua",
+                "Woozi",
+                "DK",
+                "Seungkwan"
+            ],
+            "norm_name": "\ub098\uc5d0\uac8c\ub85c\uc640cometome",
+            "title_with_featured": "\ub098\uc5d0\uac8c\ub85c \uc640 (Come To Me)",
+            "song_art_primary_color": "#e19d2e",
+            "song_art_secondary_color": "#f2c23c",
+            "song_art_text_color": "#000",
+            "song_art_image_url": "https://images.genius.com/01142b33306ffad36e1c6ce412e9da00.1000x1000x1.png",
+            "album_name": "You Make My Day",
+            "track_num": 3
         },
         {
             "track_name": "\ubb38\uc6cc\ucee4 (MOONWALKER)",
             "english_name": "MOONWALKER",
             "url": "https://genius.com/Seventeen-moonwalker-lyrics",
             "duration": 180.0,
-            "featured_artists": [
-                "Jun",
-                "Hoshi",
-                "Hoshi",
-                "The8",
-                "Dino",
-                "Dino"
-            ],
+            "featured_artists": [],
             "unit": [
-                "Dino",
-                "Hoshi",
-                "Jun",
-                "The8"
+                "Performance"
             ],
             "media": [
                 {
@@ -5285,7 +5299,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\ud558\ub298\uc5d0\uc11c \ub3d9\uc544\uc904\uc774 \ub0b4\ub824\uc640, oh yeah, yeah, yeah",
                     "section": "Verse 1",
@@ -5293,7 +5307,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uacf5\uae30 \ubc1f\uc544 \uac78\uc5b4 \uc62c\ub77c \uc7a1\uc544 \uc6b0\ub9ac \ub458\uc744 \uc0c1\uc0c1\ud574\ubd10, oh, yeah, yeah",
                     "section": "Verse 1",
@@ -5333,7 +5347,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c",
                     "section": "Pre-Chorus",
@@ -5341,7 +5355,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uc6b0\ub9ac \ub458\ub9cc\uc758 \ub300\uc794\uce58",
                     "section": "Pre-Chorus",
@@ -5349,7 +5363,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "Love me, love me, love me, love me, love me",
                     "section": "Pre-Chorus",
@@ -5464,8 +5478,7 @@
                 },
                 {
                     "member": [
-                        "THE8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc2e0\ub098\uc9c0 \ub0b4 \ub9d8\uc740",
                     "section": "Verse 2",
@@ -5473,8 +5486,7 @@
                 },
                 {
                     "member": [
-                        "THE8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc774\ub959\ud558\ub294 \ube44\ud589\uae30",
                     "section": "Verse 2",
@@ -5482,8 +5494,7 @@
                 },
                 {
                     "member": [
-                        "THE8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc5d4\uc9c4\uc758 \uc18c\ub9ac \ubd80\ub989 \ubd80\ub989",
                     "section": "Verse 2",
@@ -5491,8 +5502,7 @@
                 },
                 {
                     "member": [
-                        "THE8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc544\ubb34\ub3c4 \ub9d0\ub9ac\uc9c0",
                     "section": "Verse 2",
@@ -5500,8 +5510,7 @@
                 },
                 {
                     "member": [
-                        "THE8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\ubabb\ud558\ub294 \ub728\uac70\uc6b4",
                     "section": "Verse 2",
@@ -5509,8 +5518,7 @@
                 },
                 {
                     "member": [
-                        "THE8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\ub0b4 \ub9d8\uc5d0 \ucc28\uac00\uc6b4 \ubb3c \ubb3c",
                     "section": "Verse 2",
@@ -5550,7 +5558,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c \ub9e4\uc77c",
                     "section": "Pre-Chorus",
@@ -5558,7 +5566,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uc6b0\ub9ac \ub458\ub9cc\uc758 \ub300\uc794\uce58",
                     "section": "Pre-Chorus",
@@ -5670,7 +5678,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "Moonwalker, walker",
                     "section": "Bridge",
@@ -5678,7 +5686,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\ub110 \uc704\ud55c \ub098\ub97c",
                     "section": "Bridge",
@@ -6082,8 +6090,7 @@
                     "section": "Verse 2",
                     "line": 4,
                     "member": [
-                        "The8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc2e0\ub098\uc9c0 \ub0b4 \ub9d8\uc740",
                     "is_adlib": false
@@ -6095,8 +6102,7 @@
                     "section": "Verse 2",
                     "line": 5,
                     "member": [
-                        "The8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc774\ub959\ud558\ub294 \ube44\ud589\uae30",
                     "is_adlib": false
@@ -6108,11 +6114,22 @@
                     "section": "Verse 2",
                     "line": 6,
                     "member": [
-                        "The8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc5d4\uc9c4\uc758 \uc18c\ub9ac \ubd80\ub989 \ubd80\ub989",
                     "is_adlib": false
+                },
+                {
+                    "start": "01:29:84",
+                    "end": "01:30:84",
+                    "delta": 1.0,
+                    "section": "Verse 2",
+                    "line": 6,
+                    "member": [
+                        "adlib"
+                    ],
+                    "lyric": "oongbroong",
+                    "is_adlib": true
                 },
                 {
                     "start": "01:30:84",
@@ -6121,8 +6138,7 @@
                     "section": "Verse 2",
                     "line": 7,
                     "member": [
-                        "The8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\uc544\ubb34\ub3c4 \ub9d0\ub9ac\uc9c0",
                     "is_adlib": false
@@ -6134,8 +6150,7 @@
                     "section": "Verse 2",
                     "line": 8,
                     "member": [
-                        "The8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\ubabb\ud558\ub294 \ub728\uac70\uc6b4",
                     "is_adlib": false
@@ -6147,8 +6162,7 @@
                     "section": "Verse 2",
                     "line": 9,
                     "member": [
-                        "The8",
-                        "Dino"
+                        "The8"
                     ],
                     "lyric": "\ub0b4 \ub9d8\uc5d0 \ucc28\uac00\uc6b4 \ubb3c \ubb3c",
                     "is_adlib": false
@@ -6566,9 +6580,9 @@
                     "artists": [
                         {
                             "api_path": "/artists/1024982",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 1024982,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc6b0\ubbfc\uc815 (Woo Min Jeong) (Ingrid Studio)",
@@ -6747,28 +6761,27 @@
                     ]
                 }
             ],
-            "norm_name": "\ubb38\uc6cc\ucee4moonwalker"
+            "main_artists": [
+                "Jun",
+                "Hoshi",
+                "The8",
+                "Dino"
+            ],
+            "norm_name": "\ubb38\uc6cc\ucee4moonwalker",
+            "title_with_featured": "\ubb38\uc6cc\ucee4 (MOONWALKER)",
+            "song_art_primary_color": "#e19d2e",
+            "song_art_secondary_color": "#f2c23c",
+            "song_art_text_color": "#000",
+            "song_art_image_url": "https://images.genius.com/01142b33306ffad36e1c6ce412e9da00.1000x1000x1.png",
+            "album_name": "You Make My Day",
+            "track_num": 4
         },
         {
             "track_name": "\uc6b0\ub9ac\uc758 \uc0c8\ubcbd\uc740 \ub0ae\ubcf4\ub2e4 \ub728\uac81\ub2e4 (Our Dawn Is Hotter Than Day)",
             "english_name": "Our Dawn Is Hotter Than Day",
             "url": "https://genius.com/Seventeen-our-dawn-is-hotter-than-day-lyrics",
             "duration": 212.0,
-            "featured_artists": [
-                "S. Coups",
-                "Jeonghan",
-                "Joshua",
-                "Jun",
-                "Hoshi",
-                "Wonwoo",
-                "Woozi",
-                "The8",
-                "Mingyu",
-                "DK",
-                "Seungkwan",
-                "Vernon",
-                "Dino"
-            ],
+            "featured_artists": [],
             "unit": [
                 "OT13"
             ],
@@ -6967,7 +6980,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "Oh, oh-oh, oh-oh",
                     "section": "Post-Chorus",
@@ -6975,7 +6988,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uadf8\ub550 \uc5b4\ub5a8\uae4c",
                     "section": "Post-Chorus",
@@ -7127,7 +7140,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uc6b0\ub9ac\uc758 \uc0c8\ubcbd\uc740 \ub0ae\ubcf4\ub2e4 \ub728\uac70\uc6cc",
                     "section": "Pre-Chorus",
@@ -7135,7 +7148,7 @@
                 },
                 {
                     "member": [
-                        "THE8"
+                        "The8"
                     ],
                     "lyric": "\uc544\uce68\uc774 \uc62c \ub54c\uae4c\uc9c0",
                     "section": "Pre-Chorus",
@@ -8116,9 +8129,9 @@
                     "artists": [
                         {
                             "api_path": "/artists/1024982",
-                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "id": 1024982,
-                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1769788797",
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1770065261",
                             "is_meme_verified": false,
                             "is_verified": false,
                             "name": "\uc6b0\ubbfc\uc815 (Woo Min Jeong) (Ingrid Studio)",
@@ -8402,9 +8415,31 @@
                     ]
                 }
             ],
-            "norm_name": "\uc6b0\ub9ac\uc758\uc0c8\ubcbd\uc740\ub0ae\ubcf4\ub2e4\ub728\uac81\ub2e4ourdawnishotterthanday"
+            "main_artists": [
+                "S. Coups",
+                "Jeonghan",
+                "Joshua",
+                "Jun",
+                "Hoshi",
+                "Wonwoo",
+                "Woozi",
+                "The8",
+                "Mingyu",
+                "DK",
+                "Seungkwan",
+                "Vernon",
+                "Dino"
+            ],
+            "norm_name": "\uc6b0\ub9ac\uc758\uc0c8\ubcbd\uc740\ub0ae\ubcf4\ub2e4\ub728\uac81\ub2e4ourdawnishotterthanday",
+            "title_with_featured": "\uc6b0\ub9ac\uc758 \uc0c8\ubcbd\uc740 \ub0ae\ubcf4\ub2e4 \ub728\uac81\ub2e4 (Our Dawn Is Hotter Than Day)",
+            "song_art_primary_color": "#e19d2e",
+            "song_art_secondary_color": "#f2c23c",
+            "song_art_text_color": "#000",
+            "song_art_image_url": "https://images.genius.com/01142b33306ffad36e1c6ce412e9da00.1000x1000x1.png",
+            "album_name": "You Make My Day",
+            "track_num": 5
         }
     ],
     "norm_name": "youmakemyday",
-    "album_type": "EP"
+    "url": "https://genius.com/albums/Seventeen/You-make-my-day"
 }
