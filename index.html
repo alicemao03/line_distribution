@@ -22,7 +22,6 @@
 		</div>
 		<div class="mb-2" id="all-songs-container"></div>
 		<!-- <div class="mb-2" id="overview-body"></div> -->
-
 	</div>
 
 	<script src="https://d3js.org/d3.v7.min.js"></script>
@@ -36,7 +35,7 @@
 		$(function () {
 			$("#nav-placeholder").load("../html/navbar.html", function () {
 				const store = JSON.parse(localStorage.getItem('data'))
-
+				console.log('nav' )
 				$(".navbar").css("color", 'black')
 					.css("background-image", 'linear-gradient(to  right, #F7CAC9, #91A8D0)')
 			})
